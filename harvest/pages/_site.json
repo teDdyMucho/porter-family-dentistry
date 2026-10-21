@@ -1,0 +1,2436 @@
+{
+ "header": {
+  "compTitles": [
+   {
+    "id": "ctl00_ctl21_CompTitle1",
+    "cls": "compTitle1Medium",
+    "text": "David L. Porter, D.D.S., P.C."
+   },
+   {
+    "id": "ctl00_ctl21_CompTitle2",
+    "cls": "compTitle2Medium",
+    "text": ""
+   },
+   {
+    "id": "ctl00_ctl21_CompTitle3",
+    "cls": "compTitle3Medium",
+    "text": "We Treat You Like You Are Our Family!"
+   }
+  ],
+  "homeLink": null,
+  "headerImages": [],
+  "menuIcons": [
+   {
+    "id": "ctl00_MainMenu1_hrefPhone",
+    "href": null,
+    "dataIcon": "",
+    "onclick": "phoneClicked(this,0);"
+   },
+   {
+    "id": "ctl00_MainMenu1_hrefAppointment",
+    "href": "https://www.porterfamilydentistry.com/appointment-request/",
+    "dataIcon": ""
+   },
+   {
+    "id": "ctl00_MainMenu1_hrefEmail",
+    "href": "https://www.porterfamilydentistry.com/contact-us/",
+    "dataIcon": ""
+   },
+   {
+    "id": "ctl00_MainMenu1_hrefMap",
+    "href": "http://maps.google.com/?daddr=1112+Indiana+Avenue%2cLa+Porte%2cIndiana+46350",
+    "title": "google maps location",
+    "dataIcon": ""
+   }
+  ],
+  "hiddenPhone": "(219) 362-5205"
+ },
+ "navTree": [
+  {
+   "label": "Welcome",
+   "title": "Welcome",
+   "href": "https://www.porterfamilydentistry.com/"
+  },
+  {
+   "label": "Our Practice",
+   "title": "Our Practice",
+   "href": "https://www.porterfamilydentistry.com/our-practice/",
+   "children": [
+    {
+     "label": "Meet The Team",
+     "title": "Meet The Team",
+     "href": "https://www.porterfamilydentistry.com/our-practice/meet-the-team/"
+    },
+    {
+     "label": "Testimonials",
+     "title": "Testimonials",
+     "href": "https://www.porterfamilydentistry.com/our-practice/testimonials/"
+    }
+   ]
+  },
+  {
+   "label": "Our Services",
+   "title": "Our Services",
+   "href": "https://www.porterfamilydentistry.com/our-services/",
+   "children": [
+    {
+     "label": "Endodontics",
+     "title": "Endodontics",
+     "href": "https://www.porterfamilydentistry.com/our-services/endodontics/",
+     "children": [
+      {
+       "label": "Root Canal Retreatment",
+       "title": "Root Canal Retreatment",
+       "href": "https://www.porterfamilydentistry.com/our-services/endodontics/root-canal-retreatment/"
+      },
+      {
+       "label": "Cracked Tooth",
+       "title": "Cracked Tooth",
+       "href": "https://www.porterfamilydentistry.com/our-services/endodontics/cracked-tooth/"
+      },
+      {
+       "label": "Root Amputation",
+       "title": "Root Amputation",
+       "href": "https://www.porterfamilydentistry.com/our-services/endodontics/root-amputation/"
+      },
+      {
+       "label": "Root Canal Therapy",
+       "title": "Root Canal Therapy",
+       "href": "https://www.porterfamilydentistry.com/our-services/endodontics/root-canal-therapy/"
+      }
+     ]
+    },
+    {
+     "label": "Cleanings & Prevention",
+     "title": "Cleanings & Prevention",
+     "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/",
+     "children": [
+      {
+       "label": "Dental Exams & Cleanings",
+       "title": "Dental Exams & Cleanings",
+       "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-exams-cleanings/"
+      },
+      {
+       "label": "Intraoral Cameras",
+       "title": "Intraoral Cameras",
+       "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/intraoral-cameras/"
+      },
+      {
+       "label": "Simple Tooth Extractions",
+       "title": "Simple Tooth Extractions",
+       "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/simple-tooth-extractions/"
+      },
+      {
+       "label": "Fluoride Treatment",
+       "title": "Fluoride Treatment",
+       "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/fluoride-treatment/"
+      },
+      {
+       "label": "How to Properly Brush & Floss",
+       "title": "How to Properly Brush & Floss",
+       "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/how-to-properly-brush-floss/"
+      },
+      {
+       "label": "Dental X-Rays",
+       "title": "Dental X-Rays",
+       "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-x-rays/"
+      }
+     ]
+    },
+    {
+     "label": "Cosmetic Dentistry",
+     "title": "Cosmetic Dentistry",
+     "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/",
+     "children": [
+      {
+       "label": "Teeth Whitening",
+       "title": "Teeth Whitening",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/teeth-whitening/"
+      },
+      {
+       "label": "Composite Fillings",
+       "title": "Composite Fillings",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/composite-fillings/"
+      },
+      {
+       "label": "NiteWhite ACP Teeth Whitening",
+       "title": "NiteWhite ACP Teeth Whitening",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/nitewhite-acp-teeth-whitening/"
+      },
+      {
+       "label": "Dentures & Partial Dentures",
+       "title": "Dentures & Partial Dentures",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/dentures-partial-dentures/"
+      },
+      {
+       "label": "Porcelain Crowns (Caps)",
+       "title": "Porcelain Crowns (Caps)",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/porcelain-crowns-caps/"
+      },
+      {
+       "label": "Porcelain Fixed Bridges",
+       "title": "Porcelain Fixed Bridges",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/porcelain-fixed-bridges/"
+      }
+     ]
+    },
+    {
+     "label": "Periodontics",
+     "title": "Periodontics",
+     "href": "https://www.porterfamilydentistry.com/our-services/periodontics/",
+     "children": [
+      {
+       "label": "Periodontal Scaling & Root Planing",
+       "title": "Periodontal Scaling & Root Planing",
+       "href": "https://www.porterfamilydentistry.com/our-services/periodontics/periodontal-scaling-root-planing/"
+      },
+      {
+       "label": "Root Amputation",
+       "title": "Root Amputation",
+       "href": "https://www.porterfamilydentistry.com/our-services/periodontics/root-amputation/"
+      },
+      {
+       "label": "Prophylaxis (Teeth Cleaning)",
+       "title": "Prophylaxis (Teeth Cleaning)",
+       "href": "https://www.porterfamilydentistry.com/our-services/periodontics/prophylaxis-teeth-cleaning/"
+      }
+     ]
+    },
+    {
+     "label": "Restorations",
+     "title": "Restorations",
+     "href": "https://www.porterfamilydentistry.com/our-services/restorations/",
+     "children": [
+      {
+       "label": "Composite Fillings",
+       "title": "Composite Fillings",
+       "href": "https://www.porterfamilydentistry.com/our-services/restorations/composite-fillings/"
+      },
+      {
+       "label": "Crowns (Caps)",
+       "title": "Crowns (Caps)",
+       "href": "https://www.porterfamilydentistry.com/our-services/restorations/crowns-caps/"
+      },
+      {
+       "label": "Fixed Bridges",
+       "title": "Fixed Bridges",
+       "href": "https://www.porterfamilydentistry.com/our-services/restorations/fixed-bridges/"
+      },
+      {
+       "label": "Root Canal Therapy",
+       "title": "Root Canal Therapy",
+       "href": "https://www.porterfamilydentistry.com/our-services/restorations/root-canal-therapy/"
+      }
+     ]
+    },
+    {
+     "label": "Dental Anxiety and Fear",
+     "title": "Dental Anxiety and Fear",
+     "href": "https://www.porterfamilydentistry.com/our-services/dental-anxiety-and-fear/"
+    },
+    {
+     "label": "Dental Emergencies",
+     "title": "Dental Emergencies",
+     "href": "https://www.porterfamilydentistry.com/our-services/dental-emergencies/"
+    },
+    {
+     "label": "Prosthodontics",
+     "title": "Prosthodontics",
+     "href": "https://www.porterfamilydentistry.com/our-services/prosthodontics/",
+     "children": [
+      {
+       "label": "Crowns (Caps)",
+       "title": "Crowns (Caps)",
+       "href": "https://www.porterfamilydentistry.com/our-services/prosthodontics/crowns-caps/"
+      },
+      {
+       "label": "Dentures & Partial Dentures",
+       "title": "Dentures & Partial Dentures",
+       "href": "https://www.porterfamilydentistry.com/our-services/prosthodontics/dentures-partial-dentures/"
+      },
+      {
+       "label": "Fixed Bridges",
+       "title": "Fixed Bridges",
+       "href": "https://www.porterfamilydentistry.com/our-services/prosthodontics/fixed-bridges/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Patient Information",
+   "title": "Patient Information",
+   "href": "https://www.porterfamilydentistry.com/patient-information/",
+   "children": [
+    {
+     "label": "Financing",
+     "title": "Financing",
+     "href": "https://www.porterfamilydentistry.com/patient-information/financing/"
+    },
+    {
+     "label": "Dental Videos",
+     "title": "Dental Videos",
+     "href": "https://www.porterfamilydentistry.com/patient-information/dental-videos/"
+    },
+    {
+     "label": "FAQs",
+     "title": "FAQs",
+     "href": "https://www.porterfamilydentistry.com/patient-information/faqs/"
+    }
+   ]
+  },
+  {
+   "label": "Patient Reviews",
+   "title": "Patient Reviews",
+   "href": "https://www.porterfamilydentistry.com/patient-reviews/"
+  },
+  {
+   "label": "Appointment Request",
+   "title": "Appointment Request",
+   "href": "https://www.porterfamilydentistry.com/appointment-request/"
+  },
+  {
+   "label": "Contact Us",
+   "title": "Contact Us",
+   "href": "https://www.porterfamilydentistry.com/contact-us/"
+  }
+ ],
+ "pluginContact": {
+  "present": true,
+  "rendered": true,
+  "heading": "Contact Us",
+  "intro": "We encourage you to contact us with any questions or comments you may have. Please call our office or use the quick contact form below.",
+  "text": "Contact Us\n\nWe encourage you to contact us with any questions or comments you may have. Please call our office or use the quick contact form below."
+ },
+ "pluginContactFields": [
+  {
+   "label": "Name:",
+   "type": "text",
+   "name": "ctl00$QCFormPlaceHolder$QuickContact1$TxtName",
+   "id": "ctl00_QCFormPlaceHolder_QuickContact1_TxtName",
+   "placeholder": "Name:",
+   "required": true,
+   "validators": [
+    {
+     "message": "Please enter a  name!",
+     "kind": null
+    }
+   ],
+   "visibleOnLoad": true
+  },
+  {
+   "label": "Phone:",
+   "type": "tel",
+   "name": "ctl00$QCFormPlaceHolder$QuickContact1$TextPhone",
+   "id": "ctl00_QCFormPlaceHolder_QuickContact1_TextPhone",
+   "placeholder": "Phone:",
+   "required": false,
+   "validators": [
+    {
+     "message": "Email or Phone Required",
+     "kind": "ValidateInputs"
+    }
+   ],
+   "requiredNote": "phone OR email required (at least one)",
+   "visibleOnLoad": true
+  },
+  {
+   "label": "Email:",
+   "type": "email",
+   "name": "ctl00$QCFormPlaceHolder$QuickContact1$TextEmail",
+   "id": "ctl00_QCFormPlaceHolder_QuickContact1_TextEmail",
+   "placeholder": "Email:",
+   "required": false,
+   "validators": [
+    {
+     "message": "Invalid Email Address",
+     "kind": null
+    },
+    {
+     "message": "Email or Phone Required",
+     "kind": "ValidateInputs"
+    }
+   ],
+   "requiredNote": "phone OR email required (at least one)",
+   "visibleOnLoad": true
+  },
+  {
+   "label": "Type your message here: (Messages sent using this form are not considered private.  Avoid sending confidential information via email.)",
+   "type": "textarea",
+   "name": "ctl00$QCFormPlaceHolder$QuickContact1$txtComment",
+   "id": "ctl00_QCFormPlaceHolder_QuickContact1_txtComment",
+   "placeholder": "Type your message here: (Messages sent using this form are not considered private.  Avoid sending confidential information via email.)",
+   "rows": 5,
+   "required": false,
+   "visibleOnLoad": true
+  },
+  {
+   "label": null,
+   "type": "text",
+   "name": "ctl00$QCFormPlaceHolder$QuickContact1$EmailText",
+   "id": "ctl00_QCFormPlaceHolder_QuickContact1_EmailText",
+   "required": false,
+   "visibleOnLoad": false,
+   "honeypot": true
+  },
+  {
+   "label": null,
+   "type": "text",
+   "name": "ctl00$QCFormPlaceHolder$QuickContact1$CaptchaBaseControl1$hurl",
+   "id": "ctl00_QCFormPlaceHolder_QuickContact1_CaptchaBaseControl1_hurl",
+   "required": false,
+   "visibleOnLoad": false,
+   "honeypot": true
+  },
+  {
+   "label": null,
+   "type": "button",
+   "name": "ctl00$QCFormPlaceHolder$QuickContact1$CaptchaBaseControl1$btnSend",
+   "id": "ctl00_QCFormPlaceHolder_QuickContact1_CaptchaBaseControl1_btnSend",
+   "buttonText": "Send",
+   "required": false,
+   "visibleOnLoad": true
+  }
+ ],
+ "pluginTestimonials": {
+  "present": true,
+  "rendered": true,
+  "heading": "Testimonials",
+  "items": [
+   {
+    "quote": "To Dr. Dave and the Staff at David Porter Family Dentistry—\nThank you for making my experience so nice when I got 6 crowns!!!! From the hand cream to the foot massage—I felt so at ease and special. You all went above and beyond. And to Dr. Dave---What a magnificent job. You are so great! Thank you all. I love my teeth!",
+    "source": "JG"
+   },
+   {
+    "quote": "Everyone at Dr. Porter’s office from Dr. David Porter to the receptionists—are friendly and helpful. They are truly concerned about your dental health, listen and respond to your concerns, and don’t give up until issues are resolved, all in a professional, courteous manner. I especially love Cheryl and always joke with her and give her a hard time, just like she gives it back.",
+    "source": "YS"
+   }
+  ],
+  "moreLink": "https://www.porterfamilydentistry.com/our-practice/testimonials/",
+  "moreText": "View More"
+ },
+ "pluginAddress": {
+  "present": true,
+  "rendered": true,
+  "heading": "Office Location",
+  "text": "Office Location\n\nLa Porte\n\n1112 Indiana Avenue\n\nLa Porte, Indiana\n\n46350\n\nMap & Directions\n\nCall: (219) 362-5205",
+  "offices": [
+   {
+    "cityName": "La Porte",
+    "address": "1112 Indiana Avenue",
+    "city": "La Porte, Indiana",
+    "state": "Indiana",
+    "zip": "46350",
+    "phone": "(219) 362-5205",
+    "phoneLabel": "Call: (219) 362-5205",
+    "mapText": "Map & Directions",
+    "mapUrl": "http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1112 Indiana Avenue,La Porte,Indiana,46350",
+    "text": "La Porte\n\n1112 Indiana Avenue\n\nLa Porte, Indiana\n\n46350\n\nMap & Directions\n\nCall: (219) 362-5205"
+   }
+  ],
+  "mapUrl": "http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1112 Indiana Avenue,La Porte,Indiana,46350"
+ },
+ "footer": {
+  "text": "",
+  "links": [
+   {
+    "text": "",
+    "href": "https://www.facebook.com/Porter-Family-Dentistry-889225141168109?_rdr=p",
+    "target": "_blank",
+    "img": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png"
+   },
+   {
+    "text": "",
+    "href": "https://www.google.com/search?ei=9lR1XO_MHubL0PEPpNKXsA8&q=Porter+Family+Dentistry+Indiana&oq=Porter+Family+Dentistry+Indiana&gs_l=psy-ab.3..33i22i29i30l3.11911.25473..27829...0.0..0.147.756.6j2......0....1..gws-wiz.",
+    "target": "_blank",
+    "img": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png"
+   }
+  ],
+  "images": [
+   {
+    "type": "img",
+    "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+    "rawSrc": "//C3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+    "currentSrc": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+    "best": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+    "alt": "",
+    "naturalWidth": 75,
+    "naturalHeight": 75,
+    "renderedWidth": 50,
+    "renderedHeight": 50,
+    "href": "https://www.facebook.com/Porter-Family-Dentistry-889225141168109?_rdr=p",
+    "linkTarget": "_blank",
+    "style": "width: 50px; height: auto; text-align: center; max-width: 100%;"
+   },
+   {
+    "type": "img",
+    "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+    "rawSrc": "//C3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+    "currentSrc": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+    "best": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+    "alt": "",
+    "naturalWidth": 75,
+    "naturalHeight": 75,
+    "renderedWidth": 50,
+    "renderedHeight": 50,
+    "href": "https://www.google.com/search?ei=9lR1XO_MHubL0PEPpNKXsA8&q=Porter+Family+Dentistry+Indiana&oq=Porter+Family+Dentistry+Indiana&gs_l=psy-ab.3..33i22i29i30l3.11911.25473..27829...0.0..0.147.756.6j2......0....1..gws-wiz.",
+    "linkTarget": "_blank",
+    "style": "width: 50px; height: auto; max-width: 100%;"
+   }
+  ]
+ },
+ "favicon": [
+  {
+   "rel": "icon",
+   "href": "https://www.porterfamilydentistry.com/images/icons/tap/0.png",
+   "type": "image/x-icon"
+  },
+  {
+   "rel": "apple-touch-icon",
+   "href": "https://www.porterfamilydentistry.com/images/icons/tap/0.png"
+  },
+  {
+   "rel": "apple-touch-startup-image",
+   "href": "https://www.porterfamilydentistry.com/images/icons/tap/0.png"
+  }
+ ],
+ "fontsLoaded": [
+  {
+   "family": "Glyphicons Halflings",
+   "weight": "normal",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "italic",
+   "status": "loaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "italic",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "300",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "400",
+   "style": "normal",
+   "status": "loaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "600",
+   "style": "normal",
+   "status": "loaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "700",
+   "style": "normal",
+   "status": "loaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Open Sans",
+   "weight": "800",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Montserrat",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Montserrat",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Montserrat",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Montserrat",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Montserrat",
+   "weight": "400",
+   "style": "normal",
+   "status": "loaded"
+  },
+  {
+   "family": "Montserrat",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Montserrat",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Montserrat",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Montserrat",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Montserrat",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "400",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "400",
+   "style": "normal",
+   "status": "loaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "600",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "700",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Source Sans Pro",
+   "weight": "700",
+   "style": "normal",
+   "status": "loaded"
+  },
+  {
+   "family": "FontAwesome",
+   "weight": "normal",
+   "style": "normal",
+   "status": "loaded"
+  },
+  {
+   "family": "VideoJS",
+   "weight": "normal",
+   "style": "normal",
+   "status": "unloaded"
+  }
+ ],
+ "styleSamples": {
+  "body": {
+   "selector": "body",
+   "el": "body.home.page-top",
+   "color": "#333333",
+   "background": "#FFFFFF",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#333333",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "navbar": {
+   "selector": "nav.navbar-default",
+   "el": "nav.navbar-default.navbar-fixed-top",
+   "color": "#FFFFFF",
+   "background": "#FFFFFF (alpha 0.9)",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "400",
+   "lineHeight": "20px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "15px 10px 0px"
+  },
+  "navbarHeader": {
+   "selector": ".navbar-header",
+   "el": "div.navbar-header",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "400",
+   "lineHeight": "20px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "logoTitle1": {
+   "selector": "#pnlheader .compTitle1Medium, #pnlheader [id$=CompTitle1]",
+   "el": "div#ctl00_ctl21_CompTitle1.compTitle1Medium",
+   "color": "#5A3944",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Source Sans Pro\", sans-serif",
+   "fontSize": "27px",
+   "fontWeight": "700",
+   "textTransform": "uppercase",
+   "letterSpacing": "-1px",
+   "lineHeight": "30px",
+   "borderColor": "#5A3944",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "logoTitle2": {
+   "selector": "#pnlheader [id$=CompTitle2]",
+   "el": "div#ctl00_ctl21_CompTitle2.compTitle2Medium",
+   "color": "#5A3944",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Source Sans Pro\", sans-serif",
+   "fontSize": "27px",
+   "fontWeight": "700",
+   "textTransform": "uppercase",
+   "letterSpacing": "-1px",
+   "lineHeight": "30px",
+   "borderColor": "#5A3944",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "tagline": {
+   "selector": "#pnlheader [id$=CompTitle3]",
+   "el": "div#ctl00_ctl21_CompTitle3.compTitle3Medium",
+   "color": "#8A6E78",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Source Sans Pro\", sans-serif",
+   "fontSize": "23.4px",
+   "fontWeight": "300",
+   "letterSpacing": "-1px",
+   "lineHeight": "30px",
+   "borderColor": "#8A6E78",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "navTopLink": {
+   "selector": "#main-menu > li > a",
+   "el": "a#ctl00_superfishmenu_MenuRepeater_ctl01_atag",
+   "color": "#4A313A",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "400",
+   "textTransform": "uppercase",
+   "letterSpacing": "2.8px",
+   "lineHeight": "4px",
+   "borderColor": "#4A313A",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "13px 18px"
+  },
+  "navSubLink": {
+   "selector": "#main-menu ul a",
+   "el": "a#ctl00_superfishmenu_MenuRepeater_ctl02_ctl00_ctl01_atag",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "400",
+   "textTransform": "uppercase",
+   "letterSpacing": "2.8px",
+   "lineHeight": "17px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "13px 18px"
+  },
+  "navSubMenu": {
+   "selector": "#main-menu ul",
+   "el": "ul#sm-17926144923860999-1",
+   "color": "#FFFFFF",
+   "background": "#543641",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "400",
+   "lineHeight": "normal",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "menuIcon": {
+   "selector": ".menu-icons a",
+   "el": "a#ctl00_MainMenu1_hrefPhone.icon",
+   "color": "#86606C",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "400",
+   "lineHeight": "20px",
+   "borderColor": "#86606C",
+   "borderWidth": "0px",
+   "borderRadius": "3px",
+   "padding": "0px"
+  },
+  "heroLeadIn": {
+   "selector": ".intro-lead-in",
+   "el": "div.intro-lead-in",
+   "color": "#323232 (alpha 0.9)",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Droid Serif\", serif",
+   "fontSize": "30px",
+   "fontWeight": "400",
+   "lineHeight": "40px",
+   "borderColor": "#323232 (alpha 0.9)",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "heroHeading": {
+   "selector": ".intro-heading",
+   "el": "div.intro-heading",
+   "color": "#323232 (alpha 0.9)",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Crimson Text\", serif",
+   "fontSize": "80px",
+   "fontWeight": "400",
+   "textTransform": "uppercase",
+   "lineHeight": "80px",
+   "borderColor": "#323232 (alpha 0.9)",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "heroSeparator": {
+   "selector": ".seperator1",
+   "el": "div.seperator1",
+   "color": "#323232 (alpha 0.9)",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#323232 (alpha 0.9)",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "heroPhoneBtn": {
+   "selector": "#myCarousel .phone a",
+   "el": "a#ctl00_ctl22_TelHyperlink.btn.phonelink",
+   "color": "#FFFFFF",
+   "background": "#735660",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "18px",
+   "fontWeight": "700",
+   "textTransform": "uppercase",
+   "lineHeight": "25.7143px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "50px",
+   "padding": "16px 40px"
+  },
+  "contentSection": {
+   "selector": "section#content",
+   "el": "section#content.content.m-padding",
+   "color": "#5D5050",
+   "background": "#000000 (alpha 0)",
+   "backgroundImage": "url(\"https://styles.prosites.com/litesite/2283/images/cover-content.jpg\")",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#5D5050",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "100px 0px"
+  },
+  "sectionHeading": {
+   "selector": "section#content h2.section-heading",
+   "el": "h2.section-heading",
+   "color": "#735660",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "35px",
+   "fontWeight": "500",
+   "lineHeight": "38.5px",
+   "borderColor": "#735660",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "contentP": {
+   "selector": "section#content p",
+   "el": "p",
+   "color": "#5D5050",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "24px",
+   "borderColor": "#5D5050",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "contentLink": {
+   "selector": "section#content p a, section#content li a",
+   "el": "a",
+   "color": "#5A3944",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "700",
+   "lineHeight": "22.8571px",
+   "borderColor": "#5A3944",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "contentLi": {
+   "selector": "section#content li",
+   "el": "li",
+   "color": "#5D5050",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#5D5050",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "contentStrong": {
+   "selector": "section#content strong",
+   "el": "strong",
+   "color": "#5D5050",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "700",
+   "lineHeight": "22.8571px",
+   "borderColor": "#5D5050",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "contactSection": {
+   "selector": "section#form",
+   "el": "section#form.contact-plugin",
+   "color": "#818181",
+   "background": "#000000 (alpha 0)",
+   "backgroundImage": "url(\"https://styles.prosites.com/litesite/2283/images/content-bg.png\")",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#818181",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "contactHeading": {
+   "selector": "section#form h2",
+   "el": "h2.section-heading",
+   "color": "#735660",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "35px",
+   "fontWeight": "400",
+   "lineHeight": "38.5px",
+   "borderColor": "#735660",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "contactInput": {
+   "selector": "section#form input[type=text]",
+   "el": "input#ctl00_QCFormPlaceHolder_QuickContact1_TxtName",
+   "color": "#000000 (alpha 0.7)",
+   "background": "#FFFFFF",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#000000 (alpha 0)",
+   "borderWidth": "1px",
+   "borderRadius": "4px",
+   "padding": "12px"
+  },
+  "contactButton": {
+   "selector": "section#form input[type=button], section#form .Button",
+   "el": "input#ctl00_QCFormPlaceHolder_QuickContact1_CaptchaBaseControl1_btnSend.Button",
+   "color": "#FFFFFF",
+   "background": "#735660",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "700",
+   "textTransform": "uppercase",
+   "lineHeight": "22.8571px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "50px",
+   "padding": "16px 60px"
+  },
+  "testimonialsSection": {
+   "selector": "section#testiomnials",
+   "el": "section#testiomnials.testimonials-plugin",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "backgroundImage": "url(\"https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg\")",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "testimonialsHeading": {
+   "selector": "section#testiomnials h2",
+   "el": "h2.section-heading",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "35px",
+   "fontWeight": "500",
+   "lineHeight": "38.5px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "testimonialQuote": {
+   "selector": "section#testiomnials blockquote",
+   "el": "blockquote",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "19px",
+   "fontWeight": "400",
+   "fontStyle": "italic",
+   "lineHeight": "27.1429px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "testimonialSource": {
+   "selector": "section#testiomnials .source",
+   "el": "p.source",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "700",
+   "lineHeight": "24px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "20px 0px 0px"
+  },
+  "viewMoreBtn": {
+   "selector": "a.viewmore",
+   "el": "a#ctl00_Testimonials1_TestimonialPageLink.btn.viewmore",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "700",
+   "textTransform": "uppercase",
+   "lineHeight": "20px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "1px",
+   "borderRadius": "50px",
+   "padding": "16px 40px"
+  },
+  "addressSection": {
+   "selector": "section#address",
+   "el": "section#address.address-plugin.wow.fadeIn",
+   "color": "#333333",
+   "background": "#000000 (alpha 0)",
+   "backgroundImage": "linear-gradient(rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.45)), url(\"https://styles.prosites.com/litesite/2283/images/content-bg.png\")",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#333333",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "addressHeading": {
+   "selector": "section#address h2",
+   "el": "h2.section-heading",
+   "color": "#735660",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "35px",
+   "fontWeight": "500",
+   "lineHeight": "38.5px",
+   "borderColor": "#735660",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px 0px 10px"
+  },
+  "addressCity": {
+   "selector": ".adcityname",
+   "el": "li.adcityname",
+   "color": "#333333",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "19.2px",
+   "fontWeight": "400",
+   "lineHeight": "15px",
+   "borderColor": "#333333",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "addressText": {
+   "selector": "section#address li",
+   "el": "li.adcityname",
+   "color": "#333333",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "19.2px",
+   "fontWeight": "400",
+   "lineHeight": "15px",
+   "borderColor": "#333333",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "addressMapLink": {
+   "selector": "section#address a",
+   "el": "a#ctl00_AddressPlaceHolder_QuickContactAddress_OfficeRepeater_ctl00_DrivingDirectionsBtn.mapicon.admap",
+   "color": "#7A5864",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "18.24px",
+   "fontWeight": "700",
+   "textTransform": "uppercase",
+   "lineHeight": "15px",
+   "borderColor": "#7A5864",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "2px 10px 0px 0px"
+  },
+  "footer": {
+   "selector": "section#footer",
+   "el": "section#footer.footer.sm-padding",
+   "color": "#735660",
+   "background": "#FFFFFF",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#735660",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "30px 0px"
+  },
+  "footerText": {
+   "selector": "section#footer p",
+   "el": "p.devby",
+   "color": "#735660",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "14.4px",
+   "fontWeight": "400",
+   "lineHeight": "21.6px",
+   "borderColor": "#735660",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "btn": {
+   "selector": ".btn",
+   "el": "a#ctl00_ctl22_TelHyperlink.btn.phonelink",
+   "color": "#FFFFFF",
+   "background": "#735660",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "18px",
+   "fontWeight": "700",
+   "textTransform": "uppercase",
+   "lineHeight": "25.7143px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "50px",
+   "padding": "16px 40px"
+  },
+  "adaButton": {
+   "selector": "#ADAButton",
+   "el": "a#ADAButton.bg-primary",
+   "color": "#FFFFFF",
+   "background": "#003D68",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "50%",
+   "boxShadow": "rgba(0, 0, 0, 0.15) 0px 4px 15px 0px",
+   "padding": "3px"
+  },
+  "scrollTop": {
+   "selector": ".scroll-top-inner",
+   "el": "span.scroll-top-inner",
+   "color": "#FAFAFA",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "40px",
+   "fontWeight": "400",
+   "lineHeight": "47px",
+   "borderColor": "#FAFAFA",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  }
+ },
+ "adaWidget": "Fixed bottom-left round button (background rgb(0,61,104) = #003D68) linking to /ada.aspx \"Accessibility Mode\". Not crawled: following it switches the session into the accessibility template.",
+ "phoneBar": [
+  {
+   "text": "Call: (219) 362-5205",
+   "links": [
+    "tel:(219) 362-5205"
+   ]
+  }
+ ],
+ "styleSamplesInterior": {
+  "body": {
+   "selector": "body",
+   "el": "body.interior.page-top",
+   "color": "#333333",
+   "background": "#FFFFFF",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#333333",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "navbar": {
+   "selector": "nav.navbar-default",
+   "el": "nav.navbar-default.navbar-fixed-top",
+   "color": "#FFFFFF",
+   "background": "#FFFFFF (alpha 0.9)",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "400",
+   "lineHeight": "20px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "15px 10px 0px"
+  },
+  "navbarHeader": {
+   "selector": ".navbar-header",
+   "el": "div.navbar-header",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "400",
+   "lineHeight": "20px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "logoTitle1": {
+   "selector": "#pnlheader .compTitle1Medium, #pnlheader [id$=CompTitle1]",
+   "el": "div#ctl00_ctl21_CompTitle1.compTitle1Medium",
+   "color": "#5A3944",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Source Sans Pro\", sans-serif",
+   "fontSize": "27px",
+   "fontWeight": "700",
+   "textTransform": "uppercase",
+   "letterSpacing": "-1px",
+   "lineHeight": "30px",
+   "borderColor": "#5A3944",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "logoTitle2": {
+   "selector": "#pnlheader [id$=CompTitle2]",
+   "el": "div#ctl00_ctl21_CompTitle2.compTitle2Medium",
+   "color": "#5A3944",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Source Sans Pro\", sans-serif",
+   "fontSize": "27px",
+   "fontWeight": "700",
+   "textTransform": "uppercase",
+   "letterSpacing": "-1px",
+   "lineHeight": "30px",
+   "borderColor": "#5A3944",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "tagline": {
+   "selector": "#pnlheader [id$=CompTitle3]",
+   "el": "div#ctl00_ctl21_CompTitle3.compTitle3Medium",
+   "color": "#8A6E78",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Source Sans Pro\", sans-serif",
+   "fontSize": "23.4px",
+   "fontWeight": "300",
+   "letterSpacing": "-1px",
+   "lineHeight": "30px",
+   "borderColor": "#8A6E78",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "navTopLink": {
+   "selector": "#main-menu > li > a",
+   "el": "a#ctl00_superfishmenu_MenuRepeater_ctl01_atag",
+   "color": "#4A313A",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "400",
+   "textTransform": "uppercase",
+   "letterSpacing": "2.8px",
+   "lineHeight": "4px",
+   "borderColor": "#4A313A",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "13px 18px"
+  },
+  "navSubLink": {
+   "selector": "#main-menu ul a",
+   "el": "a#ctl00_superfishmenu_MenuRepeater_ctl02_ctl00_ctl01_atag",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "400",
+   "textTransform": "uppercase",
+   "letterSpacing": "2.8px",
+   "lineHeight": "17px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "13px 18px"
+  },
+  "navSubMenu": {
+   "selector": "#main-menu ul",
+   "el": "ul#sm-17926145044212693-1",
+   "color": "#FFFFFF",
+   "background": "#543641",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "400",
+   "lineHeight": "normal",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "menuIcon": {
+   "selector": ".menu-icons a",
+   "el": "a#ctl00_MainMenu1_hrefPhone.icon",
+   "color": "#86606C",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "400",
+   "lineHeight": "20px",
+   "borderColor": "#86606C",
+   "borderWidth": "0px",
+   "borderRadius": "3px",
+   "padding": "0px"
+  },
+  "banner": {
+   "selector": "header .banner",
+   "el": "div.banner",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "gradientOverlay": {
+   "selector": ".gradient-overlay",
+   "el": "div.gradient-overlay",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "backgroundImage": "linear-gradient(rgb(255, 255, 255) 10%, rgba(255, 255, 255, 0) 25%)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "phoneBar": {
+   "selector": "#aspnetForm > .phone",
+   "el": "div.phone",
+   "color": "#FFFFFF",
+   "background": "#735660",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "22px",
+   "fontWeight": "400",
+   "lineHeight": "31.4286px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "phoneBarLink": {
+   "selector": "#aspnetForm > .phone a",
+   "el": "a#ctl00_ctl22_TelHyperlink",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "22px",
+   "fontWeight": "400",
+   "lineHeight": "31.4286px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "contentSection": {
+   "selector": "section#content",
+   "el": "section#content.content.m-padding",
+   "color": "#5D5050",
+   "background": "#000000 (alpha 0)",
+   "backgroundImage": "url(\"https://styles.prosites.com/litesite/2283/images/cover-content.jpg\")",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#5D5050",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "100px 0px"
+  },
+  "sectionHeading": {
+   "selector": "section#content h2.section-heading",
+   "el": "h2.section-heading",
+   "color": "#735660",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "35px",
+   "fontWeight": "500",
+   "lineHeight": "38.5px",
+   "borderColor": "#735660",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "contentP": {
+   "selector": "section#content p",
+   "el": "p",
+   "color": "#5D5050",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "24px",
+   "borderColor": "#5D5050",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "contentLink": {
+   "selector": "section#content p a, section#content li a",
+   "el": "a",
+   "color": "#5A3944",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "24px",
+   "borderColor": "#5A3944",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "contentStrong": {
+   "selector": "section#content strong",
+   "el": "strong",
+   "color": "#5D5050",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "700",
+   "lineHeight": "24px",
+   "borderColor": "#5D5050",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "contactSection": {
+   "selector": "section#form",
+   "el": "section#form.contact-plugin",
+   "color": "#818181",
+   "background": "#000000 (alpha 0)",
+   "backgroundImage": "url(\"https://styles.prosites.com/litesite/2283/images/content-bg.png\")",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#818181",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "contactHeading": {
+   "selector": "section#form h2",
+   "el": "h2.section-heading",
+   "color": "#735660",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "35px",
+   "fontWeight": "400",
+   "lineHeight": "38.5px",
+   "borderColor": "#735660",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "contactInput": {
+   "selector": "section#form input[type=text]",
+   "el": "input#ctl00_QCFormPlaceHolder_QuickContact1_TxtName",
+   "color": "#000000 (alpha 0.7)",
+   "background": "#FFFFFF",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#000000 (alpha 0)",
+   "borderWidth": "1px",
+   "borderRadius": "4px",
+   "padding": "12px"
+  },
+  "contactButton": {
+   "selector": "section#form input[type=button], section#form .Button",
+   "el": "input#ctl00_QCFormPlaceHolder_QuickContact1_CaptchaBaseControl1_btnSend.Button",
+   "color": "#FFFFFF",
+   "background": "#735660",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "700",
+   "textTransform": "uppercase",
+   "lineHeight": "22.8571px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "50px",
+   "padding": "16px 60px"
+  },
+  "testimonialsSection": {
+   "selector": "section#testiomnials",
+   "el": "section#testiomnials.testimonials-plugin",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "backgroundImage": "url(\"https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg\")",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "testimonialsHeading": {
+   "selector": "section#testiomnials h2",
+   "el": "h2.section-heading",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "35px",
+   "fontWeight": "500",
+   "lineHeight": "38.5px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "testimonialQuote": {
+   "selector": "section#testiomnials blockquote",
+   "el": "blockquote",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "19px",
+   "fontWeight": "400",
+   "fontStyle": "italic",
+   "lineHeight": "27.1429px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "testimonialSource": {
+   "selector": "section#testiomnials .source",
+   "el": "p.source",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "700",
+   "lineHeight": "24px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "20px 0px 0px"
+  },
+  "viewMoreBtn": {
+   "selector": "a.viewmore",
+   "el": "a#ctl00_Testimonials1_TestimonialPageLink.btn.viewmore",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "700",
+   "textTransform": "uppercase",
+   "lineHeight": "20px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "1px",
+   "borderRadius": "50px",
+   "padding": "16px 40px"
+  },
+  "addressSection": {
+   "selector": "section#address",
+   "el": "section#address.address-plugin.wow.fadeIn",
+   "color": "#333333",
+   "background": "#000000 (alpha 0)",
+   "backgroundImage": "linear-gradient(rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.45)), url(\"https://styles.prosites.com/litesite/2283/images/content-bg.png\")",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#333333",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "addressHeading": {
+   "selector": "section#address h2",
+   "el": "h2.section-heading",
+   "color": "#735660",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "Montserrat, sans-serif",
+   "fontSize": "35px",
+   "fontWeight": "500",
+   "lineHeight": "38.5px",
+   "borderColor": "#735660",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px 0px 10px"
+  },
+  "addressCity": {
+   "selector": ".adcityname",
+   "el": "li.adcityname",
+   "color": "#333333",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "19.2px",
+   "fontWeight": "400",
+   "lineHeight": "15px",
+   "borderColor": "#333333",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "addressText": {
+   "selector": "section#address li",
+   "el": "li.adcityname",
+   "color": "#333333",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "19.2px",
+   "fontWeight": "400",
+   "lineHeight": "15px",
+   "borderColor": "#333333",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "addressMapLink": {
+   "selector": "section#address a",
+   "el": "a#ctl00_AddressPlaceHolder_QuickContactAddress_OfficeRepeater_ctl00_DrivingDirectionsBtn.mapicon.admap",
+   "color": "#7A5864",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "18.24px",
+   "fontWeight": "700",
+   "textTransform": "uppercase",
+   "lineHeight": "15px",
+   "borderColor": "#7A5864",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "2px 10px 0px 0px"
+  },
+  "footer": {
+   "selector": "section#footer",
+   "el": "section#footer.footer.sm-padding",
+   "color": "#735660",
+   "background": "#FFFFFF",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#735660",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "30px 0px"
+  },
+  "footerText": {
+   "selector": "section#footer p",
+   "el": "p.devby",
+   "color": "#735660",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "14.4px",
+   "fontWeight": "400",
+   "lineHeight": "21.6px",
+   "borderColor": "#735660",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "btn": {
+   "selector": ".btn",
+   "el": "a#ctl00_Testimonials1_TestimonialPageLink.btn.viewmore",
+   "color": "#FFFFFF",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "14px",
+   "fontWeight": "700",
+   "textTransform": "uppercase",
+   "lineHeight": "20px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "1px",
+   "borderRadius": "50px",
+   "padding": "16px 40px"
+  },
+  "adaButton": {
+   "selector": "#ADAButton",
+   "el": "a#ADAButton.bg-primary",
+   "color": "#FFFFFF",
+   "background": "#003D68",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "16px",
+   "fontWeight": "400",
+   "lineHeight": "22.8571px",
+   "borderColor": "#FFFFFF",
+   "borderWidth": "0px",
+   "borderRadius": "50%",
+   "boxShadow": "rgba(0, 0, 0, 0.15) 0px 4px 15px 0px",
+   "padding": "3px"
+  },
+  "scrollTop": {
+   "selector": ".scroll-top-inner",
+   "el": "span.scroll-top-inner",
+   "color": "#FAFAFA",
+   "background": "#000000 (alpha 0)",
+   "fontFamily": "\"Open Sans\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontSize": "40px",
+   "fontWeight": "400",
+   "lineHeight": "47px",
+   "borderColor": "#FAFAFA",
+   "borderWidth": "0px",
+   "borderRadius": "0px",
+   "padding": "0px"
+  }
+ },
+ "interiorPageExample": "patient-information"
+}

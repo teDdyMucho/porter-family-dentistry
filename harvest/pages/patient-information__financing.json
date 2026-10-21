@@ -1,0 +1,339 @@
+{
+ "slug": "patient-information__financing",
+ "url": "https://www.porterfamilydentistry.com/patient-information/financing/",
+ "finalUrl": "https://www.porterfamilydentistry.com/patient-information/financing/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/patient-information/Financing.aspx",
+  "https://www.porterfamilydentistry.com/patient-information/financing/"
+ ],
+ "redirects": [
+  [
+   "301 https://www.porterfamilydentistry.com/patient-information/Financing.aspx",
+   "200 https://www.porterfamilydentistry.com/patient-information/financing/"
+  ]
+ ],
+ "title": "David L. Porter, D.D.S., P.C. - Financing",
+ "metaDescription": "Welcome to our Financing page. Contact Porter Family Dentistry today at (219) 362-5205 or visit our office servicing La Porte, Indiana",
+ "canonical": "https://www.porterfamilydentistry.com/patient-information/financing/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Financing",
+ "nav": [
+  {
+   "label": "Financing",
+   "parents": [
+    "Patient Information"
+   ],
+   "menuPath": "Patient Information > Financing"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/patient-information/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner4.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    0,
+    0
+   ],
+   "hidden": true,
+   "localFile": "images/banner4.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Financing",
+   "hidden": true,
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "Financing with"
+  },
+  {
+   "type": "img",
+   "src": "https://content.prosites.com/images/carecredit/care-credit.png",
+   "alt": "care credit",
+   "width": 300,
+   "height": 123,
+   "renderedSize": [
+    300,
+    123
+   ],
+   "localFile": "images/badge_carecredit-logo-tagline.png"
+  },
+  {
+   "type": "hr"
+  },
+  {
+   "type": "p",
+   "text": "The convenient healthcare financing solution."
+  },
+  {
+   "type": "img",
+   "src": "https://content.prosites.com/images/carecredit/carecredit_button_applynow_350x213_g_v1.png",
+   "alt": "",
+   "width": 350,
+   "height": 213,
+   "renderedSize": [
+    320,
+    195
+   ],
+   "href": "https://www.carecredit.com/go/GCG545/",
+   "localFile": "images/badge_carecredit_apply-now-button.png"
+  },
+  {
+   "type": "iframe",
+   "tag": "iframe",
+   "src": "https://www.carecredit.com/providercenter/assets/views/resourcescenter/promote/assetlistings/getAsset-calculator.php?size=326x232&color=00ac9d",
+   "width": "316",
+   "height": "232",
+   "renderedSize": [
+    352,
+    248
+   ]
+  },
+  {
+   "type": "img",
+   "src": "https://content.prosites.com/images/carecredit/PayBill.jpg",
+   "alt": "",
+   "width": 350,
+   "height": 259,
+   "renderedSize": [
+    320,
+    237
+   ],
+   "href": "https://www.carecredit.com/Pay/GCG545/",
+   "localFile": "images/badge_carecredit_pay-bill-button.jpg"
+  },
+  {
+   "type": "h2",
+   "text": "CareCredit healthcare credit card for dental procedure financing."
+  },
+  {
+   "type": "p",
+   "text": "We are pleased to accept the CareCredit healthcare, credit card. CareCredit lets you say \"Yes\" to recommended surgical and non-surgical dental procedures like crowns, oral surgery or even a general checkup, and pay for them in convenient monthly payments that fit your financial situation."
+  },
+  {
+   "type": "p",
+   "text": "CareCredit is a credit card that helps you pay for treatments and procedures for you or your family that may not be covered by insurance. With special financing options,* you can use your CareCredit card again and again for your dental needs, as well as at thousands of other healthcare providers, including optometrists, veterinarians, ophthalmologists and hearing specialists.",
+   "md": "CareCredit is a credit card that helps you pay for treatments and procedures for you or your family that may not be covered by insurance. With special financing options,\\* you can use your CareCredit card again and again for your dental needs, as well as at thousands of other healthcare providers, including optometrists, veterinarians, ophthalmologists and hearing specialists."
+  },
+  {
+   "type": "p",
+   "text": "It's free and easy to apply and you'll receive a decision immediately. If you're approved, you can schedule your procedures even before you receive your card. With more than 21 million accounts opened since CareCredit began nearly 30 years ago, they are the trusted source for healthcare credit cards."
+  },
+  {
+   "type": "p",
+   "text": "Learn more by visiting www.carecredit.com or contacting our office. Ready to apply? Apply online for your CareCredit healthcare credit card today.",
+   "md": "Learn more by visiting [www.carecredit.com](https://www.carecredit.com/) or contacting our office. Ready to apply? Apply online for your CareCredit healthcare credit card today.",
+   "links": [
+    {
+     "text": "www.carecredit.com",
+     "href": "https://www.carecredit.com/",
+     "target": "_blank"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "You'll be smiling brighter in no time! Apply Now",
+   "md": "You'll be smiling brighter in no time! [Apply Now](https://www.carecredit.com/go/GCG545/)",
+   "links": [
+    {
+     "text": "Apply Now",
+     "href": "https://www.carecredit.com/go/GCG545/",
+     "target": "_blank"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "*Subject to credit approval. Minimum monthly payments required. Visit www.carecredit.com for details.",
+   "md": "\\*Subject to credit approval. Minimum monthly payments required. Visit [www.carecredit.com](https://www.carecredit.com/) for details.",
+   "links": [
+    {
+     "text": "www.carecredit.com",
+     "href": "https://www.carecredit.com/",
+     "target": "_blank"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Note: Collection of patient information by CareCredit through this CareCredit Services Tab is governed by CareCredit in the CareCredit privacy and data collection practices of CareCredit and are made available to patients by CareCredit and NOT by the privacy policies contained on this Practice’s website."
+  }
+ ],
+ "wordCount": 254,
+ "contentHash": "bdf7b03273eb",
+ "media": [
+  {
+   "type": "video",
+   "tag": "video",
+   "src": "https://content.prosites.com/images/carecredit/bb_10202017_GEC1806_Dental.mp4",
+   "sources": [
+    {
+     "src": "https://content.prosites.com/images/carecredit/bb_10202017_GEC1806_Dental.mp4",
+     "type": "video/mp4"
+    }
+   ],
+   "tracks": [
+    {
+     "src": "https://www.porterfamilydentistry.com/Content/Videos/CareCreditCC.vtt",
+     "kind": "captions",
+     "label": "English"
+    }
+   ],
+   "renderedSize": [
+    0,
+    0
+   ],
+   "hidden": true,
+   "area": "other"
+  },
+  {
+   "type": "iframe",
+   "tag": "iframe",
+   "src": "https://www.carecredit.com/providercenter/assets/views/resourcescenter/promote/assetlistings/getAsset-calculator.php?size=326x232&color=00ac9d",
+   "width": "316",
+   "height": "232",
+   "renderedSize": [
+    352,
+    248
+   ],
+   "area": "section-carecredit-financing-page"
+  }
+ ],
+ "iframesText": [
+  {
+   "url": "https://www.carecredit.com/providercenter/assets/views/resourcescenter/promote/assetlistings/getAsset-calculator.php?size=326x232&color=00ac9d",
+   "name": "",
+   "text": "Payment Calculator\nESTIMATED PROCEDURE AMOUNT\n$"
+  },
+  {
+   "url": "",
+   "name": "",
+   "text": ""
+  }
+ ],
+ "sharedSections": {
+  "contactQuickForm": false,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner4.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner4.jpg"
+  },
+  {
+   "src": "https://content.prosites.com/images/carecredit/care-credit.png",
+   "alt": "care credit",
+   "area": "section-carecredit-financing-page",
+   "size": [
+    300,
+    123
+   ],
+   "localFile": "images/badge_carecredit-logo-tagline.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/carecredit/carecredit_button_applynow_350x213_g_v1.png",
+   "alt": "",
+   "area": "section-carecredit-financing-page",
+   "size": [
+    350,
+    213
+   ],
+   "localFile": "images/badge_carecredit_apply-now-button.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/carecredit/PayBill.jpg",
+   "alt": "",
+   "area": "section-carecredit-financing-page",
+   "size": [
+    350,
+    259
+   ],
+   "localFile": "images/badge_carecredit_pay-bill-button.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://www.porterfamilydentistry.com/images/CareCredit/carecredit-bg2.jpg",
+   "alt": null,
+   "area": "section-carecredit-financing-page",
+   "cssBackgroundOf": "div.carecredit-banner::before",
+   "localFile": "images/carecredit_bg2_blurred-operatory.jpg"
+  },
+  {
+   "src": "https://www.porterfamilydentistry.com/images/CareCredit/bg1b.png",
+   "alt": null,
+   "area": "section-carecredit-financing-page",
+   "cssBackgroundOf": "div.carecredit-banner::after",
+   "localFile": "images/carecredit_bg1b_stock-woman.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

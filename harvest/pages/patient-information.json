@@ -1,0 +1,280 @@
+{
+ "slug": "patient-information",
+ "url": "https://www.porterfamilydentistry.com/patient-information/",
+ "finalUrl": "https://www.porterfamilydentistry.com/patient-information/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/PatientInformation.aspx",
+  "https://www.porterfamilydentistry.com/patient-information/"
+ ],
+ "redirects": [
+  [
+   "301 https://www.porterfamilydentistry.com/PatientInformation.aspx",
+   "200 https://www.porterfamilydentistry.com/patient-information/"
+  ]
+ ],
+ "title": "David L. Porter, D.D.S., P.C. - Patient Information",
+ "metaDescription": "Welcome to our Patient Information page. Contact Porter Family Dentistry today at (219) 362-5205 or visit our office servicing La Porte, Indiana",
+ "canonical": "https://www.porterfamilydentistry.com/patient-information/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Patient Information",
+ "nav": [
+  {
+   "label": "Patient Information",
+   "parents": [],
+   "menuPath": "Patient Information"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner4.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner4.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Patient Information",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "Appointment",
+   "md": "**Appointment**"
+  },
+  {
+   "type": "p",
+   "text": "The first step towards a beautiful, healthy smile is to schedule an appointment. Please contact our office by phone or complete an online appointment request.",
+   "md": "The first step towards a beautiful, healthy smile is to [schedule an appointment](https://www.porterfamilydentistry.com/patient-information/AppointmentRequest.aspx). Please contact our office by phone or complete an online appointment request.",
+   "links": [
+    {
+     "text": "schedule an appointment",
+     "href": "https://www.porterfamilydentistry.com/patient-information/AppointmentRequest.aspx"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Payment Options",
+   "md": "**Payment Options**"
+  },
+  {
+   "type": "p",
+   "text": "For your convenience, we accept cash, personal checks, debit cards, and most major credit cards. Payment is expected at the time services are performed. Feel free to contact our office if your treatment plan requires more comprehensive dental work and you want to discuss financial arrangements."
+  },
+  {
+   "type": "img",
+   "src": "https://c2-preview.prosites.com/26868/wy/images/logos/mastercard.png",
+   "alt": "",
+   "width": 64,
+   "height": 64,
+   "renderedSize": [
+    64,
+    64
+   ],
+   "localFile": "images/badge_card_mastercard.png"
+  },
+  {
+   "type": "img",
+   "src": "https://c2-preview.prosites.com/26868/wy/images/logos/visa.png",
+   "alt": "",
+   "width": 64,
+   "height": 64,
+   "renderedSize": [
+    64,
+    64
+   ],
+   "localFile": "images/badge_card_visa.png"
+  },
+  {
+   "type": "img",
+   "src": "https://c2-preview.prosites.com/26868/wy/images/logos/discover.png",
+   "alt": "",
+   "width": 64,
+   "height": 64,
+   "renderedSize": [
+    64,
+    64
+   ],
+   "localFile": "images/badge_card_discover.png"
+  },
+  {
+   "type": "img",
+   "src": "https://c2-preview.prosites.com/26868/wy/images/logos/amex.png",
+   "alt": "",
+   "width": 64,
+   "height": 64,
+   "renderedSize": [
+    64,
+    64
+   ],
+   "localFile": "images/badge_card_amex.png"
+  },
+  {
+   "type": "img",
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/CareCredit-Logo%202.png",
+   "alt": "",
+   "width": 600,
+   "height": 89,
+   "renderedSize": [
+    250,
+    37
+   ],
+   "href": "https://www.porterfamilydentistry.com/patient-information/Financing.aspx",
+   "localFile": "images/badge_carecredit-logo.png"
+  },
+  {
+   "type": "p",
+   "text": "Dental Insurance",
+   "md": "**Dental Insurance**"
+  },
+  {
+   "type": "p",
+   "text": "While dental insurance is a necessity these days, insurance companies don't always have your best interests in mind. That is why our dedicated staff is here to fight for your rights during every step of the process. Let us be your dental insurance advocate."
+  },
+  {
+   "type": "p",
+   "text": "We are able to work with ALL insurance plans, and always strive to help you save as much money as possible, receiving every last penny from your insurance plan. Please contact our office for insurance details. We look forward to hearing from you.",
+   "md": "We are able to work with ALL insurance plans, and always strive to help you save as much money as possible, receiving every last penny from your insurance plan. Please [contact](https://www.porterfamilydentistry.com/patient-information/ContactUs.aspx) our office for insurance details. We look forward to hearing from you.",
+   "links": [
+    {
+     "text": "contact",
+     "href": "https://www.porterfamilydentistry.com/patient-information/ContactUs.aspx"
+    }
+   ]
+  }
+ ],
+ "wordCount": 165,
+ "contentHash": "282cc647fbf0",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner4.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner4.jpg"
+  },
+  {
+   "src": "https://c2-preview.prosites.com/26868/wy/images/logos/mastercard.png",
+   "alt": "",
+   "area": "main",
+   "size": [
+    64,
+    64
+   ],
+   "localFile": "images/badge_card_mastercard.png"
+  },
+  {
+   "src": "https://c2-preview.prosites.com/26868/wy/images/logos/visa.png",
+   "alt": "",
+   "area": "main",
+   "size": [
+    64,
+    64
+   ],
+   "localFile": "images/badge_card_visa.png"
+  },
+  {
+   "src": "https://c2-preview.prosites.com/26868/wy/images/logos/discover.png",
+   "alt": "",
+   "area": "main",
+   "size": [
+    64,
+    64
+   ],
+   "localFile": "images/badge_card_discover.png"
+  },
+  {
+   "src": "https://c2-preview.prosites.com/26868/wy/images/logos/amex.png",
+   "alt": "",
+   "area": "main",
+   "size": [
+    64,
+    64
+   ],
+   "localFile": "images/badge_card_amex.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/CareCredit-Logo%202.png",
+   "alt": "",
+   "area": "main",
+   "size": [
+    600,
+    89
+   ],
+   "localFile": "images/badge_carecredit-logo.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

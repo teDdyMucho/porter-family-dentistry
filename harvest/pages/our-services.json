@@ -1,0 +1,566 @@
+{
+ "slug": "our-services",
+ "url": "https://www.porterfamilydentistry.com/our-services/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-services/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/OurServices.aspx",
+  "https://www.porterfamilydentistry.com/our-services/"
+ ],
+ "redirects": [
+  [
+   "301 https://www.porterfamilydentistry.com/OurServices.aspx",
+   "200 https://www.porterfamilydentistry.com/our-services/"
+  ]
+ ],
+ "title": "Our Services - Dental Services | Dentures | Cleanings | La Porte, IN",
+ "metaDescription": "Pain-free dentistry. Dedicated staff. All dental insurance plans accepted. Dental insurance advocate. Implants, cleanings, whitening. Call 219-362-5205.",
+ "canonical": "https://www.porterfamilydentistry.com/our-services/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Our Services",
+ "nav": [
+  {
+   "label": "Our Services",
+   "parents": [],
+   "menuPath": "Our Services"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner4.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner4.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Our Services",
+   "class": "section-heading"
+  },
+  {
+   "type": "h2",
+   "text": "Get treated like family at our unique dental practice."
+  },
+  {
+   "type": "p",
+   "text": "There's more to dentistry than keeping teeth healthy and bright. At Porter Family Dentistry, you'll always be treated like family by our dedicated staff. We strive to treat the whole person – mind, body, and spirit – and it shows!"
+  },
+  {
+   "type": "p",
+   "text": "Someone will be in the room with you at all times, treating you with respect, care, and friendship. Afterward, we will accept all dental insurance plans and work hard as your dental insurance advocate. We will fight for you to get every penny from your insurance company!"
+  },
+  {
+   "type": "p",
+   "text": "Comprehensive Preventative Family Dentistry",
+   "md": "**Comprehensive Preventative Family Dentistry**"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Custom dentures and implant supported dentures (permanent dentures)"
+    },
+    {
+     "text": "Tooth whitening and Nite White whitening gel"
+    },
+    {
+     "text": "Crowns and bridges"
+    },
+    {
+     "text": "Resin fillings"
+    },
+    {
+     "text": "Periodontal cleanings"
+    },
+    {
+     "text": "Nitrous oxide for painless dentistry"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "If you have any questions, concerns, or would like to schedule an appointment, please contact us today. We look forward to providing you with the personal care you deserve.",
+   "md": "If you have any questions, concerns, or would like to schedule an appointment, please [contact us today](https://www.porterfamilydentistry.com/our-services/ContactUs.aspx). We look forward to providing you with the personal care you deserve.",
+   "links": [
+    {
+     "text": "contact us today",
+     "href": "https://www.porterfamilydentistry.com/our-services/ContactUs.aspx"
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Endodontics",
+     "md": "[Endodontics](https://www.porterfamilydentistry.com/our-services/endodontics/)",
+     "links": [
+      {
+       "text": "Endodontics",
+       "href": "https://www.porterfamilydentistry.com/our-services/endodontics/"
+      }
+     ],
+     "children": [
+      {
+       "type": "ul",
+       "items": [
+        {
+         "text": "Root Canal Retreatment",
+         "md": "[Root Canal Retreatment](https://www.porterfamilydentistry.com/our-services/endodontics/root-canal-retreatment/)",
+         "links": [
+          {
+           "text": "Root Canal Retreatment",
+           "href": "https://www.porterfamilydentistry.com/our-services/endodontics/root-canal-retreatment/"
+          }
+         ]
+        },
+        {
+         "text": "Cracked Tooth",
+         "md": "[Cracked Tooth](https://www.porterfamilydentistry.com/our-services/endodontics/cracked-tooth/)",
+         "links": [
+          {
+           "text": "Cracked Tooth",
+           "href": "https://www.porterfamilydentistry.com/our-services/endodontics/cracked-tooth/"
+          }
+         ]
+        },
+        {
+         "text": "Root Amputation",
+         "md": "[Root Amputation](https://www.porterfamilydentistry.com/our-services/endodontics/root-amputation/)",
+         "links": [
+          {
+           "text": "Root Amputation",
+           "href": "https://www.porterfamilydentistry.com/our-services/endodontics/root-amputation/"
+          }
+         ]
+        },
+        {
+         "text": "Root Canal Therapy",
+         "md": "[Root Canal Therapy](https://www.porterfamilydentistry.com/our-services/endodontics/root-canal-therapy/)",
+         "links": [
+          {
+           "text": "Root Canal Therapy",
+           "href": "https://www.porterfamilydentistry.com/our-services/endodontics/root-canal-therapy/"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "Cleanings & Prevention",
+     "md": "[Cleanings & Prevention](https://www.porterfamilydentistry.com/our-services/cleanings-prevention/)",
+     "links": [
+      {
+       "text": "Cleanings & Prevention",
+       "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/"
+      }
+     ],
+     "children": [
+      {
+       "type": "ul",
+       "items": [
+        {
+         "text": "Dental Exams & Cleanings",
+         "md": "[Dental Exams & Cleanings](https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-exams-cleanings/)",
+         "links": [
+          {
+           "text": "Dental Exams & Cleanings",
+           "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-exams-cleanings/"
+          }
+         ]
+        },
+        {
+         "text": "Intraoral Cameras",
+         "md": "[Intraoral Cameras](https://www.porterfamilydentistry.com/our-services/cleanings-prevention/intraoral-cameras/)",
+         "links": [
+          {
+           "text": "Intraoral Cameras",
+           "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/intraoral-cameras/"
+          }
+         ]
+        },
+        {
+         "text": "Simple Tooth Extractions",
+         "md": "[Simple Tooth Extractions](https://www.porterfamilydentistry.com/our-services/cleanings-prevention/simple-tooth-extractions/)",
+         "links": [
+          {
+           "text": "Simple Tooth Extractions",
+           "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/simple-tooth-extractions/"
+          }
+         ]
+        },
+        {
+         "text": "Fluoride Treatment",
+         "md": "[Fluoride Treatment](https://www.porterfamilydentistry.com/our-services/cleanings-prevention/fluoride-treatment/)",
+         "links": [
+          {
+           "text": "Fluoride Treatment",
+           "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/fluoride-treatment/"
+          }
+         ]
+        },
+        {
+         "text": "How to Properly Brush & Floss",
+         "md": "[How to Properly Brush & Floss](https://www.porterfamilydentistry.com/our-services/cleanings-prevention/how-to-properly-brush-floss/)",
+         "links": [
+          {
+           "text": "How to Properly Brush & Floss",
+           "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/how-to-properly-brush-floss/"
+          }
+         ]
+        },
+        {
+         "text": "Dental X-Rays",
+         "md": "[Dental X-Rays](https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-x-rays/)",
+         "links": [
+          {
+           "text": "Dental X-Rays",
+           "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-x-rays/"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "Cosmetic Dentistry",
+     "md": "[Cosmetic Dentistry](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/)",
+     "links": [
+      {
+       "text": "Cosmetic Dentistry",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/"
+      }
+     ],
+     "children": [
+      {
+       "type": "ul",
+       "items": [
+        {
+         "text": "Teeth Whitening",
+         "md": "[Teeth Whitening](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/teeth-whitening/)",
+         "links": [
+          {
+           "text": "Teeth Whitening",
+           "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/teeth-whitening/"
+          }
+         ]
+        },
+        {
+         "text": "Composite Fillings",
+         "md": "[Composite Fillings](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/composite-fillings/)",
+         "links": [
+          {
+           "text": "Composite Fillings",
+           "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/composite-fillings/"
+          }
+         ]
+        },
+        {
+         "text": "NiteWhite ACP Teeth Whitening",
+         "md": "[NiteWhite ACP Teeth Whitening](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/nitewhite-acp-teeth-whitening/)",
+         "links": [
+          {
+           "text": "NiteWhite ACP Teeth Whitening",
+           "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/nitewhite-acp-teeth-whitening/"
+          }
+         ]
+        },
+        {
+         "text": "Dentures & Partial Dentures",
+         "md": "[Dentures & Partial Dentures](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/dentures-partial-dentures/)",
+         "links": [
+          {
+           "text": "Dentures & Partial Dentures",
+           "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/dentures-partial-dentures/"
+          }
+         ]
+        },
+        {
+         "text": "Porcelain Crowns (Caps)",
+         "md": "[Porcelain Crowns (Caps)](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/porcelain-crowns-caps/)",
+         "links": [
+          {
+           "text": "Porcelain Crowns (Caps)",
+           "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/porcelain-crowns-caps/"
+          }
+         ]
+        },
+        {
+         "text": "Porcelain Fixed Bridges",
+         "md": "[Porcelain Fixed Bridges](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/porcelain-fixed-bridges/)",
+         "links": [
+          {
+           "text": "Porcelain Fixed Bridges",
+           "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/porcelain-fixed-bridges/"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "Periodontics",
+     "md": "[Periodontics](https://www.porterfamilydentistry.com/our-services/periodontics/)",
+     "links": [
+      {
+       "text": "Periodontics",
+       "href": "https://www.porterfamilydentistry.com/our-services/periodontics/"
+      }
+     ],
+     "children": [
+      {
+       "type": "ul",
+       "items": [
+        {
+         "text": "Periodontal Scaling & Root Planing",
+         "md": "[Periodontal Scaling & Root Planing](https://www.porterfamilydentistry.com/our-services/periodontics/periodontal-scaling-root-planing/)",
+         "links": [
+          {
+           "text": "Periodontal Scaling & Root Planing",
+           "href": "https://www.porterfamilydentistry.com/our-services/periodontics/periodontal-scaling-root-planing/"
+          }
+         ]
+        },
+        {
+         "text": "Root Amputation",
+         "md": "[Root Amputation](https://www.porterfamilydentistry.com/our-services/periodontics/root-amputation/)",
+         "links": [
+          {
+           "text": "Root Amputation",
+           "href": "https://www.porterfamilydentistry.com/our-services/periodontics/root-amputation/"
+          }
+         ]
+        },
+        {
+         "text": "Prophylaxis (Teeth Cleaning)",
+         "md": "[Prophylaxis (Teeth Cleaning)](https://www.porterfamilydentistry.com/our-services/periodontics/prophylaxis-teeth-cleaning/)",
+         "links": [
+          {
+           "text": "Prophylaxis (Teeth Cleaning)",
+           "href": "https://www.porterfamilydentistry.com/our-services/periodontics/prophylaxis-teeth-cleaning/"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "Restorations",
+     "md": "[Restorations](https://www.porterfamilydentistry.com/our-services/restorations/)",
+     "links": [
+      {
+       "text": "Restorations",
+       "href": "https://www.porterfamilydentistry.com/our-services/restorations/"
+      }
+     ],
+     "children": [
+      {
+       "type": "ul",
+       "items": [
+        {
+         "text": "Composite Fillings",
+         "md": "[Composite Fillings](https://www.porterfamilydentistry.com/our-services/restorations/composite-fillings/)",
+         "links": [
+          {
+           "text": "Composite Fillings",
+           "href": "https://www.porterfamilydentistry.com/our-services/restorations/composite-fillings/"
+          }
+         ]
+        },
+        {
+         "text": "Crowns (Caps)",
+         "md": "[Crowns (Caps)](https://www.porterfamilydentistry.com/our-services/restorations/crowns-caps/)",
+         "links": [
+          {
+           "text": "Crowns (Caps)",
+           "href": "https://www.porterfamilydentistry.com/our-services/restorations/crowns-caps/"
+          }
+         ]
+        },
+        {
+         "text": "Fixed Bridges",
+         "md": "[Fixed Bridges](https://www.porterfamilydentistry.com/our-services/restorations/fixed-bridges/)",
+         "links": [
+          {
+           "text": "Fixed Bridges",
+           "href": "https://www.porterfamilydentistry.com/our-services/restorations/fixed-bridges/"
+          }
+         ]
+        },
+        {
+         "text": "Root Canal Therapy",
+         "md": "[Root Canal Therapy](https://www.porterfamilydentistry.com/our-services/restorations/root-canal-therapy/)",
+         "links": [
+          {
+           "text": "Root Canal Therapy",
+           "href": "https://www.porterfamilydentistry.com/our-services/restorations/root-canal-therapy/"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "text": "Dental Anxiety and Fear",
+     "md": "[Dental Anxiety and Fear](https://www.porterfamilydentistry.com/our-services/dental-anxiety-and-fear/)",
+     "links": [
+      {
+       "text": "Dental Anxiety and Fear",
+       "href": "https://www.porterfamilydentistry.com/our-services/dental-anxiety-and-fear/"
+      }
+     ]
+    },
+    {
+     "text": "Dental Emergencies",
+     "md": "[Dental Emergencies](https://www.porterfamilydentistry.com/our-services/dental-emergencies/)",
+     "links": [
+      {
+       "text": "Dental Emergencies",
+       "href": "https://www.porterfamilydentistry.com/our-services/dental-emergencies/"
+      }
+     ]
+    },
+    {
+     "text": "Prosthodontics",
+     "md": "[Prosthodontics](https://www.porterfamilydentistry.com/our-services/prosthodontics/)",
+     "links": [
+      {
+       "text": "Prosthodontics",
+       "href": "https://www.porterfamilydentistry.com/our-services/prosthodontics/"
+      }
+     ],
+     "children": [
+      {
+       "type": "ul",
+       "items": [
+        {
+         "text": "Crowns (Caps)",
+         "md": "[Crowns (Caps)](https://www.porterfamilydentistry.com/our-services/prosthodontics/crowns-caps/)",
+         "links": [
+          {
+           "text": "Crowns (Caps)",
+           "href": "https://www.porterfamilydentistry.com/our-services/prosthodontics/crowns-caps/"
+          }
+         ]
+        },
+        {
+         "text": "Dentures & Partial Dentures",
+         "md": "[Dentures & Partial Dentures](https://www.porterfamilydentistry.com/our-services/prosthodontics/dentures-partial-dentures/)",
+         "links": [
+          {
+           "text": "Dentures & Partial Dentures",
+           "href": "https://www.porterfamilydentistry.com/our-services/prosthodontics/dentures-partial-dentures/"
+          }
+         ]
+        },
+        {
+         "text": "Fixed Bridges",
+         "md": "[Fixed Bridges](https://www.porterfamilydentistry.com/our-services/prosthodontics/fixed-bridges/)",
+         "links": [
+          {
+           "text": "Fixed Bridges",
+           "href": "https://www.porterfamilydentistry.com/our-services/prosthodontics/fixed-bridges/"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": []
+  }
+ ],
+ "wordCount": 239,
+ "contentHash": "bad60e212fed",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner4.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner4.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

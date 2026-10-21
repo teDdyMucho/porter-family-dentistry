@@ -1,0 +1,191 @@
+{
+ "slug": "our-services__prosthodontics__crowns-caps",
+ "url": "https://www.porterfamilydentistry.com/our-services/prosthodontics/crowns-caps/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-services/prosthodontics/crowns-caps/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-services/prosthodontics/crowns-caps/"
+ ],
+ "redirects": [],
+ "title": "Crowns (Caps) | La Porte, Indiana | Porter Family Dentistry",
+ "metaDescription": "Pain-free dentistry. Dedicated staff. All dental insurance plans accepted. Dental insurance advocate. Implants, cleanings, whitening. Call 219-362-5205.",
+ "canonical": "https://www.porterfamilydentistry.com/our-services/prosthodontics/crowns-caps/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Crowns (Caps)",
+ "nav": [
+  {
+   "label": "Crowns (Caps)",
+   "parents": [
+    "Our Services",
+    "Prosthodontics"
+   ],
+   "menuPath": "Our Services > Prosthodontics > Crowns (Caps)"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/our-services/",
+   "https://www.porterfamilydentistry.com/our-services/prosthodontics/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner8.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner8.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Crowns (Caps)",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "A crown (or cap) is a covering that encases the entire tooth surface, restoring it to its original shape and size. A crown protects and strengthens tooth structure that cannot be restored with fillings or other types of restorations."
+  },
+  {
+   "type": "p",
+   "text": "Although there are several types of crowns, porcelain (tooth colored crown) are the most popular. They are highly durable and will last many years, but like most dental restorations, they may eventually need to be replaced. Porcelain crowns are made to match the shape, size, and color of your teeth, giving you a long-lasting, beautiful smile."
+  },
+  {
+   "type": "p",
+   "text": "Reasons for crowns:",
+   "md": "**Reasons for crowns:**"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Broken or fractured teeth."
+    },
+    {
+     "text": "Cosmetic enhancement."
+    },
+    {
+     "text": "Decayed teeth."
+    },
+    {
+     "text": "Fractured fillings."
+    },
+    {
+     "text": "Large fillings."
+    },
+    {
+     "text": "Tooth has a root canal."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "What does getting a crown involve?",
+   "md": "**What does getting a crown involve?**"
+  },
+  {
+   "type": "p",
+   "text": "A crown procedure usually requires two appointments. Your first appointment will include taking several highly accurate molds (or impressions) that will be used to create your custom crown. A mold will also be used to create a temporary crown which will stay on your tooth for approximately two weeks until your new crown is fabricated by a dental laboratory."
+  },
+  {
+   "type": "p",
+   "text": "While the tooth is numb, the dentist will prepare the tooth by removing any decay and shaping the surface to properly fit the crown. Once these details are accomplished, your temporary crown will be placed with temporary cement and your bite will be checked to ensure you are biting properly."
+  },
+  {
+   "type": "p",
+   "text": "At your second appointment your temporary crown will be removed, the tooth will be cleaned, and your new crown will be carefully placed to ensure the spacing and bite are accurate."
+  },
+  {
+   "type": "p",
+   "text": "You will be given care instructions and encouraged to have regular dental visits to check your new crown."
+  },
+  {
+   "type": "ul",
+   "items": []
+  },
+  {
+   "type": "field",
+   "fieldType": "button",
+   "name": "ctl00$ContentPlaceHolder1$btnBack",
+   "optionLabel": null,
+   "buttonText": "<",
+   "visibleOnLoad": true
+  }
+ ],
+ "wordCount": 281,
+ "contentHash": "6abe46e8febc",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner8.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner8.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

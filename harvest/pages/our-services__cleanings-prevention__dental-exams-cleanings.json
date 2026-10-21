@@ -1,0 +1,195 @@
+{
+ "slug": "our-services__cleanings-prevention__dental-exams-cleanings",
+ "url": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-exams-cleanings/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-exams-cleanings/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-exams-cleanings/"
+ ],
+ "redirects": [],
+ "title": "Dental Exams & Cleanings | La Porte, Indiana | Porter Family Dentistry",
+ "metaDescription": "Pain-free dentistry. Dedicated staff. All dental insurance plans accepted. Dental insurance advocate. Implants, cleanings, whitening. Call 219-362-5205.",
+ "canonical": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-exams-cleanings/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Dental Exams & Cleanings",
+ "nav": [
+  {
+   "label": "Dental Exams & Cleanings",
+   "parents": [
+    "Our Services",
+    "Cleanings & Prevention"
+   ],
+   "menuPath": "Our Services > Cleanings & Prevention > Dental Exams & Cleanings"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/",
+   "https://www.porterfamilydentistry.com/our-services/",
+   "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner7.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner7.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Dental Exams & Cleanings",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "Dental Exam",
+   "md": "**Dental Exam**"
+  },
+  {
+   "type": "p",
+   "text": "A comprehensive dental exam will be performed by your dentist at your initial dental visit. At regular check-up exams, your dentist and hygienist will perform the following:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Examination of diagnostic X-rays (radiographs): Essential for detection of decay, tumors, cysts, and bone loss. X-rays also help determine tooth and root positions.",
+     "md": "**Examination of diagnostic X-rays (radiographs):** Essential for detection of decay, tumors, cysts, and bone loss. X-rays also help determine tooth and root positions."
+    },
+    {
+     "text": "Oral cancer screening: Check the face, neck, lips, tongue, throat, tissues, and gums for any signs of oral cancer.",
+     "md": "**Oral cancer screening:** Check the face, neck, lips, tongue, throat, tissues, and gums for any signs of oral cancer."
+    },
+    {
+     "text": "Gum disease evaluation: Check the gums and bone around the teeth for any signs of periodontal disease.",
+     "md": "**Gum disease evaluation:** Check the gums and bone around the teeth for any signs of periodontal disease."
+    },
+    {
+     "text": "Examination of tooth decay: All tooth surfaces will be checked for decay with special dental instruments.",
+     "md": "**Examination of tooth decay:** All tooth surfaces will be checked for decay with special dental instruments."
+    },
+    {
+     "text": "Examination of existing restorations: Check current fillings, crowns, etc.",
+     "md": "**Examination of existing restorations:** Check current fillings, crowns, etc."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Professional Dental Cleaning",
+   "md": "**Professional Dental Cleaning**"
+  },
+  {
+   "type": "p",
+   "text": "Professional dental cleanings (dental prophylaxis) are usually performed by Registered Dental Hygienists. Your cleaning appointment will include a dental exam and the following:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Removal of calculus (tartar): Calculus is hardened plaque that has been left on the tooth for some time and is now firmly attached to the tooth surface. Calculus forms above and below the gum line and can only be removed with special dental instruments.",
+     "md": "**Removal of calculus (tartar):** Calculus is hardened plaque that has been left on the tooth for some time and is now firmly attached to the tooth surface. Calculus forms above and below the gum line and can only be removed with special dental instruments."
+    },
+    {
+     "text": "Removal of plaque: Plaque is a sticky, almost invisible film that forms on the teeth. It is a growing colony of living bacteria, food debris, and saliva. The bacteria produce toxins (poisons) that inflame the gums. This inflammation is the start of periodontal disease!",
+     "md": "**Removal of plaque:** Plaque is a sticky, almost invisible film that forms on the teeth. It is a growing colony of living bacteria, food debris, and saliva. The bacteria produce toxins (poisons) that inflame the gums. This inflammation is the start of periodontal disease!"
+    },
+    {
+     "text": "Teeth polishing: Remove stain and plaque that is not otherwise removed during tooth brushing and scaling.",
+     "md": "**Teeth polishing:** Remove stain and plaque that is not otherwise removed during tooth brushing and scaling."
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": []
+  },
+  {
+   "type": "field",
+   "fieldType": "button",
+   "name": "ctl00$ContentPlaceHolder1$btnBack",
+   "optionLabel": null,
+   "buttonText": "<",
+   "visibleOnLoad": true
+  }
+ ],
+ "wordCount": 246,
+ "contentHash": "ab4493fff8d2",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner7.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner7.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

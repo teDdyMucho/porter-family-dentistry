@@ -1,0 +1,194 @@
+{
+ "slug": "our-services__periodontics__root-amputation",
+ "url": "https://www.porterfamilydentistry.com/our-services/periodontics/root-amputation/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-services/periodontics/root-amputation/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-services/periodontics/root-amputation/"
+ ],
+ "redirects": [],
+ "title": "Root Amputation | La Porte, Indiana | Porter Family Dentistry",
+ "metaDescription": "Pain-free dentistry. Dedicated staff. All dental insurance plans accepted. Dental insurance advocate. Implants, cleanings, whitening. Call 219-362-5205.",
+ "canonical": "https://www.porterfamilydentistry.com/our-services/periodontics/root-amputation/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Root Amputation",
+ "nav": [
+  {
+   "label": "Root Amputation",
+   "parents": [
+    "Our Services",
+    "Periodontics"
+   ],
+   "menuPath": "Our Services > Periodontics > Root Amputation"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/our-services/",
+   "https://www.porterfamilydentistry.com/our-services/periodontics/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner8.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner8.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Root Amputation",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "Root amputation is a specialized dental procedure, whereby one root is removed from a multi-root tooth. The tooth is then stabilized and rendered fully functional with a crown or filling. The multi-root teeth best suited to the root amputation procedure are the molars at the back of the mouth. These large flat teeth have either two or three roots depending on whether they are situated on the upper or lower jaw."
+  },
+  {
+   "type": "p",
+   "text": "The general purpose of root amputation is to save an injured or diseased tooth from extraction. Most dentists agree that there is no better alternative than retaining a healthy natural tooth, and the root amputation procedure makes this possible. Dental implants, extensive bridgework and custom-made tooth replacements can be expensive and time-consuming. Generally, root amputation and the necessary crown work are less expensive and can be completed in 1-3 short visits."
+  },
+  {
+   "type": "p",
+   "text": "When is root amputation necessary?",
+   "md": "**When is root amputation necessary?**"
+  },
+  {
+   "type": "p",
+   "text": "It is important to note that root amputation can only be performed on an otherwise healthy tooth. Even in the case of a “key” tooth, extraction will be performed if the tooth is diseased, badly fractured or otherwise injured. Suitable teeth for root amputation have a healthy tooth surface, strong bone support and healthy underlying gums."
+  },
+  {
+   "type": "p",
+   "text": "There are several problems that may lead to root amputation including:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Broken, fractured or injured teeth and roots."
+    },
+    {
+     "text": "Embedded bacteria within the structure of the root."
+    },
+    {
+     "text": "Severe bone loss in a concentrated area due to periodontitis."
+    },
+    {
+     "text": "Tooth decay in a concentrated area of the tooth."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "What does root amputation involve?",
+   "md": "**What does root amputation involve?**"
+  },
+  {
+   "type": "p",
+   "text": "Prior to root amputation, it is necessary to perform root canal treatment. The amputation itself involves cutting deep into the tooth where blood vessels and nerves are located. For this reason, the pulp of the tooth including these vessels and nerves needs to be removed before resectioning the roots. The root canal and amputation treatments will be performed under local anesthetic."
+  },
+  {
+   "type": "p",
+   "text": "During the root amputation procedure, a small incision will be created in the gum to fully expose the roots of the affected tooth. The root will be sectioned off from the rest of the tooth and then removed. To kill any remaining bacteria, the whole area will be cleansed with saline solution, and then sutures (stitches) will be applied to seal the incision."
+  },
+  {
+   "type": "p",
+   "text": "Finally, a temporary crown or filling will be placed to secure the tooth. Depending on the specific situation, painkillers, antibiotics and a medicated anti-microbial mouthwash may be prescribed. In 7-10 days, the stitches will be removed and the gum will have healed. Arrangements can now be made to place the permanent crown or filling."
+  },
+  {
+   "type": "p",
+   "text": "If you have any questions or concerns about root amputation, please ask your dentist."
+  },
+  {
+   "type": "ul",
+   "items": []
+  },
+  {
+   "type": "field",
+   "fieldType": "button",
+   "name": "ctl00$ContentPlaceHolder1$btnBack",
+   "optionLabel": null,
+   "buttonText": "<",
+   "visibleOnLoad": true
+  }
+ ],
+ "wordCount": 447,
+ "contentHash": "e85706a58711",
+ "duplicateOf": "our-services__endodontics__root-amputation",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner8.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner8.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

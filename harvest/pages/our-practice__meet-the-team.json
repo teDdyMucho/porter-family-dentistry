@@ -1,0 +1,197 @@
+{
+ "slug": "our-practice__meet-the-team",
+ "url": "https://www.porterfamilydentistry.com/our-practice/meet-the-team/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-practice/meet-the-team/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-practice/meet-the-team/"
+ ],
+ "redirects": [],
+ "title": "David L. Porter, D.D.S., P.C. - Meet The Team",
+ "metaDescription": "Welcome to our Meet The Team page. Contact Porter Family Dentistry today at (219) 362-5205 or visit our office servicing La Porte, Indiana",
+ "canonical": "https://www.porterfamilydentistry.com/our-practice/meet-the-team/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Meet The Team",
+ "nav": [
+  {
+   "label": "Meet The Team",
+   "parents": [
+    "Our Practice"
+   ],
+   "menuPath": "Our Practice > Meet The Team"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner8.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner8.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Meet The Team",
+   "class": "section-heading"
+  },
+  {
+   "type": "img",
+   "src": "https://c3-preview.prosites.com/277152/wy/images/team.png",
+   "alt": "",
+   "width": 646,
+   "height": 399,
+   "renderedSize": [
+    646,
+    399
+   ],
+   "localFile": "images/team_group-photo_10-staff.png"
+  },
+  {
+   "type": "p",
+   "text": "At the core of our dental practice is a friendly team of professionals that are dedicated to your utmost comfort and optimal oral health. We view each patient as a unique individual, and tailor each treatment to your specific needs. As part of our commitment to providing close, personalized attention to every patient, we want to encourage patient communication. Please know that we are here to provide outstanding patient care, and that we value the trust you have placed in us."
+  },
+  {
+   "type": "hr"
+  },
+  {
+   "type": "img",
+   "src": "https://c3-preview.prosites.com/277152/ed/PageMeetTheTeam/69cbb050-b785-47ee-9787-d7e22a708f8b_lg.jpg",
+   "alt": null,
+   "width": 275,
+   "height": 385,
+   "renderedSize": [
+    275,
+    385
+   ],
+   "localFile": "images/team_dr-david-l-porter_headshot.jpg"
+  },
+  {
+   "type": "h2",
+   "text": "Dr. David L. Porter"
+  },
+  {
+   "type": "p",
+   "text": "David L. Porter received his Bachelor's Degree from Wabash College and his Doctor of Dental Science from Indiana University. He is a member of American Dental Association., The Northwest Indiana Dental Association, The Chicago Dental Society, The Better Business Bureau and the La Porte Chamber of Commerce."
+  },
+  {
+   "type": "p",
+   "text": "Dr. Porter opened his office in 1980 and has always focused on painless dental care and high level of education for his patients while assembling both highly professional and deeply empathetic staff members."
+  },
+  {
+   "type": "p",
+   "text": "Born and raised in La Porte, Indiana, Dr. Porter is a member of St. Peter’s Church where he is a Eucharistic Minister, teaches Bible studies, and is a former Parish Council Member. He is a member of the La Porte Planning and Zoning Commission."
+  },
+  {
+   "type": "h2",
+   "text": "Cheryl Grace"
+  },
+  {
+   "type": "h3",
+   "text": "Office Manager"
+  },
+  {
+   "type": "p",
+   "text": "Cheryl has been involved as a dental assistant and office manager for 37 years. For decades she and her dentist husband owned and operated two dental offices in Merrillville, Indiana and Lake of the Four Seasons, Indiana. Cheryl’s generous, upbeat spirit welcomes all our patients with open arms."
+  }
+ ],
+ "wordCount": 264,
+ "contentHash": "38bb9968afcb",
+ "sharedSections": {
+  "contactQuickForm": false,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner8.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner8.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/team.png",
+   "alt": "",
+   "area": "main",
+   "size": [
+    646,
+    399
+   ],
+   "localFile": "images/team_group-photo_10-staff.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/ed/PageMeetTheTeam/69cbb050-b785-47ee-9787-d7e22a708f8b_lg.jpg",
+   "alt": null,
+   "area": "main",
+   "size": [
+    275,
+    385
+   ],
+   "localFile": "images/team_dr-david-l-porter_headshot.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

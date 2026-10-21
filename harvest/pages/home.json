@@ -1,0 +1,304 @@
+{
+ "slug": "home",
+ "url": "https://www.porterfamilydentistry.com/",
+ "finalUrl": "https://www.porterfamilydentistry.com/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/"
+ ],
+ "redirects": [],
+ "title": "David L. Porter, D.D.S., P.C. – Dental Office | La Porte, IN",
+ "metaDescription": "Pain-free dentistry. 177 years of combined experience. . Convenient location. Friendly, empathetic service. Dental services, cleanings. Call 219-362-5205.",
+ "canonical": "https://www.porterfamilydentistry.com/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Welcome",
+ "nav": [
+  {
+   "label": "Welcome",
+   "parents": [],
+   "menuPath": "Welcome"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [],
+  "inSitemap": true
+ },
+ "hero": {
+  "carousel": [
+   {
+    "slide": 1,
+    "leadIn": "Have an",
+    "heading": "Attractive\nSmile Today!",
+    "phone": "Call: (219) 362-5205",
+    "phoneHref": "tel:(219) 362-5205",
+    "backgroundImage": "https://styles.prosites.com/litesite/2283/images/cover1.jpg",
+    "backgroundLocalFile": "images/hero-slide1_cover1_stock-smiling-woman.jpg"
+   },
+   {
+    "slide": 2,
+    "leadIn": "Complete Dental Care",
+    "heading": "You Can\nTrust",
+    "phone": "Call: (219) 362-5205",
+    "phoneHref": "tel:(219) 362-5205",
+    "backgroundImage": "https://styles.prosites.com/litesite/2283/images/cover2.jpg",
+    "backgroundLocalFile": "images/hero-slide2_cover2_stock-smiling-man-hat.jpg"
+   },
+   {
+    "slide": 3,
+    "leadIn": "Beautiful Natural Results",
+    "heading": "For All\nAges",
+    "phone": "Call: (219) 362-5205",
+    "phoneHref": "tel:(219) 362-5205",
+    "backgroundImage": "https://styles.prosites.com/litesite/2283/images/cover3.jpg",
+    "backgroundLocalFile": "images/hero-slide3_cover3_stock-family.jpg"
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Welcome",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "At Porter Family Dentistry, we take every step possible to ensure you have the most comfortable visit possible, and that goes beyond our pain-free dentistry. We are backed by 35 years of service and our staff has a combined experience of 177 years, specializing in empathy and compassionate service."
+  },
+  {
+   "type": "p",
+   "text": "Our goal is to assist each patient in achieving and maintaining long term dental health and a beautiful smile. Some of the services we provide include:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "GentleWave Root Canal Treatment",
+     "md": "**GentleWave [Root Canal Treatment](https://www.porterfamilydentistry.com/our-services/endodontics/root-canal-retreatment/)**",
+     "links": [
+      {
+       "text": "Root Canal Treatment",
+       "href": "https://www.porterfamilydentistry.com/our-services/endodontics/root-canal-retreatment/"
+      }
+     ]
+    },
+    {
+     "text": "Cleanings & Exams",
+     "md": "**[Cleanings & Exams](https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-exams-cleanings/)**",
+     "links": [
+      {
+       "text": "Cleanings & Exams",
+       "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-exams-cleanings/"
+      }
+     ]
+    },
+    {
+     "text": "Tooth Extractions",
+     "md": "[**Tooth Extractions**](https://www.porterfamilydentistry.com/our-services/cleanings-prevention/simple-tooth-extractions/)",
+     "links": [
+      {
+       "text": "Tooth Extractions",
+       "href": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/simple-tooth-extractions/"
+      }
+     ]
+    },
+    {
+     "text": "Dentures & Partial Dentures",
+     "md": "**[Dentures & Partial Dentures](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/dentures-partial-dentures/)**",
+     "links": [
+      {
+       "text": "Dentures & Partial Dentures",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/dentures-partial-dentures/"
+      }
+     ]
+    },
+    {
+     "text": "Custom Teeth Whitening",
+     "md": "**[Custom Teeth Whitening](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/nitewhite-acp-teeth-whitening/)**",
+     "links": [
+      {
+       "text": "Custom Teeth Whitening",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/nitewhite-acp-teeth-whitening/"
+      }
+     ]
+    },
+    {
+     "text": "Tooth Colored Fillings",
+     "md": "**[Tooth Colored Fillings](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/composite-fillings/)**",
+     "links": [
+      {
+       "text": "Tooth Colored Fillings",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/composite-fillings/"
+      }
+     ]
+    },
+    {
+     "text": "Porcelain Crowns",
+     "md": "**[Porcelain Crowns](https://www.porterfamilydentistry.com/our-services/restorations/crowns-caps/)**",
+     "links": [
+      {
+       "text": "Porcelain Crowns",
+       "href": "https://www.porterfamilydentistry.com/our-services/restorations/crowns-caps/"
+      }
+     ]
+    },
+    {
+     "text": "Dental Emergencies (For Patients of Record)",
+     "md": "**[Dental Emergencies](https://www.porterfamilydentistry.com/our-services/dental-emergencies/) (For Patients of Record)**",
+     "links": [
+      {
+       "text": "Dental Emergencies",
+       "href": "https://www.porterfamilydentistry.com/our-services/dental-emergencies/"
+      }
+     ]
+    },
+    {
+     "text": "Additional Services",
+     "md": "[**Additional Services**](https://www.porterfamilydentistry.com/OurServices.aspx)",
+     "links": [
+      {
+       "text": "Additional Services",
+       "href": "https://www.porterfamilydentistry.com/OurServices.aspx"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "New patients click here to learn about appointments & payment options.",
+   "md": "[New patients click here](https://www.porterfamilydentistry.com/PatientInformation.aspx) to learn about appointments & payment options.",
+   "links": [
+    {
+     "text": "New patients click here",
+     "href": "https://www.porterfamilydentistry.com/PatientInformation.aspx"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Our office is conveniently located for patients throughout the La Porte, Michigan City, Plymouth, and Knox areas, and we try to stay involved with our community outside of our regular dental services."
+  },
+  {
+   "type": "p",
+   "text": "Please browse through our website and be sure to contact us if you have any questions or would like to schedule an appointment. You may also use our online appointment request form to schedule your appointment.",
+   "md": "Please browse through our website and be sure to [contact us](https://www.porterfamilydentistry.com/ContactUs.aspx) if you have any questions or would like to schedule an appointment. You may also use our [online appointment request](https://www.porterfamilydentistry.com/AppointmentRequest.aspx) form to schedule your appointment.",
+   "links": [
+    {
+     "text": "contact us",
+     "href": "https://www.porterfamilydentistry.com/ContactUs.aspx"
+    },
+    {
+     "text": "online appointment request",
+     "href": "https://www.porterfamilydentistry.com/AppointmentRequest.aspx"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "-Serving the Entire County of La Porte, IN, including South Bend, Plymouth, and Michigan City-"
+  },
+  {
+   "type": "img",
+   "src": "https://c3-preview.prosites.com/277152/wy/images/1Facebook_large.png",
+   "alt": "",
+   "width": 48,
+   "height": 48,
+   "renderedSize": [
+    48,
+    48
+   ],
+   "href": "https://www.facebook.com/Porter-Family-Dentistry-889225141168109?_rdr=p",
+   "localFile": "images/icon_social_facebook-square.png"
+  }
+ ],
+ "wordCount": 196,
+ "contentHash": "c62b621503d9",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": false
+ },
+ "images": [
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/1Facebook_large.png",
+   "alt": "",
+   "area": "main",
+   "size": [
+    48,
+    48
+   ],
+   "localFile": "images/icon_social_facebook-square.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover1.jpg",
+   "alt": null,
+   "area": "hero-carousel",
+   "cssBackgroundOf": "div.itembg.cover1",
+   "localFile": "images/hero-slide1_cover1_stock-smiling-woman.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover2.jpg",
+   "alt": null,
+   "area": "hero-carousel",
+   "cssBackgroundOf": "div.itembg.cover2",
+   "localFile": "images/hero-slide2_cover2_stock-smiling-man-hat.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover3.jpg",
+   "alt": null,
+   "area": "hero-carousel",
+   "cssBackgroundOf": "div.itembg.cover3",
+   "localFile": "images/hero-slide3_cover3_stock-family.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

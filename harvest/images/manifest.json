@@ -1,0 +1,2395 @@
+{
+ "generated": "by build_tools/harvest_tools/build_images.py from raw/_crawl/crawl_log.json + image_overrides.json (visual review)",
+ "site": "https://www.porterfamilydentistry.com/",
+ "count": 67,
+ "countsByRole": {
+  "team": 2,
+  "hero (home slider background)": 3,
+  "hero (interior page banner)": 8,
+  "section background (template)": 3,
+  "section background (CareCredit vendor page)": 2,
+  "badge": 8,
+  "icon": 3,
+  "icon (favicon / touch icon)": 2,
+  "stock (MediaMed patient-education video thumbnail)": 34,
+  "template asset (referenced in CSS only, not shown)": 2
+ },
+ "logo": "NONE - the site has no logo image; the header \"logo\" is live text (David L. Porter, D.D.S., P.C. / We Treat You Like You Are Our Family!).",
+ "skippedTrackingPixels": [],
+ "excludedNonImages": [
+  {
+   "sourceUrl": "https://www.porterfamilydentistry.com/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular",
+   "reason": "icon font (FontAwesome SVG font), not an image"
+  },
+  {
+   "sourceUrl": "https://www.porterfamilydentistry.com/css/video-js/font/vjs.svg#icomoon",
+   "reason": "icon font (video.js), not an image"
+  }
+ ],
+ "images": [
+  {
+   "sourceUrl": "https://c3-preview.prosites.com/277152/ed/PageMeetTheTeam/69cbb050-b785-47ee-9787-d7e22a708f8b_lg.jpg",
+   "localFile": "images/team_dr-david-l-porter_headshot.jpg",
+   "originalFilename": "69cbb050-b785-47ee-9787-d7e22a708f8b_lg.jpg",
+   "pixelSize": [
+    275,
+    385
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 17472,
+   "altText": [],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "our-practice__meet-the-team"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [
+    "275x385"
+   ],
+   "role": "team",
+   "realOrStock": "REAL - practice photo",
+   "assessment": "Dr. David L. Porter headshot (navy polo, warm beige backdrop, natural light). Only 275x385 px; the ProSites CDN has no larger original (tried no-suffix, _xl, _xlg, _orig, _original, _full, _md -> 404; only a smaller _sm exists). Usable as a small portrait only; a new high-res portrait is needed for any large use."
+  },
+  {
+   "sourceUrl": "https://c3-preview.prosites.com/277152/wy/images/team.png",
+   "localFile": "images/team_group-photo_10-staff.png",
+   "originalFilename": "team.png",
+   "pixelSize": [
+    646,
+    399
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 541536,
+   "altText": [
+    ""
+   ],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "our-practice__meet-the-team"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [
+    "646x399"
+   ],
+   "role": "team",
+   "realOrStock": "REAL - practice photo",
+   "assessment": "Group photo of 10 female staff members in scrubs/tops against a beige wall (no one is named on the site; Dr. Porter is not in it). 646x399 px PNG, sharp but small: fine as an inline/medium image, too small for a full-width hero."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/cover1.jpg",
+   "localFile": "images/hero-slide1_cover1_stock-smiling-woman.jpg",
+   "originalFilename": "cover1.jpg",
+   "pixelSize": [
+    2000,
+    1002
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 381238,
+   "altText": [],
+   "altNote": "CSS background / link icon - no alt text",
+   "usedOnPages": [
+    "home",
+    "home (mobile 390px)"
+   ],
+   "usedAs": [
+    "css-background"
+   ],
+   "areas": [
+    "hero-carousel"
+   ],
+   "cssElements": [
+    "div.itembg.cover1"
+   ],
+   "renderedSizes": [],
+   "referencedInCss": [
+    "default.css"
+   ],
+   "role": "hero (home slider background)",
+   "realOrStock": "STOCK - ProSites template 2283 default",
+   "assessment": "Stock photo of a smiling young woman with long brown hair, white background. 2000x1002. Served from styles.prosites.com (template asset, shared by every site on this template) - not the practice."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/cover2.jpg",
+   "localFile": "images/hero-slide2_cover2_stock-smiling-man-hat.jpg",
+   "originalFilename": "cover2.jpg",
+   "pixelSize": [
+    2000,
+    1002
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 424540,
+   "altText": [],
+   "altNote": "CSS background / link icon - no alt text",
+   "usedOnPages": [
+    "home",
+    "home (mobile 390px)"
+   ],
+   "usedAs": [
+    "css-background"
+   ],
+   "areas": [
+    "hero-carousel"
+   ],
+   "cssElements": [
+    "div.itembg.cover2"
+   ],
+   "renderedSizes": [
+    "1440x1002"
+   ],
+   "referencedInCss": [
+    "default.css"
+   ],
+   "role": "hero (home slider background)",
+   "realOrStock": "STOCK - ProSites template 2283 default",
+   "assessment": "Stock photo of a smiling man in a straw hat, pale blue background. 2000x1002. Template asset - not the practice."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/cover3.jpg",
+   "localFile": "images/hero-slide3_cover3_stock-family.jpg",
+   "originalFilename": "cover3.jpg",
+   "pixelSize": [
+    2000,
+    1002
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 394661,
+   "altText": [],
+   "altNote": "CSS background / link icon - no alt text",
+   "usedOnPages": [
+    "home",
+    "home (mobile 390px)"
+   ],
+   "usedAs": [
+    "css-background"
+   ],
+   "areas": [
+    "hero-carousel"
+   ],
+   "cssElements": [
+    "div.itembg.cover3"
+   ],
+   "renderedSizes": [],
+   "referencedInCss": [
+    "default.css"
+   ],
+   "role": "hero (home slider background)",
+   "realOrStock": "STOCK - ProSites template 2283 default",
+   "assessment": "Stock photo of a smiling family (father, mother, daughter), white background. 2000x1002. Template asset - not the practice."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/ban/banner1.jpg",
+   "localFile": "images/banner1.jpg",
+   "pixelSize": [
+    1900,
+    350
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 104808,
+   "altText": [],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "our-services__cleanings-prevention__dental-x-rays",
+    "our-services__cleanings-prevention__fluoride-treatment",
+    "our-services__cosmetic-dentistry__teeth-whitening",
+    "our-services__restorations"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "hero-banner"
+   ],
+   "renderedSizes": [
+    "1440x265"
+   ],
+   "role": "hero (interior page banner)",
+   "realOrStock": "STOCK - ProSites template 2283 banner set",
+   "assessment": "Stock banner, woman with long hair smiling, washed-out left/right. 1900x350."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/ban/banner2.jpg",
+   "localFile": "images/banner2.jpg",
+   "pixelSize": [
+    1900,
+    350
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 60976,
+   "altText": [],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "our-practice",
+    "our-services__cleanings-prevention__how-to-properly-brush-floss",
+    "our-services__cosmetic-dentistry__porcelain-fixed-bridges",
+    "our-services__prosthodontics__dentures-partial-dentures",
+    "patient-information__dental-videos",
+    "patient-reviews"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "hero-banner"
+   ],
+   "renderedSizes": [
+    "1440x265"
+   ],
+   "role": "hero (interior page banner)",
+   "realOrStock": "STOCK - ProSites template 2283 banner set",
+   "assessment": "Stock banner, smiling man in hat (same model as cover2). 1900x350."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/ban/banner3.jpg",
+   "localFile": "images/banner3.jpg",
+   "pixelSize": [
+    1900,
+    350
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 85544,
+   "altText": [],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "our-services__cleanings-prevention__intraoral-cameras",
+    "our-services__endodontics__cracked-tooth",
+    "our-services__endodontics__root-canal-therapy",
+    "our-services__periodontics__periodontal-scaling-root-planing",
+    "our-services__restorations__root-canal-therapy",
+    "patient-information__faqs"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "hero-banner"
+   ],
+   "renderedSizes": [
+    "1440x265"
+   ],
+   "role": "hero (interior page banner)",
+   "realOrStock": "STOCK - ProSites template 2283 banner set",
+   "assessment": "Stock banner, smiling family (same models as cover3). 1900x350."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/ban/banner4.jpg",
+   "localFile": "images/banner4.jpg",
+   "pixelSize": [
+    1900,
+    350
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 79973,
+   "altText": [],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "our-services",
+    "our-services__cleanings-prevention",
+    "our-services__endodontics__root-canal-retreatment",
+    "our-services__restorations__crowns-caps",
+    "our-services__restorations__fixed-bridges",
+    "patient-information",
+    "patient-information__financing"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "hero-banner"
+   ],
+   "renderedSizes": [
+    "1440x265"
+   ],
+   "role": "hero (interior page banner)",
+   "realOrStock": "STOCK - ProSites template 2283 banner set",
+   "assessment": "Stock banner, two young women/girl smiling outdoors on green. 1900x350."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/ban/banner5.jpg",
+   "localFile": "images/banner5.jpg",
+   "pixelSize": [
+    1900,
+    350
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 55423,
+   "altText": [],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "appointment-request",
+    "our-services__dental-emergencies"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "hero-banner"
+   ],
+   "renderedSizes": [
+    "1440x265"
+   ],
+   "role": "hero (interior page banner)",
+   "realOrStock": "STOCK - ProSites template 2283 banner set",
+   "assessment": "Stock banner, smiling woman on teal background. 1900x350."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/ban/banner6.jpg",
+   "localFile": "images/banner6.jpg",
+   "pixelSize": [
+    1900,
+    350
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 91680,
+   "altText": [],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "contact-us",
+    "our-services__dental-anxiety-and-fear",
+    "our-services__endodontics",
+    "our-services__endodontics__root-amputation",
+    "our-services__restorations__composite-fillings"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "hero-banner"
+   ],
+   "renderedSizes": [
+    "1440x265"
+   ],
+   "role": "hero (interior page banner)",
+   "realOrStock": "STOCK - ProSites template 2283 banner set",
+   "assessment": "Stock banner, smiling older couple outdoors. 1900x350."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/ban/banner7.jpg",
+   "localFile": "images/banner7.jpg",
+   "pixelSize": [
+    1900,
+    350
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 53614,
+   "altText": [],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "our-services__cleanings-prevention__dental-exams-cleanings",
+    "our-services__cleanings-prevention__simple-tooth-extractions",
+    "our-services__cosmetic-dentistry",
+    "our-services__cosmetic-dentistry__composite-fillings",
+    "our-services__cosmetic-dentistry__dentures-partial-dentures",
+    "our-services__cosmetic-dentistry__nitewhite-acp-teeth-whitening",
+    "our-services__cosmetic-dentistry__porcelain-crowns-caps",
+    "our-services__periodontics__prophylaxis-teeth-cleaning",
+    "our-services__prosthodontics",
+    "our-services__prosthodontics__fixed-bridges"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "hero-banner"
+   ],
+   "renderedSizes": [
+    "1440x265"
+   ],
+   "role": "hero (interior page banner)",
+   "realOrStock": "STOCK - ProSites template 2283 banner set",
+   "assessment": "Stock banner, smiling woman with long blonde hair, white background. 1900x350."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/ban/banner8.jpg",
+   "localFile": "images/banner8.jpg",
+   "pixelSize": [
+    1900,
+    350
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 150506,
+   "altText": [],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "our-practice__meet-the-team",
+    "our-practice__testimonials",
+    "our-services__periodontics",
+    "our-services__periodontics__root-amputation",
+    "our-services__prosthodontics__crowns-caps"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "hero-banner"
+   ],
+   "renderedSizes": [
+    "1440x265"
+   ],
+   "role": "hero (interior page banner)",
+   "realOrStock": "STOCK - ProSites template 2283 banner set",
+   "assessment": "Stock banner, smiling couple, blurred bokeh background. 1900x350."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "localFile": "images/bg_content-bg_tile.png",
+   "originalFilename": "content-bg.png",
+   "pixelSize": [
+    25,
+    25
+   ],
+   "format": "PNG",
+   "mode": "RGB",
+   "bytes": 113,
+   "altText": [],
+   "altNote": "CSS background / link icon - no alt text",
+   "usedOnPages": [
+    "appointment-request",
+    "contact-us",
+    "home",
+    "home (mobile 390px)",
+    "our-practice",
+    "our-practice__meet-the-team",
+    "our-practice__testimonials",
+    "our-services",
+    "our-services__cleanings-prevention",
+    "our-services__cleanings-prevention__dental-exams-cleanings",
+    "our-services__cleanings-prevention__dental-x-rays",
+    "our-services__cleanings-prevention__fluoride-treatment",
+    "our-services__cleanings-prevention__how-to-properly-brush-floss",
+    "our-services__cleanings-prevention__intraoral-cameras",
+    "our-services__cleanings-prevention__simple-tooth-extractions",
+    "our-services__cosmetic-dentistry",
+    "our-services__cosmetic-dentistry__composite-fillings",
+    "our-services__cosmetic-dentistry__dentures-partial-dentures",
+    "our-services__cosmetic-dentistry__nitewhite-acp-teeth-whitening",
+    "our-services__cosmetic-dentistry__porcelain-crowns-caps",
+    "our-services__cosmetic-dentistry__porcelain-fixed-bridges",
+    "our-services__cosmetic-dentistry__teeth-whitening",
+    "our-services__dental-anxiety-and-fear",
+    "our-services__dental-emergencies",
+    "our-services__endodontics",
+    "our-services__endodontics__cracked-tooth",
+    "our-services__endodontics__root-amputation",
+    "our-services__endodontics__root-canal-retreatment",
+    "our-services__endodontics__root-canal-therapy",
+    "our-services__periodontics",
+    "our-services__periodontics__periodontal-scaling-root-planing",
+    "our-services__periodontics__prophylaxis-teeth-cleaning",
+    "our-services__periodontics__root-amputation",
+    "our-services__prosthodontics",
+    "our-services__prosthodontics__crowns-caps",
+    "our-services__prosthodontics__dentures-partial-dentures",
+    "our-services__prosthodontics__fixed-bridges",
+    "our-services__restorations",
+    "our-services__restorations__composite-fillings",
+    "our-services__restorations__crowns-caps",
+    "our-services__restorations__fixed-bridges",
+    "our-services__restorations__root-canal-therapy",
+    "patient-information",
+    "patient-information__dental-videos",
+    "patient-information__faqs",
+    "patient-information__financing",
+    "patient-reviews"
+   ],
+   "usedAs": [
+    "css-background"
+   ],
+   "areas": [
+    "plugin-address",
+    "plugin-contact"
+   ],
+   "cssElements": [
+    "section#address.address-plugin.wow.fadeIn",
+    "section#form.contact-plugin"
+   ],
+   "renderedSizes": [
+    "1440x0",
+    "1440x240",
+    "1440x561",
+    "1440x571"
+   ],
+   "referencedInCss": [
+    "default.css"
+   ],
+   "role": "section background (template)",
+   "realOrStock": "TEMPLATE texture",
+   "assessment": "25x25 repeating tile behind the Contact Us and Office Location sections."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "localFile": "images/bg_cover-content_beige-texture.jpg",
+   "originalFilename": "cover-content.jpg",
+   "pixelSize": [
+    2000,
+    1002
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 119505,
+   "altText": [],
+   "altNote": "CSS background / link icon - no alt text",
+   "usedOnPages": [
+    "appointment-request",
+    "contact-us",
+    "home",
+    "home (mobile 390px)",
+    "our-practice",
+    "our-practice__meet-the-team",
+    "our-practice__testimonials",
+    "our-services",
+    "our-services__cleanings-prevention",
+    "our-services__cleanings-prevention__dental-exams-cleanings",
+    "our-services__cleanings-prevention__dental-x-rays",
+    "our-services__cleanings-prevention__fluoride-treatment",
+    "our-services__cleanings-prevention__how-to-properly-brush-floss",
+    "our-services__cleanings-prevention__intraoral-cameras",
+    "our-services__cleanings-prevention__simple-tooth-extractions",
+    "our-services__cosmetic-dentistry",
+    "our-services__cosmetic-dentistry__composite-fillings",
+    "our-services__cosmetic-dentistry__dentures-partial-dentures",
+    "our-services__cosmetic-dentistry__nitewhite-acp-teeth-whitening",
+    "our-services__cosmetic-dentistry__porcelain-crowns-caps",
+    "our-services__cosmetic-dentistry__porcelain-fixed-bridges",
+    "our-services__cosmetic-dentistry__teeth-whitening",
+    "our-services__dental-anxiety-and-fear",
+    "our-services__dental-emergencies",
+    "our-services__endodontics",
+    "our-services__endodontics__cracked-tooth",
+    "our-services__endodontics__root-amputation",
+    "our-services__endodontics__root-canal-retreatment",
+    "our-services__endodontics__root-canal-therapy",
+    "our-services__periodontics",
+    "our-services__periodontics__periodontal-scaling-root-planing",
+    "our-services__periodontics__prophylaxis-teeth-cleaning",
+    "our-services__periodontics__root-amputation",
+    "our-services__prosthodontics",
+    "our-services__prosthodontics__crowns-caps",
+    "our-services__prosthodontics__dentures-partial-dentures",
+    "our-services__prosthodontics__fixed-bridges",
+    "our-services__restorations",
+    "our-services__restorations__composite-fillings",
+    "our-services__restorations__crowns-caps",
+    "our-services__restorations__fixed-bridges",
+    "our-services__restorations__root-canal-therapy",
+    "patient-information",
+    "patient-information__dental-videos",
+    "patient-information__faqs",
+    "patient-information__financing",
+    "patient-reviews"
+   ],
+   "usedAs": [
+    "css-background"
+   ],
+   "areas": [
+    "main"
+   ],
+   "cssElements": [
+    "section#content.content.m-padding"
+   ],
+   "renderedSizes": [
+    "1440x1025",
+    "1440x1046",
+    "1440x1069",
+    "1440x1070",
+    "1440x1071",
+    "1440x1074",
+    "1440x1076",
+    "1440x1097",
+    "1440x1104",
+    "1440x1115",
+    "1440x1121",
+    "1440x1141",
+    "1440x1167",
+    "1440x1186",
+    "1440x1240",
+    "1440x1254",
+    "1440x1322",
+    "1440x1335",
+    "1440x1403",
+    "1440x1419",
+    "1440x1486",
+    "1440x1506",
+    "1440x1569",
+    "1440x1612",
+    "1440x1635",
+    "1440x1659",
+    "1440x1666",
+    "1440x1738",
+    "1440x1831",
+    "1440x1851",
+    "1440x1852",
+    "1440x1893",
+    "1440x1937",
+    "1440x2103",
+    "1440x2132",
+    "1440x2156",
+    "1440x789",
+    "1440x860",
+    "1440x896",
+    "1440x965"
+   ],
+   "referencedInCss": [
+    "default.css"
+   ],
+   "role": "section background (template)",
+   "realOrStock": "TEMPLATE texture",
+   "assessment": "Pale beige paper texture behind the main content section on every page. 2000x1002."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg",
+   "originalFilename": "cover-testimonial.jpg",
+   "pixelSize": [
+    2000,
+    1500
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 1592494,
+   "altText": [],
+   "altNote": "CSS background / link icon - no alt text",
+   "usedOnPages": [
+    "appointment-request",
+    "contact-us",
+    "home",
+    "home (mobile 390px)",
+    "our-practice",
+    "our-practice__meet-the-team",
+    "our-practice__testimonials",
+    "our-services",
+    "our-services__cleanings-prevention",
+    "our-services__cleanings-prevention__dental-exams-cleanings",
+    "our-services__cleanings-prevention__dental-x-rays",
+    "our-services__cleanings-prevention__fluoride-treatment",
+    "our-services__cleanings-prevention__how-to-properly-brush-floss",
+    "our-services__cleanings-prevention__intraoral-cameras",
+    "our-services__cleanings-prevention__simple-tooth-extractions",
+    "our-services__cosmetic-dentistry",
+    "our-services__cosmetic-dentistry__composite-fillings",
+    "our-services__cosmetic-dentistry__dentures-partial-dentures",
+    "our-services__cosmetic-dentistry__nitewhite-acp-teeth-whitening",
+    "our-services__cosmetic-dentistry__porcelain-crowns-caps",
+    "our-services__cosmetic-dentistry__porcelain-fixed-bridges",
+    "our-services__cosmetic-dentistry__teeth-whitening",
+    "our-services__dental-anxiety-and-fear",
+    "our-services__dental-emergencies",
+    "our-services__endodontics",
+    "our-services__endodontics__cracked-tooth",
+    "our-services__endodontics__root-amputation",
+    "our-services__endodontics__root-canal-retreatment",
+    "our-services__endodontics__root-canal-therapy",
+    "our-services__periodontics",
+    "our-services__periodontics__periodontal-scaling-root-planing",
+    "our-services__periodontics__prophylaxis-teeth-cleaning",
+    "our-services__periodontics__root-amputation",
+    "our-services__prosthodontics",
+    "our-services__prosthodontics__crowns-caps",
+    "our-services__prosthodontics__dentures-partial-dentures",
+    "our-services__prosthodontics__fixed-bridges",
+    "our-services__restorations",
+    "our-services__restorations__composite-fillings",
+    "our-services__restorations__crowns-caps",
+    "our-services__restorations__fixed-bridges",
+    "our-services__restorations__root-canal-therapy",
+    "patient-information",
+    "patient-information__dental-videos",
+    "patient-information__faqs",
+    "patient-information__financing",
+    "patient-reviews"
+   ],
+   "usedAs": [
+    "css-background"
+   ],
+   "areas": [
+    "plugin-testimonials"
+   ],
+   "cssElements": [
+    "section#testiomnials.testimonials-plugin"
+   ],
+   "renderedSizes": [
+    "1440x0",
+    "1440x478",
+    "1440x547"
+   ],
+   "referencedInCss": [
+    "default.css"
+   ],
+   "role": "section background (template)",
+   "realOrStock": "STOCK - template",
+   "assessment": "Grey weathered wood planks with white blossoms, behind the Testimonials section on every page. 2000x1500."
+  },
+  {
+   "sourceUrl": "https://www.porterfamilydentistry.com/images/CareCredit/bg1b.png",
+   "localFile": "images/carecredit_bg1b_stock-woman.png",
+   "originalFilename": "bg1b.png",
+   "pixelSize": [
+    1715,
+    1880
+   ],
+   "format": "PNG",
+   "mode": "P",
+   "bytes": 1162985,
+   "altText": [],
+   "altNote": "CSS background / link icon - no alt text",
+   "usedOnPages": [
+    "patient-information__financing"
+   ],
+   "usedAs": [
+    "css-background"
+   ],
+   "areas": [
+    "section-carecredit-financing-page"
+   ],
+   "cssElements": [
+    "div.carecredit-banner::after"
+   ],
+   "renderedSizes": [
+    "1010x600"
+   ],
+   "referencedInCss": [
+    "inline-style:patient-information__financing"
+   ],
+   "role": "section background (CareCredit vendor page)",
+   "realOrStock": "STOCK - ProSites CareCredit page asset",
+   "assessment": "Cut-out stock photo of a smiling woman, background of the Financing page banner. 1715x1880."
+  },
+  {
+   "sourceUrl": "https://www.porterfamilydentistry.com/images/CareCredit/carecredit-bg2.jpg",
+   "localFile": "images/carecredit_bg2_blurred-operatory.jpg",
+   "originalFilename": "carecredit-bg2.jpg",
+   "pixelSize": [
+    1051,
+    622
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 75145,
+   "altText": [],
+   "altNote": "CSS background / link icon - no alt text",
+   "usedOnPages": [
+    "patient-information__financing"
+   ],
+   "usedAs": [
+    "css-background"
+   ],
+   "areas": [
+    "section-carecredit-financing-page"
+   ],
+   "cssElements": [
+    "div.carecredit-banner::before"
+   ],
+   "renderedSizes": [
+    "1010x600"
+   ],
+   "referencedInCss": [
+    "inline-style:patient-information__financing"
+   ],
+   "role": "section background (CareCredit vendor page)",
+   "realOrStock": "STOCK - ProSites CareCredit page asset",
+   "assessment": "Heavily blurred, washed-out dental operatory. 1051x622."
+  },
+  {
+   "sourceUrl": "https://c2-preview.prosites.com/26868/wy/images/logos/amex.png",
+   "localFile": "images/badge_card_amex.png",
+   "originalFilename": "amex.png",
+   "pixelSize": [
+    64,
+    64
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 4698,
+   "altText": [
+    ""
+   ],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "patient-information"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [
+    "64x64"
+   ],
+   "role": "badge",
+   "realOrStock": "VENDOR LOGO",
+   "assessment": "64x64 payment-card logo (from ProSites shared library, site id 26868)."
+  },
+  {
+   "sourceUrl": "https://c2-preview.prosites.com/26868/wy/images/logos/discover.png",
+   "localFile": "images/badge_card_discover.png",
+   "originalFilename": "discover.png",
+   "pixelSize": [
+    64,
+    64
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 3404,
+   "altText": [
+    ""
+   ],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "patient-information"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [
+    "64x64"
+   ],
+   "role": "badge",
+   "realOrStock": "VENDOR LOGO",
+   "assessment": "64x64 payment-card logo (from ProSites shared library, site id 26868)."
+  },
+  {
+   "sourceUrl": "https://c2-preview.prosites.com/26868/wy/images/logos/mastercard.png",
+   "localFile": "images/badge_card_mastercard.png",
+   "originalFilename": "mastercard.png",
+   "pixelSize": [
+    64,
+    64
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 3694,
+   "altText": [
+    ""
+   ],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "patient-information"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [
+    "64x64"
+   ],
+   "role": "badge",
+   "realOrStock": "VENDOR LOGO",
+   "assessment": "64x64 payment-card logo (from ProSites shared library, site id 26868)."
+  },
+  {
+   "sourceUrl": "https://c2-preview.prosites.com/26868/wy/images/logos/visa.png",
+   "localFile": "images/badge_card_visa.png",
+   "originalFilename": "visa.png",
+   "pixelSize": [
+    64,
+    64
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 3092,
+   "altText": [
+    ""
+   ],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "patient-information"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [
+    "64x64"
+   ],
+   "role": "badge",
+   "realOrStock": "VENDOR LOGO",
+   "assessment": "64x64 payment-card logo (from ProSites shared library, site id 26868)."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/carecredit/care-credit.png",
+   "localFile": "images/badge_carecredit-logo-tagline.png",
+   "originalFilename": "care-credit.png",
+   "pixelSize": [
+    300,
+    123
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 47469,
+   "altText": [
+    "care credit"
+   ],
+   "usedOnPages": [
+    "patient-information__financing"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "section-carecredit-financing-page"
+   ],
+   "renderedSizes": [
+    "300x123"
+   ],
+   "role": "badge",
+   "realOrStock": "VENDOR LOGO",
+   "assessment": "CareCredit logo with 'Making care possible...today.' (300x123), Financing page."
+  },
+  {
+   "sourceUrl": "https://c3-preview.prosites.com/277152/wy/images/icons/CareCredit-Logo%202.png",
+   "localFile": "images/badge_carecredit-logo.png",
+   "originalFilename": "CareCredit-Logo-2.png",
+   "pixelSize": [
+    600,
+    89
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 29698,
+   "altText": [
+    ""
+   ],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "patient-information"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [
+    "250x37"
+   ],
+   "role": "badge",
+   "realOrStock": "VENDOR LOGO",
+   "assessment": "CareCredit logo (600x89) on Patient Information, links to the Financing page."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/carecredit/carecredit_button_applynow_350x213_g_v1.png",
+   "localFile": "images/badge_carecredit_apply-now-button.png",
+   "originalFilename": "carecredit_button_applynow_350x213_g_v1.png",
+   "pixelSize": [
+    350,
+    213
+   ],
+   "format": "PNG",
+   "mode": "P",
+   "bytes": 5445,
+   "altText": [
+    ""
+   ],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "patient-information__financing"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "section-carecredit-financing-page"
+   ],
+   "renderedSizes": [
+    "320x195"
+   ],
+   "role": "badge",
+   "realOrStock": "VENDOR BUTTON",
+   "assessment": "CareCredit 'Financing Available* Apply Now' button (350x213), links to carecredit.com/go/GCG545/."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/carecredit/PayBill.jpg",
+   "localFile": "images/badge_carecredit_pay-bill-button.jpg",
+   "originalFilename": "PayBill.jpg",
+   "pixelSize": [
+    350,
+    259
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 17295,
+   "altText": [
+    ""
+   ],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "patient-information__financing"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "section-carecredit-financing-page"
+   ],
+   "renderedSizes": [
+    "320x237"
+   ],
+   "role": "badge",
+   "realOrStock": "VENDOR BUTTON",
+   "assessment": "CareCredit 'Pay your bill with CareCredit' button (350x259), links to carecredit.com/Pay/GCG545/."
+  },
+  {
+   "sourceUrl": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "localFile": "images/icon_social_facebook-button.png",
+   "originalFilename": "facebook-button-sm.png",
+   "pixelSize": [
+    75,
+    75
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 3499,
+   "altText": [
+    ""
+   ],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "appointment-request",
+    "contact-us",
+    "home",
+    "home (mobile 390px)",
+    "our-practice",
+    "our-practice__meet-the-team",
+    "our-practice__testimonials",
+    "our-services",
+    "our-services__cleanings-prevention",
+    "our-services__cleanings-prevention__dental-exams-cleanings",
+    "our-services__cleanings-prevention__dental-x-rays",
+    "our-services__cleanings-prevention__fluoride-treatment",
+    "our-services__cleanings-prevention__how-to-properly-brush-floss",
+    "our-services__cleanings-prevention__intraoral-cameras",
+    "our-services__cleanings-prevention__simple-tooth-extractions",
+    "our-services__cosmetic-dentistry",
+    "our-services__cosmetic-dentistry__composite-fillings",
+    "our-services__cosmetic-dentistry__dentures-partial-dentures",
+    "our-services__cosmetic-dentistry__nitewhite-acp-teeth-whitening",
+    "our-services__cosmetic-dentistry__porcelain-crowns-caps",
+    "our-services__cosmetic-dentistry__porcelain-fixed-bridges",
+    "our-services__cosmetic-dentistry__teeth-whitening",
+    "our-services__dental-anxiety-and-fear",
+    "our-services__dental-emergencies",
+    "our-services__endodontics",
+    "our-services__endodontics__cracked-tooth",
+    "our-services__endodontics__root-amputation",
+    "our-services__endodontics__root-canal-retreatment",
+    "our-services__endodontics__root-canal-therapy",
+    "our-services__periodontics",
+    "our-services__periodontics__periodontal-scaling-root-planing",
+    "our-services__periodontics__prophylaxis-teeth-cleaning",
+    "our-services__periodontics__root-amputation",
+    "our-services__prosthodontics",
+    "our-services__prosthodontics__crowns-caps",
+    "our-services__prosthodontics__dentures-partial-dentures",
+    "our-services__prosthodontics__fixed-bridges",
+    "our-services__restorations",
+    "our-services__restorations__composite-fillings",
+    "our-services__restorations__crowns-caps",
+    "our-services__restorations__fixed-bridges",
+    "our-services__restorations__root-canal-therapy",
+    "patient-information",
+    "patient-information__dental-videos",
+    "patient-information__faqs",
+    "patient-information__financing",
+    "patient-reviews"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "footer"
+   ],
+   "renderedSizes": [
+    "50x50"
+   ],
+   "role": "icon",
+   "realOrStock": "ICON",
+   "assessment": "75x75 round Facebook icon in the footer of every page."
+  },
+  {
+   "sourceUrl": "https://c3-preview.prosites.com/277152/wy/images/1Facebook_large.png",
+   "localFile": "images/icon_social_facebook-square.png",
+   "originalFilename": "1Facebook_large.png",
+   "pixelSize": [
+    48,
+    48
+   ],
+   "format": "PNG",
+   "mode": "P",
+   "bytes": 402,
+   "altText": [
+    ""
+   ],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "home",
+    "home (mobile 390px)"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [
+    "48x48"
+   ],
+   "role": "icon",
+   "realOrStock": "ICON",
+   "assessment": "48x48 square Facebook icon at the bottom of the home page content."
+  },
+  {
+   "sourceUrl": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "localFile": "images/icon_social_google-button.png",
+   "originalFilename": "google-button-sm.png",
+   "pixelSize": [
+    75,
+    75
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 4150,
+   "altText": [
+    ""
+   ],
+   "altNote": "empty alt / no alt attribute",
+   "usedOnPages": [
+    "appointment-request",
+    "contact-us",
+    "home",
+    "home (mobile 390px)",
+    "our-practice",
+    "our-practice__meet-the-team",
+    "our-practice__testimonials",
+    "our-services",
+    "our-services__cleanings-prevention",
+    "our-services__cleanings-prevention__dental-exams-cleanings",
+    "our-services__cleanings-prevention__dental-x-rays",
+    "our-services__cleanings-prevention__fluoride-treatment",
+    "our-services__cleanings-prevention__how-to-properly-brush-floss",
+    "our-services__cleanings-prevention__intraoral-cameras",
+    "our-services__cleanings-prevention__simple-tooth-extractions",
+    "our-services__cosmetic-dentistry",
+    "our-services__cosmetic-dentistry__composite-fillings",
+    "our-services__cosmetic-dentistry__dentures-partial-dentures",
+    "our-services__cosmetic-dentistry__nitewhite-acp-teeth-whitening",
+    "our-services__cosmetic-dentistry__porcelain-crowns-caps",
+    "our-services__cosmetic-dentistry__porcelain-fixed-bridges",
+    "our-services__cosmetic-dentistry__teeth-whitening",
+    "our-services__dental-anxiety-and-fear",
+    "our-services__dental-emergencies",
+    "our-services__endodontics",
+    "our-services__endodontics__cracked-tooth",
+    "our-services__endodontics__root-amputation",
+    "our-services__endodontics__root-canal-retreatment",
+    "our-services__endodontics__root-canal-therapy",
+    "our-services__periodontics",
+    "our-services__periodontics__periodontal-scaling-root-planing",
+    "our-services__periodontics__prophylaxis-teeth-cleaning",
+    "our-services__periodontics__root-amputation",
+    "our-services__prosthodontics",
+    "our-services__prosthodontics__crowns-caps",
+    "our-services__prosthodontics__dentures-partial-dentures",
+    "our-services__prosthodontics__fixed-bridges",
+    "our-services__restorations",
+    "our-services__restorations__composite-fillings",
+    "our-services__restorations__crowns-caps",
+    "our-services__restorations__fixed-bridges",
+    "our-services__restorations__root-canal-therapy",
+    "patient-information",
+    "patient-information__dental-videos",
+    "patient-information__faqs",
+    "patient-information__financing",
+    "patient-reviews"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "footer"
+   ],
+   "renderedSizes": [
+    "50x50"
+   ],
+   "role": "icon",
+   "realOrStock": "ICON",
+   "assessment": "75x75 Google 'G' icon in the footer of every page (links to a Google search, not a Business Profile)."
+  },
+  {
+   "sourceUrl": "https://www.porterfamilydentistry.com/favicon.ico",
+   "localFile": "images/icon_favicon-root_generic.ico",
+   "originalFilename": "favicon.ico",
+   "pixelSize": [
+    64,
+    64
+   ],
+   "format": "ICO",
+   "mode": "RGBA",
+   "bytes": 32038,
+   "usedOnPages": [],
+   "usedAs": [
+    "css-reference-only"
+   ],
+   "areas": [],
+   "role": "icon (favicon / touch icon)",
+   "realOrStock": "GENERIC ICON",
+   "assessment": "/favicon.ico (16-64px) is a generic 'web page' placeholder icon; not referenced by the HTML and not branded."
+  },
+  {
+   "sourceUrl": "https://www.porterfamilydentistry.com/images/icons/tap/0.png",
+   "localFile": "images/icon_favicon_touch-icon_tooth.png",
+   "originalFilename": "0.png",
+   "pixelSize": [
+    114,
+    114
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 32796,
+   "altText": [],
+   "altNote": "CSS background / link icon - no alt text",
+   "usedOnPages": [
+    "appointment-request",
+    "contact-us",
+    "home",
+    "our-practice",
+    "our-practice__meet-the-team",
+    "our-practice__testimonials",
+    "our-services",
+    "our-services__cleanings-prevention",
+    "our-services__cleanings-prevention__dental-exams-cleanings",
+    "our-services__cleanings-prevention__dental-x-rays",
+    "our-services__cleanings-prevention__fluoride-treatment",
+    "our-services__cleanings-prevention__how-to-properly-brush-floss",
+    "our-services__cleanings-prevention__intraoral-cameras",
+    "our-services__cleanings-prevention__simple-tooth-extractions",
+    "our-services__cosmetic-dentistry",
+    "our-services__cosmetic-dentistry__composite-fillings",
+    "our-services__cosmetic-dentistry__dentures-partial-dentures",
+    "our-services__cosmetic-dentistry__nitewhite-acp-teeth-whitening",
+    "our-services__cosmetic-dentistry__porcelain-crowns-caps",
+    "our-services__cosmetic-dentistry__porcelain-fixed-bridges",
+    "our-services__cosmetic-dentistry__teeth-whitening",
+    "our-services__dental-anxiety-and-fear",
+    "our-services__dental-emergencies",
+    "our-services__endodontics",
+    "our-services__endodontics__cracked-tooth",
+    "our-services__endodontics__root-amputation",
+    "our-services__endodontics__root-canal-retreatment",
+    "our-services__endodontics__root-canal-therapy",
+    "our-services__periodontics",
+    "our-services__periodontics__periodontal-scaling-root-planing",
+    "our-services__periodontics__prophylaxis-teeth-cleaning",
+    "our-services__periodontics__root-amputation",
+    "our-services__prosthodontics",
+    "our-services__prosthodontics__crowns-caps",
+    "our-services__prosthodontics__dentures-partial-dentures",
+    "our-services__prosthodontics__fixed-bridges",
+    "our-services__restorations",
+    "our-services__restorations__composite-fillings",
+    "our-services__restorations__crowns-caps",
+    "our-services__restorations__fixed-bridges",
+    "our-services__restorations__root-canal-therapy",
+    "patient-information",
+    "patient-information__dental-videos",
+    "patient-information__faqs",
+    "patient-information__financing",
+    "patient-reviews"
+   ],
+   "usedAs": [
+    "favicon/apple-touch-icon",
+    "favicon/apple-touch-startup-image",
+    "favicon/icon"
+   ],
+   "areas": [
+    "head"
+   ],
+   "role": "icon (favicon / touch icon)",
+   "realOrStock": "GENERIC ICON",
+   "assessment": "114x114 generic white tooth on black rounded square - the declared favicon/apple-touch-icon (/images/icons/tap/0.png). ProSites default, not a practice logo."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/AFV.png",
+   "localFile": "images/video-thumb_AFV_new-patient-exam.png",
+   "originalFilename": "AFV.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGB",
+   "bytes": 13090,
+   "altText": [
+    "New Patient Exam"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/AMAL.png",
+   "localFile": "images/video-thumb_AMAL_amalgam-filling.png",
+   "originalFilename": "AMAL.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 25729,
+   "altText": [
+    "Amalgam Filling"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/BRIDGE.png",
+   "localFile": "images/video-thumb_BRIDGE_dental-bridge.png",
+   "originalFilename": "BRIDGE.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 22671,
+   "altText": [
+    "Dental Bridge"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/CDENT.png",
+   "localFile": "images/video-thumb_CDENT_denture.png",
+   "originalFilename": "CDENT.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 13410,
+   "altText": [
+    "Denture"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/CMPAR.png",
+   "localFile": "images/video-thumb_CMPAR_dental-filling-materials.png",
+   "originalFilename": "CMPAR.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 30368,
+   "altText": [
+    "Dental Filling Materials"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/COMP.png",
+   "localFile": "images/video-thumb_COMP_composite-filling.png",
+   "originalFilename": "COMP.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGB",
+   "bytes": 24717,
+   "altText": [
+    "Composite Filling"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/CROWN.png",
+   "localFile": "images/video-thumb_CROWN_crown.png",
+   "originalFilename": "CROWN.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 8995,
+   "altText": [
+    "Crown"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/CRWNCMPR.png",
+   "localFile": "images/video-thumb_CRWNCMPR_crown-material-comparison.png",
+   "originalFilename": "CRWNCMPR.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 12809,
+   "altText": [
+    "Crown Material Comparison"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/CRWNMTL.png",
+   "localFile": "images/video-thumb_CRWNMTL_gold-crown.png",
+   "originalFilename": "CRWNMTL.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 28301,
+   "altText": [
+    "Gold Crown"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/CRWNPFTM.png",
+   "localFile": "images/video-thumb_CRWNPFTM_porcelain-metal-crown.png",
+   "originalFilename": "CRWNPFTM.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 12899,
+   "altText": [
+    "Porcelain-Metal Crown"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/CRWNPORC.png",
+   "localFile": "images/video-thumb_CRWNPORC_porcelain-crown.png",
+   "originalFilename": "CRWNPORC.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 22756,
+   "altText": [
+    "Porcelain Crown"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/EXTR.png",
+   "localFile": "images/video-thumb_EXTR_tooth-extraction.png",
+   "originalFilename": "EXTR.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 24089,
+   "altText": [
+    "Tooth Extraction"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/HOMBL.png",
+   "localFile": "images/video-thumb_HOMBL_home-teeth-whitening.png",
+   "originalFilename": "HOMBL.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 25021,
+   "altText": [
+    "Home Teeth Whitening"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/IDENT.png",
+   "localFile": "images/video-thumb_IDENT_immediate-denture.png",
+   "originalFilename": "IDENT.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 26298,
+   "altText": [
+    "Immediate Denture"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/IMPCRWN.png",
+   "localFile": "images/video-thumb_IMPCRWN_implant-for-crown-bridge.png",
+   "originalFilename": "IMPCRWN.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 28434,
+   "altText": [
+    "Implant for Crown & Bridge"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/IMPDENT.png",
+   "localFile": "images/video-thumb_IMPDENT_implant-for-denture.png",
+   "originalFilename": "IMPDENT.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGB",
+   "bytes": 21610,
+   "altText": [
+    "Implant for Denture"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/INLAYPORC.png",
+   "localFile": "images/video-thumb_INLAYPORC_porcelain-inlay.png",
+   "originalFilename": "INLAYPORC.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 32192,
+   "altText": [
+    "Porcelain Inlay"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/INLAY.png",
+   "localFile": "images/video-thumb_INLAY_inlay-filling.png",
+   "originalFilename": "INLAY.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 29126,
+   "altText": [
+    "Inlay Filling"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/NIGHTGRD.png",
+   "localFile": "images/video-thumb_NIGHTGRD_night-guard.png",
+   "originalFilename": "NIGHTGRD.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 18900,
+   "altText": [
+    "Night Guard"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/OFCBL.png",
+   "localFile": "images/video-thumb_OFCBL_in-office-teeth-whitening.png",
+   "originalFilename": "OFCBL.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 30250,
+   "altText": [
+    "In Office Teeth Whitening"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/OHI.png",
+   "localFile": "images/video-thumb_OHI_brushing-flossing.png",
+   "originalFilename": "OHI.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 22268,
+   "altText": [
+    "Brushing & Flossing"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/PDENT.png",
+   "localFile": "images/video-thumb_PDENT_partial-denture.png",
+   "originalFilename": "PDENT.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGB",
+   "bytes": 6016,
+   "altText": [
+    "Partial Denture"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/PEDOPROPHY.png",
+   "localFile": "images/video-thumb_PEDOPROPHY_pediatric-teeth-cleaning.png",
+   "originalFilename": "PEDOPROPHY.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGB",
+   "bytes": 7572,
+   "altText": [
+    "Pediatric Teeth Cleaning"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/PEDOSEAL.png",
+   "localFile": "images/video-thumb_PEDOSEAL_sealants-sports-guard.png",
+   "originalFilename": "PEDOSEAL.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 26765,
+   "altText": [
+    "Sealants & Sports Guard"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/PEDO.png",
+   "localFile": "images/video-thumb_PEDO_pediatric-first-visit.png",
+   "originalFilename": "PEDO.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 30099,
+   "altText": [
+    "Pediatric First Visit"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/POSTOP.png",
+   "localFile": "images/video-thumb_POSTOP_post-surgery-instructions.png",
+   "originalFilename": "POSTOP.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 21370,
+   "altText": [
+    "Post Surgery Instructions"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/PROPHY.png",
+   "localFile": "images/video-thumb_PROPHY_in-office-cleaning.png",
+   "originalFilename": "PROPHY.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 23387,
+   "altText": [
+    "In Office Cleaning"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/RCT2.png",
+   "localFile": "images/video-thumb_RCT2_alternatives-to-root-canal.png",
+   "originalFilename": "RCT2.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 19774,
+   "altText": [
+    "Alternatives to Root Canal"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/RCT.png",
+   "localFile": "images/video-thumb_RCT_root-canal.png",
+   "originalFilename": "RCT.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 31982,
+   "altText": [
+    "Root Canal"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/RPOST.png",
+   "localFile": "images/video-thumb_RPOST_denture-home-care.png",
+   "originalFilename": "RPOST.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 27613,
+   "altText": [
+    "Denture Home Care"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/SRP.PNG",
+   "localFile": "images/video-thumb_SRP_deep-cleaning.png",
+   "originalFilename": "SRP.PNG",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGB",
+   "bytes": 25569,
+   "altText": [
+    "Deep Cleaning"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/STAYPLT.png",
+   "localFile": "images/video-thumb_STAYPLT_temporary-partial-denture.png",
+   "originalFilename": "STAYPLT.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 8993,
+   "altText": [
+    "Temporary Partial Denture"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/VENE.png",
+   "localFile": "images/video-thumb_VENE_veneer.png",
+   "originalFilename": "VENE.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 25419,
+   "altText": [
+    "Veneer"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://content.prosites.com/images/mediamed/thumbs/WSDM.png",
+   "localFile": "images/video-thumb_WSDM_wisdom-teeth.png",
+   "originalFilename": "WSDM.png",
+   "pixelSize": [
+    142,
+    80
+   ],
+   "format": "PNG",
+   "mode": "RGBA",
+   "bytes": 23708,
+   "altText": [
+    "Wisdom Teeth"
+   ],
+   "usedOnPages": [
+    "patient-information__dental-videos"
+   ],
+   "usedAs": [
+    "img"
+   ],
+   "areas": [
+    "main"
+   ],
+   "renderedSizes": [],
+   "role": "stock (MediaMed patient-education video thumbnail)",
+   "realOrStock": "STOCK - vendor video library",
+   "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse."
+  },
+  {
+   "sourceUrl": "https://www.porterfamilydentistry.com/images/CareCredit/footer-cta-bg-3.jpg",
+   "localFile": "images/unused_carecredit_footer-cta-bg-3_stock-couple.jpg",
+   "originalFilename": "footer-cta-bg-3.jpg",
+   "pixelSize": [
+    686,
+    667
+   ],
+   "format": "JPEG",
+   "mode": "RGB",
+   "bytes": 370022,
+   "usedOnPages": [],
+   "usedAs": [
+    "css-reference-only"
+   ],
+   "areas": [],
+   "referencedInCss": [
+    "inline-style:patient-information__financing"
+   ],
+   "role": "template asset (referenced in CSS only, not shown)",
+   "realOrStock": "STOCK",
+   "assessment": "Stock couple piggy-back photo referenced by the CareCredit page CSS but not displayed on this site. 686x667."
+  },
+  {
+   "sourceUrl": "https://www.porterfamilydentistry.com/css/fancybox/fancybox_sprite.png",
+   "localFile": "images/unused_fancybox_sprite.png",
+   "originalFilename": "fancybox_sprite.png",
+   "pixelSize": [
+    44,
+    152
+   ],
+   "format": "PNG",
+   "mode": "P",
+   "bytes": 1362,
+   "usedOnPages": [],
+   "usedAs": [
+    "css-reference-only"
+   ],
+   "areas": [],
+   "referencedInCss": [
+    "jquery.fancybox.css"
+   ],
+   "role": "template asset (referenced in CSS only, not shown)",
+   "realOrStock": "PLUGIN UI",
+   "assessment": "Fancybox lightbox close/prev/next sprite."
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular",
+   "localFile": null,
+   "downloadStatus": 404,
+   "error": null,
+   "usedOnPages": [],
+   "note": "could not download (referenced only by plugin/template CSS; not visible on the site)"
+  },
+  {
+   "sourceUrl": "https://www.porterfamilydentistry.com/css/owl.video.play.png",
+   "localFile": null,
+   "downloadStatus": 404,
+   "error": null,
+   "usedOnPages": [],
+   "note": "could not download (referenced only by plugin/template CSS; not visible on the site)"
+  },
+  {
+   "sourceUrl": "https://www.porterfamilydentistry.com/css/fancybox/fancybox_loading.gif",
+   "localFile": null,
+   "downloadStatus": 404,
+   "error": null,
+   "usedOnPages": [],
+   "note": "could not download (referenced only by plugin/template CSS; not visible on the site)"
+  },
+  {
+   "sourceUrl": "https://www.porterfamilydentistry.com/css/fancybox/blank.gif",
+   "localFile": null,
+   "downloadStatus": 404,
+   "error": null,
+   "usedOnPages": [],
+   "note": "could not download (referenced only by plugin/template CSS; not visible on the site)"
+  },
+  {
+   "sourceUrl": "https://www.porterfamilydentistry.com/css/fancybox/fancybox_sprite@2x.png",
+   "localFile": null,
+   "downloadStatus": 404,
+   "error": null,
+   "usedOnPages": [],
+   "note": "could not download (referenced only by plugin/template CSS; not visible on the site)"
+  },
+  {
+   "sourceUrl": "https://www.porterfamilydentistry.com/css/fancybox/fancybox_loading@2x.gif",
+   "localFile": null,
+   "downloadStatus": 404,
+   "error": null,
+   "usedOnPages": [],
+   "note": "could not download (referenced only by plugin/template CSS; not visible on the site)"
+  },
+  {
+   "sourceUrl": "https://styles.prosites.com/litesite/2283/images/bg.jpg",
+   "localFile": null,
+   "downloadStatus": 404,
+   "error": null,
+   "usedOnPages": [],
+   "note": "could not download (referenced only by plugin/template CSS; not visible on the site)"
+  }
+ ]
+}

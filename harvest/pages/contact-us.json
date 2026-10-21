@@ -1,0 +1,393 @@
+{
+ "slug": "contact-us",
+ "url": "https://www.porterfamilydentistry.com/contact-us/",
+ "finalUrl": "https://www.porterfamilydentistry.com/contact-us/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/ContactUs.aspx",
+  "https://www.porterfamilydentistry.com/contact-us/",
+  "https://www.porterfamilydentistry.com/our-services/ContactUs.aspx",
+  "https://www.porterfamilydentistry.com/patient-information/ContactUs.aspx",
+  "https://www.porterfamilydentistry.com/patient-information/faqs/ContactUs.aspx"
+ ],
+ "redirects": [
+  [
+   "301 https://www.porterfamilydentistry.com/ContactUs.aspx",
+   "200 https://www.porterfamilydentistry.com/contact-us/"
+  ],
+  [
+   "301 https://www.porterfamilydentistry.com/patient-information/ContactUs.aspx",
+   "200 https://www.porterfamilydentistry.com/contact-us/"
+  ],
+  [
+   "301 https://www.porterfamilydentistry.com/our-services/ContactUs.aspx",
+   "200 https://www.porterfamilydentistry.com/contact-us/"
+  ],
+  [
+   "301 https://www.porterfamilydentistry.com/patient-information/faqs/ContactUs.aspx",
+   "200 https://www.porterfamilydentistry.com/contact-us/"
+  ]
+ ],
+ "title": "Contact Us - David L. Porter, D.D.S., P.C. – La Porte, IN | 219-362-5205",
+ "metaDescription": "Call Porter Family Dentistry at 219-362-5205 or visit us at 1112 Indiana Avenue, La Porte, IN. 24/7 emergency services available. Painless dental services.",
+ "canonical": "https://www.porterfamilydentistry.com/contact-us/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Contact Us",
+ "nav": [
+  {
+   "label": "Contact Us",
+   "parents": [],
+   "menuPath": "Contact Us"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/",
+   "https://www.porterfamilydentistry.com/our-services/",
+   "https://www.porterfamilydentistry.com/patient-information/",
+   "https://www.porterfamilydentistry.com/patient-information/faqs/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner6.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner6.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Contact Us",
+   "class": "section-heading"
+  },
+  {
+   "type": "h2",
+   "text": "Porter Family Dentistry"
+  },
+  {
+   "type": "p",
+   "text": "1112 Indiana Avenue"
+  },
+  {
+   "type": "p",
+   "text": "La Porte, Indiana 46350"
+  },
+  {
+   "type": "p",
+   "text": "Phone: (219) 362-5205"
+  },
+  {
+   "type": "p",
+   "text": "Fax: (219) 362-2741"
+  },
+  {
+   "type": "p",
+   "text": "drportermh@gmail.com",
+   "md": "[drportermh@gmail.com](mailto:drportermh@gmail.com)",
+   "links": [
+    {
+     "text": "drportermh@gmail.com",
+     "href": "mailto:drportermh@gmail.com"
+    }
+   ]
+  },
+  {
+   "type": "field",
+   "fieldType": "button",
+   "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$mapBtn",
+   "optionLabel": null,
+   "buttonText": "Map & Directions",
+   "visibleOnLoad": true
+  },
+  {
+   "type": "p",
+   "text": "Service Areas:\nThe Entire county of La Porte, IN\nSouth Bend, IN\nPlymouth, IN\nMichigan City, IN\nKnox, IN and Starke County\nNew Carlisle, IN\nNew Buffalo, MI",
+   "md": "**Service Areas:**\nThe Entire county of La Porte, IN\nSouth Bend, IN\nPlymouth, IN\nMichigan City, IN\nKnox, IN and Starke County\nNew Carlisle, IN\nNew Buffalo, MI"
+  },
+  {
+   "type": "p",
+   "text": "Consultation Hours:\nMonday and Tuesday: 8:00am - 5:00pm\nWednesday: Closed\nThursday: 8:00am - 5:00pm\nFriday: 8:00am - 12:00pm\nSaturday and Sunday: Closed\n24/7 emergency services are available.",
+   "md": "**Consultation Hours:**\nMonday and Tuesday: 8:00am - 5:00pm\nWednesday: Closed\nThursday: 8:00am - 5:00pm\nFriday: 8:00am - 12:00pm\nSaturday and Sunday: Closed\n24/7 emergency services are available."
+  },
+  {
+   "type": "map",
+   "tag": "iframe",
+   "src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1773.8861275180127!2d-86.71749875851494!3d41.60582994067758!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x489fda9d40c90e5b!2sPorter+Family+Dentistry!5e0!3m2!1sen!2sin!4v1551209056290",
+   "width": "100%",
+   "height": "350",
+   "renderedSize": [
+    387,
+    350
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Contact Us",
+   "class": "section-heading"
+  },
+  {
+   "type": "form",
+   "fields": [
+    {
+     "label": "Name:",
+     "type": "text",
+     "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$QuickContact1$TxtName",
+     "id": "ctl00_ContentPlaceHolder1_OfficeRepeater_ctl00_QuickContact1_TxtName",
+     "placeholder": "Name:",
+     "required": true,
+     "validators": [
+      {
+       "message": "Please enter a  name!",
+       "kind": null
+      }
+     ],
+     "visibleOnLoad": true
+    },
+    {
+     "label": "Phone:",
+     "type": "tel",
+     "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$QuickContact1$TextPhone",
+     "id": "ctl00_ContentPlaceHolder1_OfficeRepeater_ctl00_QuickContact1_TextPhone",
+     "placeholder": "Phone:",
+     "required": false,
+     "validators": [
+      {
+       "message": "Email or Phone Required",
+       "kind": "ValidateInputs"
+      }
+     ],
+     "requiredNote": "phone OR email required (at least one)",
+     "visibleOnLoad": true
+    },
+    {
+     "label": "Email:",
+     "type": "email",
+     "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$QuickContact1$TextEmail",
+     "id": "ctl00_ContentPlaceHolder1_OfficeRepeater_ctl00_QuickContact1_TextEmail",
+     "placeholder": "Email:",
+     "required": false,
+     "validators": [
+      {
+       "message": "Invalid Email Address",
+       "kind": null
+      },
+      {
+       "message": "Email or Phone Required",
+       "kind": "ValidateInputs"
+      }
+     ],
+     "requiredNote": "phone OR email required (at least one)",
+     "visibleOnLoad": true
+    },
+    {
+     "label": "Type your message here: (Messages sent using this form are not considered private.  Avoid sending confidential information via email.)",
+     "type": "textarea",
+     "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$QuickContact1$txtComment",
+     "id": "ctl00_ContentPlaceHolder1_OfficeRepeater_ctl00_QuickContact1_txtComment",
+     "placeholder": "Type your message here: (Messages sent using this form are not considered private.  Avoid sending confidential information via email.)",
+     "rows": 5,
+     "required": false,
+     "visibleOnLoad": true
+    },
+    {
+     "label": "We encourage you to contact us with any questions or comments you may have. Please call our office or use the quick contact form below.",
+     "type": "text",
+     "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$QuickContact1$EmailText",
+     "id": "ctl00_ContentPlaceHolder1_OfficeRepeater_ctl00_QuickContact1_EmailText",
+     "required": false,
+     "visibleOnLoad": false,
+     "honeypot": true
+    },
+    {
+     "label": null,
+     "type": "text",
+     "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$QuickContact1$CaptchaBaseControl1$hurl",
+     "id": "ctl00_ContentPlaceHolder1_OfficeRepeater_ctl00_QuickContact1_CaptchaBaseControl1_hurl",
+     "required": false,
+     "visibleOnLoad": false,
+     "honeypot": true
+    },
+    {
+     "label": null,
+     "type": "button",
+     "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$QuickContact1$CaptchaBaseControl1$btnSend",
+     "id": "ctl00_ContentPlaceHolder1_OfficeRepeater_ctl00_QuickContact1_CaptchaBaseControl1_btnSend",
+     "buttonText": "Send",
+     "required": false,
+     "visibleOnLoad": true
+    }
+   ],
+   "content": [
+    {
+     "type": "p",
+     "text": "We encourage you to contact us with any questions or comments you may have. Please call our office or use the quick contact form below."
+    },
+    {
+     "type": "field",
+     "fieldType": "text",
+     "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$QuickContact1$TxtName",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": true
+    },
+    {
+     "type": "field",
+     "fieldType": "tel",
+     "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$QuickContact1$TextPhone",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": true
+    },
+    {
+     "type": "field",
+     "fieldType": "email",
+     "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$QuickContact1$TextEmail",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": true
+    },
+    {
+     "type": "field",
+     "fieldType": "textarea",
+     "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$QuickContact1$txtComment",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": true
+    },
+    {
+     "type": "field",
+     "fieldType": "text",
+     "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$QuickContact1$EmailText",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "field",
+     "fieldType": "text",
+     "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$QuickContact1$CaptchaBaseControl1$hurl",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "field",
+     "fieldType": "button",
+     "name": "ctl00$ContentPlaceHolder1$OfficeRepeater$ctl00$QuickContact1$CaptchaBaseControl1$btnSend",
+     "optionLabel": null,
+     "buttonText": "Send",
+     "visibleOnLoad": true
+    }
+   ]
+  }
+ ],
+ "wordCount": 106,
+ "contentHash": "f6cb6995cf36",
+ "media": [
+  {
+   "type": "map",
+   "tag": "iframe",
+   "src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1773.8861275180127!2d-86.71749875851494!3d41.60582994067758!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x489fda9d40c90e5b!2sPorter+Family+Dentistry!5e0!3m2!1sen!2sin!4v1551209056290",
+   "width": "100%",
+   "height": "350",
+   "renderedSize": [
+    387,
+    350
+   ],
+   "area": "main"
+  }
+ ],
+ "iframesText": [
+  {
+   "url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1773.8861275180127!2d-86.71749875851494!3d41.60582994067758!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x489fda9d40c90e5b!2sPorter+Family+Dentistry!5e0!3m2!1sen!2sin!4v1551209056290",
+   "name": "",
+   "text": "Keyboard shortcuts\nMap data ©2026 Google\nTerms\nReport a map error"
+  },
+  {
+   "url": "about:blank",
+   "name": "",
+   "text": ""
+  },
+  {
+   "url": "about:blank",
+   "name": "",
+   "text": ""
+  }
+ ],
+ "sharedSections": {
+  "contactQuickForm": false,
+  "testimonialsCarousel": true,
+  "officeLocation": false,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner6.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner6.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

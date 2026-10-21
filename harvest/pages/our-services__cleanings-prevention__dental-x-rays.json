@@ -1,0 +1,201 @@
+{
+ "slug": "our-services__cleanings-prevention__dental-x-rays",
+ "url": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-x-rays/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-x-rays/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-x-rays/"
+ ],
+ "redirects": [],
+ "title": "Dental X-Rays | La Porte, Indiana | Porter Family Dentistry",
+ "metaDescription": "Pain-free dentistry. Dedicated staff. All dental insurance plans accepted. Dental insurance advocate. Implants, cleanings, whitening. Call 219-362-5205.",
+ "canonical": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/dental-x-rays/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Dental X-Rays",
+ "nav": [
+  {
+   "label": "Dental X-Rays",
+   "parents": [
+    "Our Services",
+    "Cleanings & Prevention"
+   ],
+   "menuPath": "Our Services > Cleanings & Prevention > Dental X-Rays"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/our-services/",
+   "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner1.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner1.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Dental X-Rays",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "Dental radiographs (X-rays) are essential, preventative, diagnostic tools that provide valuable information not visible during a regular dental exam. Dentists and dental hygienists use this information to safely and accurately detect hidden dental abnormalities and complete an accurate treatment plan. Without X-rays, problem areas may go undetected."
+  },
+  {
+   "type": "p",
+   "text": "Dental X-rays may reveal:",
+   "md": "**Dental X-rays may reveal:**"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Abscesses or cysts."
+    },
+    {
+     "text": "Bone loss."
+    },
+    {
+     "text": "Cancerous and non-cancerous tumors."
+    },
+    {
+     "text": "Decay between the teeth."
+    },
+    {
+     "text": "Developmental abnormalities."
+    },
+    {
+     "text": "Poor tooth and root positions."
+    },
+    {
+     "text": "Problems inside a tooth or below the gum line."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Detecting and treating dental problems at an early stage can save you time, money, unnecessary discomfort, and your teeth!"
+  },
+  {
+   "type": "p",
+   "text": "Are dental X-rays safe?",
+   "md": "**Are dental X-rays safe?**"
+  },
+  {
+   "type": "p",
+   "text": "We are all exposed to natural radiation in our environment. The amount of radiation exposure from a full mouth series of X-rays is equal to the amount a person receives in a single day from natural sources."
+  },
+  {
+   "type": "p",
+   "text": "Dental X-rays produce a low level of radiation and are considered safe. Dentists take necessary precautions to limit the patient’s exposure to radiation when taking dental X-rays. These precautions include using lead apron shields to protect the body and using modern, fast film that cuts down the exposure time of each X-ray."
+  },
+  {
+   "type": "p",
+   "text": "How often should dental X-rays be taken?",
+   "md": "**How often should dental X-rays be taken?**"
+  },
+  {
+   "type": "p",
+   "text": "The need for dental X-rays depends on each patient’s individual dental health needs. Your dentist and dental hygienist will recommend necessary x-rays based on the review of your medical and dental history, dental exam, signs and symptoms, age consideration, and risk for disease.",
+   "md": "The need for dental X-rays depends on each patient’s *individual* dental health needs. Your dentist and dental hygienist will recommend necessary x-rays based on the review of your medical and dental history, dental exam, signs and symptoms, age consideration, and risk for disease."
+  },
+  {
+   "type": "p",
+   "text": "A full mouth series of dental X-rays is recommended for new patients. A full series is usually good for three to five years. Bite-wing X-rays (X-rays of top and bottom teeth biting together) are taken at recall (check-up) visits and are recommended once or twice a year to detect new dental problems.",
+   "md": "A *full mouth series* of dental X-rays is recommended for new patients. A full series is usually good for three to five years. *Bite-wing X-rays* (X-rays of top and bottom teeth biting together) are taken at recall (check-up) visits and are recommended once or twice a year to detect new dental problems."
+  },
+  {
+   "type": "ul",
+   "items": []
+  },
+  {
+   "type": "field",
+   "fieldType": "button",
+   "name": "ctl00$ContentPlaceHolder1$btnBack",
+   "optionLabel": null,
+   "buttonText": "<",
+   "visibleOnLoad": true
+  }
+ ],
+ "wordCount": 296,
+ "contentHash": "72b6070c4366",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner1.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner1.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

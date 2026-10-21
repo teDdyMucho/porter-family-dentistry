@@ -1,0 +1,53 @@
+{
+  "_comment": "Manual judgements after viewing harvest/contact_sheet.jpg and the full-size files. Keyed by the downloaded (original) filename.",
+  "skip": {
+    "fontawesome-webfont.svg": "icon font (FontAwesome SVG font), not an image",
+    "vjs.svg": "icon font (video.js), not an image"
+  },
+  "files": {
+    "69cbb050-b785-47ee-9787-d7e22a708f8b_lg.jpg": {
+      "rename": "team_dr-david-l-porter_headshot.jpg",
+      "role": "team",
+      "realOrStock": "REAL - practice photo",
+      "assessment": "Dr. David L. Porter headshot (navy polo, warm beige backdrop, natural light). Only 275x385 px; the ProSites CDN has no larger original (tried no-suffix, _xl, _xlg, _orig, _original, _full, _md -> 404; only a smaller _sm exists). Usable as a small portrait only; a new high-res portrait is needed for any large use."
+    },
+    "team.png": {
+      "rename": "team_group-photo_10-staff.png",
+      "role": "team",
+      "realOrStock": "REAL - practice photo",
+      "assessment": "Group photo of 10 female staff members in scrubs/tops against a beige wall (no one is named on the site; Dr. Porter is not in it). 646x399 px PNG, sharp but small: fine as an inline/medium image, too small for a full-width hero."
+    },
+    "cover1.jpg": { "rename": "hero-slide1_cover1_stock-smiling-woman.jpg", "role": "hero (home slider background)", "realOrStock": "STOCK - ProSites template 2283 default", "assessment": "Stock photo of a smiling young woman with long brown hair, white background. 2000x1002. Served from styles.prosites.com (template asset, shared by every site on this template) - not the practice." },
+    "cover2.jpg": { "rename": "hero-slide2_cover2_stock-smiling-man-hat.jpg", "role": "hero (home slider background)", "realOrStock": "STOCK - ProSites template 2283 default", "assessment": "Stock photo of a smiling man in a straw hat, pale blue background. 2000x1002. Template asset - not the practice." },
+    "cover3.jpg": { "rename": "hero-slide3_cover3_stock-family.jpg", "role": "hero (home slider background)", "realOrStock": "STOCK - ProSites template 2283 default", "assessment": "Stock photo of a smiling family (father, mother, daughter), white background. 2000x1002. Template asset - not the practice." },
+    "banner1.jpg": { "role": "hero (interior page banner)", "realOrStock": "STOCK - ProSites template 2283 banner set", "assessment": "Stock banner, woman with long hair smiling, washed-out left/right. 1900x350." },
+    "banner2.jpg": { "role": "hero (interior page banner)", "realOrStock": "STOCK - ProSites template 2283 banner set", "assessment": "Stock banner, smiling man in hat (same model as cover2). 1900x350." },
+    "banner3.jpg": { "role": "hero (interior page banner)", "realOrStock": "STOCK - ProSites template 2283 banner set", "assessment": "Stock banner, smiling family (same models as cover3). 1900x350." },
+    "banner4.jpg": { "role": "hero (interior page banner)", "realOrStock": "STOCK - ProSites template 2283 banner set", "assessment": "Stock banner, two young women/girl smiling outdoors on green. 1900x350." },
+    "banner5.jpg": { "role": "hero (interior page banner)", "realOrStock": "STOCK - ProSites template 2283 banner set", "assessment": "Stock banner, smiling woman on teal background. 1900x350." },
+    "banner6.jpg": { "role": "hero (interior page banner)", "realOrStock": "STOCK - ProSites template 2283 banner set", "assessment": "Stock banner, smiling older couple outdoors. 1900x350." },
+    "banner7.jpg": { "role": "hero (interior page banner)", "realOrStock": "STOCK - ProSites template 2283 banner set", "assessment": "Stock banner, smiling woman with long blonde hair, white background. 1900x350." },
+    "banner8.jpg": { "role": "hero (interior page banner)", "realOrStock": "STOCK - ProSites template 2283 banner set", "assessment": "Stock banner, smiling couple, blurred bokeh background. 1900x350." },
+    "cover-content.jpg": { "rename": "bg_cover-content_beige-texture.jpg", "role": "section background (template)", "realOrStock": "TEMPLATE texture", "assessment": "Pale beige paper texture behind the main content section on every page. 2000x1002." },
+    "cover-testimonial.jpg": { "rename": "bg_cover-testimonial_wood-blossoms.jpg", "role": "section background (template)", "realOrStock": "STOCK - template", "assessment": "Grey weathered wood planks with white blossoms, behind the Testimonials section on every page. 2000x1500." },
+    "content-bg.png": { "rename": "bg_content-bg_tile.png", "role": "section background (template)", "realOrStock": "TEMPLATE texture", "assessment": "25x25 repeating tile behind the Contact Us and Office Location sections." },
+    "bg1b.png": { "rename": "carecredit_bg1b_stock-woman.png", "role": "section background (CareCredit vendor page)", "realOrStock": "STOCK - ProSites CareCredit page asset", "assessment": "Cut-out stock photo of a smiling woman, background of the Financing page banner. 1715x1880." },
+    "carecredit-bg2.jpg": { "rename": "carecredit_bg2_blurred-operatory.jpg", "role": "section background (CareCredit vendor page)", "realOrStock": "STOCK - ProSites CareCredit page asset", "assessment": "Heavily blurred, washed-out dental operatory. 1051x622." },
+    "footer-cta-bg-3.jpg": { "rename": "unused_carecredit_footer-cta-bg-3_stock-couple.jpg", "role": "template asset (referenced in CSS only, not shown)", "realOrStock": "STOCK", "assessment": "Stock couple piggy-back photo referenced by the CareCredit page CSS but not displayed on this site. 686x667." },
+    "fancybox_sprite.png": { "rename": "unused_fancybox_sprite.png", "role": "template asset (referenced in CSS only, not shown)", "realOrStock": "PLUGIN UI", "assessment": "Fancybox lightbox close/prev/next sprite." },
+    "CareCredit-Logo-2.png": { "rename": "badge_carecredit-logo.png", "role": "badge", "realOrStock": "VENDOR LOGO", "assessment": "CareCredit logo (600x89) on Patient Information, links to the Financing page." },
+    "care-credit.png": { "rename": "badge_carecredit-logo-tagline.png", "role": "badge", "realOrStock": "VENDOR LOGO", "assessment": "CareCredit logo with 'Making care possible...today.' (300x123), Financing page." },
+    "carecredit_button_applynow_350x213_g_v1.png": { "rename": "badge_carecredit_apply-now-button.png", "role": "badge", "realOrStock": "VENDOR BUTTON", "assessment": "CareCredit 'Financing Available* Apply Now' button (350x213), links to carecredit.com/go/GCG545/." },
+    "PayBill.jpg": { "rename": "badge_carecredit_pay-bill-button.jpg", "role": "badge", "realOrStock": "VENDOR BUTTON", "assessment": "CareCredit 'Pay your bill with CareCredit' button (350x259), links to carecredit.com/Pay/GCG545/." },
+    "mastercard.png": { "rename": "badge_card_mastercard.png", "role": "badge", "realOrStock": "VENDOR LOGO", "assessment": "64x64 payment-card logo (from ProSites shared library, site id 26868)." },
+    "visa.png": { "rename": "badge_card_visa.png", "role": "badge", "realOrStock": "VENDOR LOGO", "assessment": "64x64 payment-card logo (from ProSites shared library, site id 26868)." },
+    "discover.png": { "rename": "badge_card_discover.png", "role": "badge", "realOrStock": "VENDOR LOGO", "assessment": "64x64 payment-card logo (from ProSites shared library, site id 26868)." },
+    "amex.png": { "rename": "badge_card_amex.png", "role": "badge", "realOrStock": "VENDOR LOGO", "assessment": "64x64 payment-card logo (from ProSites shared library, site id 26868)." },
+    "facebook-button-sm.png": { "rename": "icon_social_facebook-button.png", "role": "icon", "realOrStock": "ICON", "assessment": "75x75 round Facebook icon in the footer of every page." },
+    "google-button-sm.png": { "rename": "icon_social_google-button.png", "role": "icon", "realOrStock": "ICON", "assessment": "75x75 Google 'G' icon in the footer of every page (links to a Google search, not a Business Profile)." },
+    "1Facebook_large.png": { "rename": "icon_social_facebook-square.png", "role": "icon", "realOrStock": "ICON", "assessment": "48x48 square Facebook icon at the bottom of the home page content." },
+    "0.png": { "rename": "icon_favicon_touch-icon_tooth.png", "role": "icon (favicon / touch icon)", "realOrStock": "GENERIC ICON", "assessment": "114x114 generic white tooth on black rounded square - the declared favicon/apple-touch-icon (/images/icons/tap/0.png). ProSites default, not a practice logo." },
+    "favicon.ico": { "rename": "icon_favicon-root_generic.ico", "role": "icon (favicon / touch icon)", "realOrStock": "GENERIC ICON", "assessment": "/favicon.ico (16-64px) is a generic 'web page' placeholder icon; not referenced by the HTML and not branded." }
+  },
+  "mediamedThumbs": { "role": "stock (MediaMed patient-education video thumbnail)", "realOrStock": "STOCK - vendor video library", "assessment": "142x80 thumbnail of a MediaMed animation/video licensed through ProSites (video at video.prosites.com/vod/mediamed/). Too small for reuse." }
+}

@@ -1,0 +1,238 @@
+{
+ "slug": "our-services__cosmetic-dentistry",
+ "url": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/"
+ ],
+ "redirects": [],
+ "title": "Cosmetic Dentistry | La Porte, Indiana | Porter Family Dentistry",
+ "metaDescription": "Pain-free dentistry. Dedicated staff. All dental insurance plans accepted. Dental insurance advocate. Implants, cleanings, whitening. Call 219-362-5205.",
+ "canonical": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Cosmetic Dentistry",
+ "nav": [
+  {
+   "label": "Cosmetic Dentistry",
+   "parents": [
+    "Our Services"
+   ],
+   "menuPath": "Our Services > Cosmetic Dentistry"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/our-services/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner7.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner7.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Cosmetic Dentistry",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "In the past decade there has been a dramatic interest in cosmetic dentistry. We all realize that having a healthy, bright, beautiful smile enhances our appearance and allows us to smile with confidence. Thanks to the advances in modern cosmetic dentistry, we are able to improve our teeth and smiles with quick, painless and surprisingly affordable treatments.",
+   "md": "In the past decade there has been a *dramatic* interest in cosmetic dentistry. We all realize that having a healthy, bright, beautiful smile enhances our appearance and allows us to smile with confidence. Thanks to the advances in modern cosmetic dentistry, we are able to improve our teeth and smiles with quick, painless and surprisingly affordable treatments."
+  },
+  {
+   "type": "p",
+   "text": "Cosmetic dental treatments can:",
+   "md": "**Cosmetic dental treatments can:**"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Change the size, shape, and alignment of certain teeth."
+    },
+    {
+     "text": "Fill in unattractive spaces between teeth."
+    },
+    {
+     "text": "Improve or correct bites."
+    },
+    {
+     "text": "Lighten or brighten the color of teeth."
+    },
+    {
+     "text": "Repair decayed, broken, cracked, or chipped teeth."
+    },
+    {
+     "text": "Replace missing teeth."
+    },
+    {
+     "text": "Replace old, unattractive dental treatments."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Remember, your smile speaks before you even say a word!",
+   "md": "***Remember, your smile speaks before you even say a word!***"
+  },
+  {
+   "type": "p",
+   "text": "Related Pages:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Teeth Whitening",
+     "md": "[Teeth Whitening](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/teeth-whitening/)",
+     "links": [
+      {
+       "text": "Teeth Whitening",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/teeth-whitening/"
+      }
+     ]
+    },
+    {
+     "text": "Composite Fillings",
+     "md": "[Composite Fillings](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/composite-fillings/)",
+     "links": [
+      {
+       "text": "Composite Fillings",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/composite-fillings/"
+      }
+     ]
+    },
+    {
+     "text": "NiteWhite ACP Teeth Whitening",
+     "md": "[NiteWhite ACP Teeth Whitening](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/nitewhite-acp-teeth-whitening/)",
+     "links": [
+      {
+       "text": "NiteWhite ACP Teeth Whitening",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/nitewhite-acp-teeth-whitening/"
+      }
+     ]
+    },
+    {
+     "text": "Dentures & Partial Dentures",
+     "md": "[Dentures & Partial Dentures](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/dentures-partial-dentures/)",
+     "links": [
+      {
+       "text": "Dentures & Partial Dentures",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/dentures-partial-dentures/"
+      }
+     ]
+    },
+    {
+     "text": "Porcelain Crowns (Caps)",
+     "md": "[Porcelain Crowns (Caps)](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/porcelain-crowns-caps/)",
+     "links": [
+      {
+       "text": "Porcelain Crowns (Caps)",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/porcelain-crowns-caps/"
+      }
+     ]
+    },
+    {
+     "text": "Porcelain Fixed Bridges",
+     "md": "[Porcelain Fixed Bridges](https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/porcelain-fixed-bridges/)",
+     "links": [
+      {
+       "text": "Porcelain Fixed Bridges",
+       "href": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/porcelain-fixed-bridges/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "field",
+   "fieldType": "button",
+   "name": "ctl00$ContentPlaceHolder1$btnBack",
+   "optionLabel": null,
+   "buttonText": "<",
+   "visibleOnLoad": true
+  }
+ ],
+ "wordCount": 133,
+ "contentHash": "982cd48b2ec2",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner7.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner7.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

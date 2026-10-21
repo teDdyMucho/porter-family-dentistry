@@ -1,0 +1,573 @@
+{
+ "slug": "appointment-request",
+ "url": "https://www.porterfamilydentistry.com/appointment-request/",
+ "finalUrl": "https://www.porterfamilydentistry.com/appointment-request/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/AppointmentRequest.aspx",
+  "https://www.porterfamilydentistry.com/appointment-request/",
+  "https://www.porterfamilydentistry.com/patient-information/AppointmentRequest.aspx",
+  "https://www.porterfamilydentistry.com/patient-information/faqs/AppointmentRequest.aspx"
+ ],
+ "redirects": [
+  [
+   "301 https://www.porterfamilydentistry.com/AppointmentRequest.aspx",
+   "200 https://www.porterfamilydentistry.com/appointment-request/"
+  ],
+  [
+   "301 https://www.porterfamilydentistry.com/patient-information/AppointmentRequest.aspx",
+   "200 https://www.porterfamilydentistry.com/appointment-request/"
+  ],
+  [
+   "301 https://www.porterfamilydentistry.com/patient-information/faqs/AppointmentRequest.aspx",
+   "200 https://www.porterfamilydentistry.com/appointment-request/"
+  ]
+ ],
+ "title": "David L. Porter, D.D.S., P.C. - Appointment Request",
+ "metaDescription": "Welcome to our Appointment Request page. Contact Porter Family Dentistry today at (219) 362-5205 or visit our office servicing La Porte, Indiana",
+ "canonical": "https://www.porterfamilydentistry.com/appointment-request/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Appointment Request",
+ "nav": [
+  {
+   "label": "Appointment Request",
+   "parents": [],
+   "menuPath": "Appointment Request"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/",
+   "https://www.porterfamilydentistry.com/patient-information/",
+   "https://www.porterfamilydentistry.com/patient-information/faqs/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner5.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner5.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Appointment Request",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "The first step towards a beautiful, healthy smile is to schedule an appointment. Please contact our office by phone or complete the appointment request form below. Our scheduling coordinator will contact you to confirm your appointment."
+  },
+  {
+   "type": "p",
+   "text": "Consultation Hours:\nMonday and Tuesday: 8:00am - 5:00pm\nWednesday: Closed\nThursday: 8:00am - 5:00pm\nFriday: 8:00am - 1:00pm\nSaturday and Sunday: Closed\n24/7 emergency services are available.",
+   "md": "**Consultation Hours:**\nMonday and Tuesday: 8:00am - 5:00pm\nWednesday: Closed\nThursday: 8:00am - 5:00pm\nFriday: 8:00am - 1:00pm\nSaturday and Sunday: Closed\n24/7 emergency services are available."
+  },
+  {
+   "type": "p",
+   "text": "Please do not use this form to cancel or change an existing appointment.",
+   "md": "*Please do not use this form to cancel or change an existing appointment.*"
+  },
+  {
+   "type": "p",
+   "text": "*Items in bold are required.",
+   "md": "\\*Items in bold are required."
+  },
+  {
+   "type": "form",
+   "fields": [
+    {
+     "label": "Name:",
+     "type": "text",
+     "name": "ctl00$ContentPlaceHolder1$txtName",
+     "id": "ctl00_ContentPlaceHolder1_txtName",
+     "required": true,
+     "labelBold": true,
+     "validators": [
+      {
+       "message": "Please enter your name",
+       "kind": null
+      }
+     ],
+     "visibleOnLoad": true
+    },
+    {
+     "label": "Email:",
+     "type": "email",
+     "name": "ctl00$ContentPlaceHolder1$txtEmail",
+     "id": "ctl00_ContentPlaceHolder1_txtEmail",
+     "required": false,
+     "labelBold": true,
+     "validators": [
+      {
+       "message": "Invalid Email address",
+       "kind": null
+      },
+      {
+       "message": "Please fill in phone or email address!",
+       "kind": "ValidateInputs"
+      }
+     ],
+     "requiredNote": "phone OR email required (at least one)",
+     "visibleOnLoad": true
+    },
+    {
+     "label": "Phone:",
+     "type": "tel",
+     "name": "ctl00$ContentPlaceHolder1$txtPhone",
+     "id": "ctl00_ContentPlaceHolder1_txtPhone",
+     "required": false,
+     "labelBold": true,
+     "validators": [
+      {
+       "message": "Please fill in phone or email address!",
+       "kind": "ValidateInputs"
+      }
+     ],
+     "requiredNote": "phone OR email required (at least one)",
+     "visibleOnLoad": true
+    },
+    {
+     "label": "Are you a current patient?",
+     "type": "radio-group",
+     "name": "ctl00$ContentPlaceHolder1$rblCurrentPatient",
+     "options": [
+      {
+       "label": "Yes",
+       "checkedByDefault": true
+      },
+      {
+       "label": "No",
+       "checkedByDefault": false
+      }
+     ],
+     "required": false,
+     "visibleOnLoad": true
+    },
+    {
+     "label": "How did you hear about us?",
+     "type": "text",
+     "name": "ctl00$ContentPlaceHolder1$txtHearAboutUs",
+     "id": "ctl00_ContentPlaceHolder1_txtHearAboutUs",
+     "required": false,
+     "visibleOnLoad": false
+    },
+    {
+     "label": "Which office location(s) would you prefer for your appointment?",
+     "type": "radio-group",
+     "name": "ctl00$ContentPlaceHolder1$cblOfficeLocations",
+     "options": [
+      {
+       "label": "La Porte 1112 Indiana Avenue",
+       "checkedByDefault": false
+      }
+     ],
+     "required": false,
+     "visibleOnLoad": false
+    },
+    {
+     "label": "Preferred day(s) of the week for an appointment?",
+     "type": "checkbox-group",
+     "name": "ctl00$ContentPlaceHolder1$RepeaterOfficeDetails$ctl00$cblDOW",
+     "options": [
+      {
+       "label": "Any Day",
+       "checkedByDefault": true
+      },
+      {
+       "label": "Monday",
+       "checkedByDefault": false
+      },
+      {
+       "label": "Tuesday",
+       "checkedByDefault": false
+      },
+      {
+       "label": "Thursday",
+       "checkedByDefault": false
+      },
+      {
+       "label": "Friday",
+       "checkedByDefault": false
+      }
+     ],
+     "required": false,
+     "visibleOnLoad": true
+    },
+    {
+     "label": "Preferred time(s) for an appointment?",
+     "type": "checkbox-group",
+     "name": "ctl00$ContentPlaceHolder1$RepeaterOfficeDetails$ctl00$cblTOD",
+     "options": [
+      {
+       "label": "Any Time",
+       "checkedByDefault": true
+      },
+      {
+       "label": "Morning",
+       "checkedByDefault": false
+      },
+      {
+       "label": "Afternoon",
+       "checkedByDefault": false
+      }
+     ],
+     "required": false,
+     "visibleOnLoad": true
+    },
+    {
+     "label": "Please describe the nature of your appointment (e.g., consultation, check-up, etc.):",
+     "type": "textarea",
+     "name": "ctl00$ContentPlaceHolder1$txtComment",
+     "id": "ctl00_ContentPlaceHolder1_txtComment",
+     "rows": 5,
+     "required": false,
+     "labelBold": true,
+     "visibleOnLoad": true
+    },
+    {
+     "label": null,
+     "type": "text",
+     "name": "ctl00$ContentPlaceHolder1$CaptchaBaseControl1$hurl",
+     "id": "ctl00_ContentPlaceHolder1_CaptchaBaseControl1_hurl",
+     "required": false,
+     "visibleOnLoad": false,
+     "honeypot": true
+    },
+    {
+     "label": null,
+     "type": "button",
+     "name": "ctl00$ContentPlaceHolder1$CaptchaBaseControl1$btnSend",
+     "id": "ctl00_ContentPlaceHolder1_CaptchaBaseControl1_btnSend",
+     "buttonText": "Send Request",
+     "required": false,
+     "visibleOnLoad": true
+    }
+   ],
+   "content": [
+    {
+     "type": "p",
+     "text": "Name:"
+    },
+    {
+     "type": "field",
+     "fieldType": "text",
+     "name": "ctl00$ContentPlaceHolder1$txtName",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": true
+    },
+    {
+     "type": "p",
+     "text": "Email:"
+    },
+    {
+     "type": "field",
+     "fieldType": "email",
+     "name": "ctl00$ContentPlaceHolder1$txtEmail",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": true
+    },
+    {
+     "type": "p",
+     "text": "Phone:"
+    },
+    {
+     "type": "field",
+     "fieldType": "tel",
+     "name": "ctl00$ContentPlaceHolder1$txtPhone",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": true
+    },
+    {
+     "type": "p",
+     "text": "Are you a current patient?"
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       {
+        "text": "Yes",
+        "md": "Yes",
+        "media": [
+         {
+          "type": "field",
+          "fieldType": "radio",
+          "name": "ctl00$ContentPlaceHolder1$rblCurrentPatient",
+          "optionLabel": "Yes",
+          "buttonText": null,
+          "visibleOnLoad": false
+         }
+        ]
+       }
+      ],
+      [
+       {
+        "text": "No",
+        "md": "No",
+        "media": [
+         {
+          "type": "field",
+          "fieldType": "radio",
+          "name": "ctl00$ContentPlaceHolder1$rblCurrentPatient",
+          "optionLabel": "No",
+          "buttonText": null,
+          "visibleOnLoad": false
+         }
+        ]
+       }
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "How did you hear about us?",
+     "hidden": true
+    },
+    {
+     "type": "field",
+     "fieldType": "text",
+     "name": "ctl00$ContentPlaceHolder1$txtHearAboutUs",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "p",
+     "text": "Which office location(s) would you prefer for your appointment?",
+     "hidden": true
+    },
+    {
+     "type": "field",
+     "fieldType": "radio",
+     "name": "ctl00$ContentPlaceHolder1$cblOfficeLocations",
+     "optionLabel": "La Porte 1112 Indiana Avenue",
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "p",
+     "text": "La Porte 1112 Indiana Avenue"
+    },
+    {
+     "type": "p",
+     "text": "Preferred day(s) of the week for an appointment?"
+    },
+    {
+     "type": "field",
+     "fieldType": "checkbox",
+     "name": "ctl00$ContentPlaceHolder1$RepeaterOfficeDetails$ctl00$cblDOW$0",
+     "optionLabel": "Any Day",
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "p",
+     "text": "Any Day"
+    },
+    {
+     "type": "field",
+     "fieldType": "checkbox",
+     "name": "ctl00$ContentPlaceHolder1$RepeaterOfficeDetails$ctl00$cblDOW$1",
+     "optionLabel": "Monday",
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "p",
+     "text": "Monday"
+    },
+    {
+     "type": "field",
+     "fieldType": "checkbox",
+     "name": "ctl00$ContentPlaceHolder1$RepeaterOfficeDetails$ctl00$cblDOW$2",
+     "optionLabel": "Tuesday",
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "p",
+     "text": "Tuesday"
+    },
+    {
+     "type": "field",
+     "fieldType": "checkbox",
+     "name": "ctl00$ContentPlaceHolder1$RepeaterOfficeDetails$ctl00$cblDOW$3",
+     "optionLabel": "Thursday",
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "p",
+     "text": "Thursday"
+    },
+    {
+     "type": "field",
+     "fieldType": "checkbox",
+     "name": "ctl00$ContentPlaceHolder1$RepeaterOfficeDetails$ctl00$cblDOW$4",
+     "optionLabel": "Friday",
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "p",
+     "text": "Friday"
+    },
+    {
+     "type": "p",
+     "text": "Preferred time(s) for an appointment?"
+    },
+    {
+     "type": "field",
+     "fieldType": "checkbox",
+     "name": "ctl00$ContentPlaceHolder1$RepeaterOfficeDetails$ctl00$cblTOD$0",
+     "optionLabel": "Any Time",
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "p",
+     "text": "Any Time"
+    },
+    {
+     "type": "field",
+     "fieldType": "checkbox",
+     "name": "ctl00$ContentPlaceHolder1$RepeaterOfficeDetails$ctl00$cblTOD$1",
+     "optionLabel": "Morning",
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "p",
+     "text": "Morning"
+    },
+    {
+     "type": "field",
+     "fieldType": "checkbox",
+     "name": "ctl00$ContentPlaceHolder1$RepeaterOfficeDetails$ctl00$cblTOD$2",
+     "optionLabel": "Afternoon",
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "p",
+     "text": "Afternoon"
+    },
+    {
+     "type": "p",
+     "text": "Please describe the nature of your appointment (e.g., consultation, check-up, etc.):"
+    },
+    {
+     "type": "field",
+     "fieldType": "textarea",
+     "name": "ctl00$ContentPlaceHolder1$txtComment",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": true
+    },
+    {
+     "type": "field",
+     "fieldType": "text",
+     "name": "ctl00$ContentPlaceHolder1$CaptchaBaseControl1$hurl",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "field",
+     "fieldType": "button",
+     "name": "ctl00$ContentPlaceHolder1$CaptchaBaseControl1$btnSend",
+     "optionLabel": null,
+     "buttonText": "Send Request",
+     "visibleOnLoad": true
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Note: Messages sent using this form are not considered private. Please contact our office by telephone if sending highly confidential or private information.",
+   "md": "*Note: Messages sent using this form are not considered private. Please contact our office by telephone if sending highly confidential or private information.*"
+  }
+ ],
+ "wordCount": 177,
+ "contentHash": "31e1cd3bca15",
+ "sharedSections": {
+  "contactQuickForm": false,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner5.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner5.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

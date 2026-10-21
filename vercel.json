@@ -1,0 +1,118 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "outputDirectory": "site",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/AppointmentRequest.aspx",
+      "destination": "/appointment-request/",
+      "permanent": true
+    },
+    {
+      "source": "/ContactUs.aspx",
+      "destination": "/contact-us/",
+      "permanent": true
+    },
+    {
+      "source": "/Financing.aspx",
+      "destination": "/patient-information/financing/",
+      "permanent": true
+    },
+    {
+      "source": "/OurServices.aspx",
+      "destination": "/our-services/",
+      "permanent": true
+    },
+    {
+      "source": "/PatientInformation.aspx",
+      "destination": "/patient-information/",
+      "permanent": true
+    },
+    {
+      "source": "/ada.aspx",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/our-services/ContactUs.aspx",
+      "destination": "/contact-us/",
+      "permanent": true
+    },
+    {
+      "source": "/patient-information/AppointmentRequest.aspx",
+      "destination": "/appointment-request/",
+      "permanent": true
+    },
+    {
+      "source": "/patient-information/ContactUs.aspx",
+      "destination": "/contact-us/",
+      "permanent": true
+    },
+    {
+      "source": "/patient-information/Financing.aspx",
+      "destination": "/patient-information/financing/",
+      "permanent": true
+    },
+    {
+      "source": "/patient-information/faqs/AppointmentRequest.aspx",
+      "destination": "/appointment-request/",
+      "permanent": true
+    },
+    {
+      "source": "/patient-information/faqs/ContactUs.aspx",
+      "destination": "/contact-us/",
+      "permanent": true
+    },
+    {
+      "source": "301 /AppointmentRequest.aspx",
+      "destination": "/appointment-request/",
+      "permanent": true
+    },
+    {
+      "source": "301 /ContactUs.aspx",
+      "destination": "/contact-us/",
+      "permanent": true
+    },
+    {
+      "source": "301 /OurServices.aspx",
+      "destination": "/our-services/",
+      "permanent": true
+    },
+    {
+      "source": "301 /PatientInformation.aspx",
+      "destination": "/patient-information/",
+      "permanent": true
+    },
+    {
+      "source": "301 /our-services/ContactUs.aspx",
+      "destination": "/contact-us/",
+      "permanent": true
+    },
+    {
+      "source": "301 /patient-information/AppointmentRequest.aspx",
+      "destination": "/appointment-request/",
+      "permanent": true
+    },
+    {
+      "source": "301 /patient-information/ContactUs.aspx",
+      "destination": "/contact-us/",
+      "permanent": true
+    },
+    {
+      "source": "301 /patient-information/Financing.aspx",
+      "destination": "/patient-information/financing/",
+      "permanent": true
+    },
+    {
+      "source": "301 /patient-information/faqs/AppointmentRequest.aspx",
+      "destination": "/appointment-request/",
+      "permanent": true
+    },
+    {
+      "source": "301 /patient-information/faqs/ContactUs.aspx",
+      "destination": "/contact-us/",
+      "permanent": true
+    }
+  ]
+}

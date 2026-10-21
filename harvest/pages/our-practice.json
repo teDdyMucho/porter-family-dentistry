@@ -1,0 +1,170 @@
+{
+ "slug": "our-practice",
+ "url": "https://www.porterfamilydentistry.com/our-practice/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-practice/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-practice/"
+ ],
+ "redirects": [],
+ "title": "David L. Porter, D.D.S., P.C. - Our Practice",
+ "metaDescription": "Welcome to our Our Practice page. Contact Porter Family Dentistry today at (219) 362-5205 or visit our office servicing La Porte, Indiana",
+ "canonical": "https://www.porterfamilydentistry.com/our-practice/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Our Practice",
+ "nav": [
+  {
+   "label": "Our Practice",
+   "parents": [],
+   "menuPath": "Our Practice"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner2.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner2.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Our Practice",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "Our Mission",
+   "md": "**Our Mission**"
+  },
+  {
+   "type": "p",
+   "text": "David L. Porter Family Dentistry and his empathetic and knowledgeable dental team have a mission: To treat our patients as we would treat our best friends and family and to do so as pain-free and gently as possible. Dr. Porter believes that good oral health leads to overall healthy bodies. We treat the entire person, body, mind and soul."
+  },
+  {
+   "type": "p",
+   "text": "Our Goal",
+   "md": "**Our Goal**"
+  },
+  {
+   "type": "p",
+   "text": "To make your visit as comfortable and relaxed as possible and to provide you with extensive “patient education.” We pride ourselves on after-care, not just with your dental issues, but with your financial needs as well. At no time has Dr. Porter acquiesced to becoming an “in-network” dentist to the insurance companies. Once a dentist signs with an insurance company, he must treat and diagnose according to insurance dictates. Dr. Porter treats his patients and their needs---not the rules and regulations of insurance companies."
+  },
+  {
+   "type": "p",
+   "text": "Our Philosophy",
+   "md": "**Our Philosophy**"
+  },
+  {
+   "type": "p",
+   "text": "Our philosophy is to care for you like family. We provide treatment from the heart, which means we care about your concerns, fears and needs."
+  },
+  {
+   "type": "p",
+   "text": "Our High Standards",
+   "md": "**Our High Standards**"
+  },
+  {
+   "type": "p",
+   "text": "A standard of excellence in personalized dental care enables us to provide the quality dental services our patients deserve. We provide comprehensive treatment planning and use restorative and cosmetic dentistry to achieve your optimal dental health. Should a dental emergency occur, we make every effort to see and care for you as soon as possible."
+  },
+  {
+   "type": "p",
+   "text": "Uncompromising Safety",
+   "md": "**Uncompromising Safety**"
+  },
+  {
+   "type": "p",
+   "text": "Infection control in our office is also very important to us. To protect our patients and ourselves, we strictly maintain sterilization and cross contamination processes using standards recommended by the American Dental Association (ADA), the Occupational Safety and Health Administration (OSHA), and the Center for Disease Control (CDC)."
+  },
+  {
+   "type": "p",
+   "text": "A Positive Experience",
+   "md": "**A Positive Experience**"
+  },
+  {
+   "type": "p",
+   "text": "Building a foundation of trust by treating our patients as special individuals is vital to our success. We understand how uneasy some patients may feel about their dental visits, and how we can make a difference in providing a relaxing and positive experience. Our entire team is dedicated to providing you with excellent, personalized care and service to make your visits as comfortable and pleasant as possible."
+  }
+ ],
+ "wordCount": 355,
+ "contentHash": "f8bedd29a3b1",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner2.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner2.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

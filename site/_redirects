@@ -1,0 +1,22 @@
+/AppointmentRequest.aspx /appointment-request/ 301
+/ContactUs.aspx /contact-us/ 301
+/Financing.aspx /patient-information/financing/ 301
+/OurServices.aspx /our-services/ 301
+/PatientInformation.aspx /patient-information/ 301
+/ada.aspx / 301
+/our-services/ContactUs.aspx /contact-us/ 301
+/patient-information/AppointmentRequest.aspx /appointment-request/ 301
+/patient-information/ContactUs.aspx /contact-us/ 301
+/patient-information/Financing.aspx /patient-information/financing/ 301
+/patient-information/faqs/AppointmentRequest.aspx /appointment-request/ 301
+/patient-information/faqs/ContactUs.aspx /contact-us/ 301
+301 /AppointmentRequest.aspx /appointment-request/ 301
+301 /ContactUs.aspx /contact-us/ 301
+301 /OurServices.aspx /our-services/ 301
+301 /PatientInformation.aspx /patient-information/ 301
+301 /our-services/ContactUs.aspx /contact-us/ 301
+301 /patient-information/AppointmentRequest.aspx /appointment-request/ 301
+301 /patient-information/ContactUs.aspx /contact-us/ 301
+301 /patient-information/Financing.aspx /patient-information/financing/ 301
+301 /patient-information/faqs/AppointmentRequest.aspx /appointment-request/ 301
+301 /patient-information/faqs/ContactUs.aspx /contact-us/ 301

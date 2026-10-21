@@ -1,0 +1,1835 @@
+{
+ "slug": "patient-information__dental-videos",
+ "url": "https://www.porterfamilydentistry.com/patient-information/dental-videos/",
+ "finalUrl": "https://www.porterfamilydentistry.com/patient-information/dental-videos/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/patient-information/dental-videos/"
+ ],
+ "redirects": [],
+ "title": "David L. Porter, D.D.S., P.C. - Dental Videos",
+ "metaDescription": "Welcome to our Dental Videos page. Contact Porter Family Dentistry today at (219) 362-5205 or visit our office servicing La Porte, Indiana",
+ "canonical": "https://www.porterfamilydentistry.com/patient-information/dental-videos/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Dental Videos",
+ "nav": [
+  {
+   "label": "Dental Videos",
+   "parents": [
+    "Patient Information"
+   ],
+   "menuPath": "Patient Information > Dental Videos"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner2.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner2.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Dental Videos",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "Because we are committed to improving the oral healthcare knowledge of our patients, we are providing the following selection of dental videos which we hope you will find interesting and informative. We have grouped the videos into various categories to provide quick access to the topics of greatest interest to you."
+  },
+  {
+   "type": "p",
+   "text": "Please contact us if you have any questions or would like to schedule an appointment."
+  },
+  {
+   "type": "h3",
+   "text": "Exams/Hygiene",
+   "class": "title active"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "New Patient Exam",
+     "md": "[New Patient Exam](https://video.prosites.com/vod/mediamed/AFV.mp4)",
+     "links": [
+      {
+       "text": "New Patient Exam",
+       "href": "https://video.prosites.com/vod/mediamed/AFV.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/AFV.png",
+       "alt": "New Patient Exam",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_AFV_new-patient-exam.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Pediatric First Visit",
+     "md": "[Pediatric First Visit](https://video.prosites.com/vod/mediamed/PEDO.mp4)",
+     "links": [
+      {
+       "text": "Pediatric First Visit",
+       "href": "https://video.prosites.com/vod/mediamed/PEDO.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/PEDO.png",
+       "alt": "Pediatric First Visit",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_PEDO_pediatric-first-visit.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Brushing & Flossing",
+     "md": "[Brushing & Flossing](https://video.prosites.com/vod/mediamed/OHI.mp4)",
+     "links": [
+      {
+       "text": "Brushing & Flossing",
+       "href": "https://video.prosites.com/vod/mediamed/OHI.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/OHI.png",
+       "alt": "Brushing & Flossing",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_OHI_brushing-flossing.png"
+      }
+     ],
+     "hidden": true
+    }
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "Cosmetic",
+   "class": "title active"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Home Teeth Whitening",
+     "md": "[Home Teeth Whitening](https://video.prosites.com/vod/mediamed/HOMBL.mp4)",
+     "links": [
+      {
+       "text": "Home Teeth Whitening",
+       "href": "https://video.prosites.com/vod/mediamed/HOMBL.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/HOMBL.png",
+       "alt": "Home Teeth Whitening",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_HOMBL_home-teeth-whitening.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Porcelain Inlay",
+     "md": "[Porcelain Inlay](https://video.prosites.com/vod/mediamed/INLAYPORC.mp4)",
+     "links": [
+      {
+       "text": "Porcelain Inlay",
+       "href": "https://video.prosites.com/vod/mediamed/INLAYPORC.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/INLAYPORC.png",
+       "alt": "Porcelain Inlay",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_INLAYPORC_porcelain-inlay.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "In Office Teeth Whitening",
+     "md": "[In Office Teeth Whitening](https://video.prosites.com/vod/mediamed/OFCBL.mp4)",
+     "links": [
+      {
+       "text": "In Office Teeth Whitening",
+       "href": "https://video.prosites.com/vod/mediamed/OFCBL.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/OFCBL.png",
+       "alt": "In Office Teeth Whitening",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_OFCBL_in-office-teeth-whitening.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Porcelain Crown",
+     "md": "[Porcelain Crown](https://video.prosites.com/vod/mediamed/CRWNPORC.mp4)",
+     "links": [
+      {
+       "text": "Porcelain Crown",
+       "href": "https://video.prosites.com/vod/mediamed/CRWNPORC.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/CRWNPORC.png",
+       "alt": "Porcelain Crown",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_CRWNPORC_porcelain-crown.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Veneer",
+     "md": "[Veneer](https://video.prosites.com/vod/mediamed/VENE.mp4)",
+     "links": [
+      {
+       "text": "Veneer",
+       "href": "https://video.prosites.com/vod/mediamed/VENE.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/VENE.png",
+       "alt": "Veneer",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_VENE_veneer.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Implant for Crown & Bridge",
+     "md": "[Implant for Crown & Bridge](https://video.prosites.com/vod/mediamed/IMPCRWN.mp4)",
+     "links": [
+      {
+       "text": "Implant for Crown & Bridge",
+       "href": "https://video.prosites.com/vod/mediamed/IMPCRWN.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/IMPCRWN.png",
+       "alt": "Implant for Crown & Bridge",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_IMPCRWN_implant-for-crown-bridge.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Composite Filling",
+     "md": "[Composite Filling](https://video.prosites.com/vod/mediamed/COMP.mp4)",
+     "links": [
+      {
+       "text": "Composite Filling",
+       "href": "https://video.prosites.com/vod/mediamed/COMP.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/COMP.png",
+       "alt": "Composite Filling",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_COMP_composite-filling.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Inlay Filling",
+     "md": "[Inlay Filling](https://video.prosites.com/vod/mediamed/INLAY.mp4)",
+     "links": [
+      {
+       "text": "Inlay Filling",
+       "href": "https://video.prosites.com/vod/mediamed/INLAY.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/INLAY.png",
+       "alt": "Inlay Filling",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_INLAY_inlay-filling.png"
+      }
+     ],
+     "hidden": true
+    }
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "Periodontics",
+   "class": "title active"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "In Office Cleaning",
+     "md": "[In Office Cleaning](https://video.prosites.com/vod/mediamed/PROPHY.mp4)",
+     "links": [
+      {
+       "text": "In Office Cleaning",
+       "href": "https://video.prosites.com/vod/mediamed/PROPHY.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/PROPHY.png",
+       "alt": "In Office Cleaning",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_PROPHY_in-office-cleaning.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Deep Cleaning",
+     "md": "[Deep Cleaning](https://video.prosites.com/vod/mediamed/SRP.mp4)",
+     "links": [
+      {
+       "text": "Deep Cleaning",
+       "href": "https://video.prosites.com/vod/mediamed/SRP.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/SRP.PNG",
+       "alt": "Deep Cleaning",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_SRP_deep-cleaning.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Implant for Denture",
+     "md": "[Implant for Denture](https://video.prosites.com/vod/mediamed/IMPDENT.mp4)",
+     "links": [
+      {
+       "text": "Implant for Denture",
+       "href": "https://video.prosites.com/vod/mediamed/IMPDENT.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/IMPDENT.png",
+       "alt": "Implant for Denture",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_IMPDENT_implant-for-denture.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Implant for Crown & Bridge",
+     "md": "[Implant for Crown & Bridge](https://video.prosites.com/vod/mediamed/IMPCRWN.mp4)",
+     "links": [
+      {
+       "text": "Implant for Crown & Bridge",
+       "href": "https://video.prosites.com/vod/mediamed/IMPCRWN.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/IMPCRWN.png",
+       "alt": "Implant for Crown & Bridge",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_IMPCRWN_implant-for-crown-bridge.png"
+      }
+     ],
+     "hidden": true
+    }
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "Dental Implants",
+   "class": "title active"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Implant for Crown & Bridge",
+     "md": "[Implant for Crown & Bridge](https://video.prosites.com/vod/mediamed/IMPCRWN.mp4)",
+     "links": [
+      {
+       "text": "Implant for Crown & Bridge",
+       "href": "https://video.prosites.com/vod/mediamed/IMPCRWN.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/IMPCRWN.png",
+       "alt": "Implant for Crown & Bridge",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_IMPCRWN_implant-for-crown-bridge.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Implant for Denture",
+     "md": "[Implant for Denture](https://video.prosites.com/vod/mediamed/IMPDENT.mp4)",
+     "links": [
+      {
+       "text": "Implant for Denture",
+       "href": "https://video.prosites.com/vod/mediamed/IMPDENT.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/IMPDENT.png",
+       "alt": "Implant for Denture",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_IMPDENT_implant-for-denture.png"
+      }
+     ],
+     "hidden": true
+    }
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "Pediatric",
+   "class": "title active"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Pediatric First Visit",
+     "md": "[Pediatric First Visit](https://video.prosites.com/vod/mediamed/PEDO.mp4)",
+     "links": [
+      {
+       "text": "Pediatric First Visit",
+       "href": "https://video.prosites.com/vod/mediamed/PEDO.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/PEDO.png",
+       "alt": "Pediatric First Visit",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_PEDO_pediatric-first-visit.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Sealants & Sports Guard",
+     "md": "[Sealants & Sports Guard](https://video.prosites.com/vod/mediamed/PEDOSEAL.mp4)",
+     "links": [
+      {
+       "text": "Sealants & Sports Guard",
+       "href": "https://video.prosites.com/vod/mediamed/PEDOSEAL.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/PEDOSEAL.png",
+       "alt": "Sealants & Sports Guard",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_PEDOSEAL_sealants-sports-guard.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Pediatric Teeth Cleaning",
+     "md": "[Pediatric Teeth Cleaning](https://video.prosites.com/vod/mediamed/PEDOPROPHY.mp4)",
+     "links": [
+      {
+       "text": "Pediatric Teeth Cleaning",
+       "href": "https://video.prosites.com/vod/mediamed/PEDOPROPHY.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/PEDOPROPHY.png",
+       "alt": "Pediatric Teeth Cleaning",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_PEDOPROPHY_pediatric-teeth-cleaning.png"
+      }
+     ],
+     "hidden": true
+    }
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "Endodontics",
+   "class": "title active"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Root Canal",
+     "md": "[Root Canal](https://video.prosites.com/vod/mediamed/RCT.mp4)",
+     "links": [
+      {
+       "text": "Root Canal",
+       "href": "https://video.prosites.com/vod/mediamed/RCT.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/RCT.png",
+       "alt": "Root Canal",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_RCT_root-canal.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Alternatives to Root Canal",
+     "md": "[Alternatives to Root Canal](https://video.prosites.com/vod/mediamed/RCT2.mp4)",
+     "links": [
+      {
+       "text": "Alternatives to Root Canal",
+       "href": "https://video.prosites.com/vod/mediamed/RCT2.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/RCT2.png",
+       "alt": "Alternatives to Root Canal",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_RCT2_alternatives-to-root-canal.png"
+      }
+     ],
+     "hidden": true
+    }
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "Oral Surgery",
+   "class": "title active"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Tooth Extraction",
+     "md": "[Tooth Extraction](https://video.prosites.com/vod/mediamed/EXTR.mp4)",
+     "links": [
+      {
+       "text": "Tooth Extraction",
+       "href": "https://video.prosites.com/vod/mediamed/EXTR.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/EXTR.png",
+       "alt": "Tooth Extraction",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_EXTR_tooth-extraction.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Wisdom Teeth",
+     "md": "[Wisdom Teeth](https://video.prosites.com/vod/mediamed/WSDM.mp4)",
+     "links": [
+      {
+       "text": "Wisdom Teeth",
+       "href": "https://video.prosites.com/vod/mediamed/WSDM.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/WSDM.png",
+       "alt": "Wisdom Teeth",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_WSDM_wisdom-teeth.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Post Surgery Instructions",
+     "md": "[Post Surgery Instructions](https://video.prosites.com/vod/mediamed/POSTOP.mp4)",
+     "links": [
+      {
+       "text": "Post Surgery Instructions",
+       "href": "https://video.prosites.com/vod/mediamed/POSTOP.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/POSTOP.png",
+       "alt": "Post Surgery Instructions",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_POSTOP_post-surgery-instructions.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Implant for Denture",
+     "md": "[Implant for Denture](https://video.prosites.com/vod/mediamed/IMPDENT.mp4)",
+     "links": [
+      {
+       "text": "Implant for Denture",
+       "href": "https://video.prosites.com/vod/mediamed/IMPDENT.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/IMPDENT.png",
+       "alt": "Implant for Denture",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_IMPDENT_implant-for-denture.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Implant for Crown & Bridge",
+     "md": "[Implant for Crown & Bridge](https://video.prosites.com/vod/mediamed/IMPCRWN.mp4)",
+     "links": [
+      {
+       "text": "Implant for Crown & Bridge",
+       "href": "https://video.prosites.com/vod/mediamed/IMPCRWN.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/IMPCRWN.png",
+       "alt": "Implant for Crown & Bridge",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_IMPCRWN_implant-for-crown-bridge.png"
+      }
+     ],
+     "hidden": true
+    }
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "Crown & Bridge",
+   "class": "title active"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Crown",
+     "md": "[Crown](https://video.prosites.com/vod/mediamed/CROWN.mp4)",
+     "links": [
+      {
+       "text": "Crown",
+       "href": "https://video.prosites.com/vod/mediamed/CROWN.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/CROWN.png",
+       "alt": "Crown",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_CROWN_crown.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Porcelain Crown",
+     "md": "[Porcelain Crown](https://video.prosites.com/vod/mediamed/CRWNPORC.mp4)",
+     "links": [
+      {
+       "text": "Porcelain Crown",
+       "href": "https://video.prosites.com/vod/mediamed/CRWNPORC.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/CRWNPORC.png",
+       "alt": "Porcelain Crown",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_CRWNPORC_porcelain-crown.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Gold Crown",
+     "md": "[Gold Crown](https://video.prosites.com/vod/mediamed/CRWNMTL.mp4)",
+     "links": [
+      {
+       "text": "Gold Crown",
+       "href": "https://video.prosites.com/vod/mediamed/CRWNMTL.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/CRWNMTL.png",
+       "alt": "Gold Crown",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_CRWNMTL_gold-crown.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Porcelain-Metal Crown",
+     "md": "[Porcelain-Metal Crown](https://video.prosites.com/vod/mediamed/CRWNPFTM.mp4)",
+     "links": [
+      {
+       "text": "Porcelain-Metal Crown",
+       "href": "https://video.prosites.com/vod/mediamed/CRWNPFTM.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/CRWNPFTM.png",
+       "alt": "Porcelain-Metal Crown",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_CRWNPFTM_porcelain-metal-crown.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Crown Material Comparison",
+     "md": "[Crown Material Comparison](https://video.prosites.com/vod/mediamed/CRWNCMPR.mp4)",
+     "links": [
+      {
+       "text": "Crown Material Comparison",
+       "href": "https://video.prosites.com/vod/mediamed/CRWNCMPR.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/CRWNCMPR.png",
+       "alt": "Crown Material Comparison",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_CRWNCMPR_crown-material-comparison.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Dental Bridge",
+     "md": "[Dental Bridge](https://video.prosites.com/vod/mediamed/BRIDGE.mp4)",
+     "links": [
+      {
+       "text": "Dental Bridge",
+       "href": "https://video.prosites.com/vod/mediamed/BRIDGE.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/BRIDGE.png",
+       "alt": "Dental Bridge",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_BRIDGE_dental-bridge.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Implant for Crown & Bridge",
+     "md": "[Implant for Crown & Bridge](https://video.prosites.com/vod/mediamed/IMPCRWN.mp4)",
+     "links": [
+      {
+       "text": "Implant for Crown & Bridge",
+       "href": "https://video.prosites.com/vod/mediamed/IMPCRWN.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/IMPCRWN.png",
+       "alt": "Implant for Crown & Bridge",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_IMPCRWN_implant-for-crown-bridge.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Veneer",
+     "md": "[Veneer](https://video.prosites.com/vod/mediamed/VENE.mp4)",
+     "links": [
+      {
+       "text": "Veneer",
+       "href": "https://video.prosites.com/vod/mediamed/VENE.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/VENE.png",
+       "alt": "Veneer",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_VENE_veneer.png"
+      }
+     ],
+     "hidden": true
+    }
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "Dentures",
+   "class": "title active"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Denture",
+     "md": "[Denture](https://video.prosites.com/vod/mediamed/CDENT.mp4)",
+     "links": [
+      {
+       "text": "Denture",
+       "href": "https://video.prosites.com/vod/mediamed/CDENT.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/CDENT.png",
+       "alt": "Denture",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_CDENT_denture.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Temporary Partial Denture",
+     "md": "[Temporary Partial Denture](https://video.prosites.com/vod/mediamed/STAYPLT.mp4)",
+     "links": [
+      {
+       "text": "Temporary Partial Denture",
+       "href": "https://video.prosites.com/vod/mediamed/STAYPLT.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/STAYPLT.png",
+       "alt": "Temporary Partial Denture",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_STAYPLT_temporary-partial-denture.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Partial Denture",
+     "md": "[Partial Denture](https://video.prosites.com/vod/mediamed/PDENT.mp4)",
+     "links": [
+      {
+       "text": "Partial Denture",
+       "href": "https://video.prosites.com/vod/mediamed/PDENT.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/PDENT.png",
+       "alt": "Partial Denture",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_PDENT_partial-denture.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Denture Home Care",
+     "md": "[Denture Home Care](https://video.prosites.com/vod/mediamed/RPOST.mp4)",
+     "links": [
+      {
+       "text": "Denture Home Care",
+       "href": "https://video.prosites.com/vod/mediamed/RPOST.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/RPOST.png",
+       "alt": "Denture Home Care",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_RPOST_denture-home-care.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Immediate Denture",
+     "md": "[Immediate Denture](https://video.prosites.com/vod/mediamed/IDENT.mp4)",
+     "links": [
+      {
+       "text": "Immediate Denture",
+       "href": "https://video.prosites.com/vod/mediamed/IDENT.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/IDENT.png",
+       "alt": "Immediate Denture",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_IDENT_immediate-denture.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Implant for Denture",
+     "md": "[Implant for Denture](https://video.prosites.com/vod/mediamed/IMPDENT.mp4)",
+     "links": [
+      {
+       "text": "Implant for Denture",
+       "href": "https://video.prosites.com/vod/mediamed/IMPDENT.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/IMPDENT.png",
+       "alt": "Implant for Denture",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_IMPDENT_implant-for-denture.png"
+      }
+     ],
+     "hidden": true
+    }
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "Other",
+   "class": "title active"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Dental Filling Materials",
+     "md": "[Dental Filling Materials](https://video.prosites.com/vod/mediamed/CMPAR.mp4)",
+     "links": [
+      {
+       "text": "Dental Filling Materials",
+       "href": "https://video.prosites.com/vod/mediamed/CMPAR.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/CMPAR.png",
+       "alt": "Dental Filling Materials",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_CMPAR_dental-filling-materials.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Amalgam Filling",
+     "md": "[Amalgam Filling](https://video.prosites.com/vod/mediamed/AMAL.mp4)",
+     "links": [
+      {
+       "text": "Amalgam Filling",
+       "href": "https://video.prosites.com/vod/mediamed/AMAL.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/AMAL.png",
+       "alt": "Amalgam Filling",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_AMAL_amalgam-filling.png"
+      }
+     ],
+     "hidden": true
+    },
+    {
+     "text": "Night Guard",
+     "md": "[Night Guard](https://video.prosites.com/vod/mediamed/NIGHTGRD.mp4)",
+     "links": [
+      {
+       "text": "Night Guard",
+       "href": "https://video.prosites.com/vod/mediamed/NIGHTGRD.mp4"
+      }
+     ],
+     "media": [
+      {
+       "type": "img",
+       "src": "https://content.prosites.com/images/mediamed/thumbs/NIGHTGRD.png",
+       "alt": "Night Guard",
+       "width": 142,
+       "height": 80,
+       "renderedSize": [
+        0,
+        0
+       ],
+       "hidden": true,
+       "localFile": "images/video-thumb_NIGHTGRD_night-guard.png"
+      }
+     ],
+     "hidden": true
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Your use of the videos and information signifies your agreement and acceptance of the ProSites Video Terms of Use.",
+   "md": "Your use of the videos and information signifies your agreement and acceptance of the [ProSites Video Terms of Use.](http://www.prosites.com/terms-of-use/video/)",
+   "links": [
+    {
+     "text": "ProSites Video Terms of Use.",
+     "href": "http://www.prosites.com/terms-of-use/video/",
+     "target": "_blank"
+    }
+   ]
+  }
+ ],
+ "wordCount": 215,
+ "contentHash": "a4ac9b805ef1",
+ "media": [
+  {
+   "type": "video",
+   "tag": "video",
+   "src": null,
+   "renderedSize": [
+    0,
+    0
+   ],
+   "hidden": true,
+   "area": "other"
+  }
+ ],
+ "sharedSections": {
+  "contactQuickForm": false,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner2.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner2.jpg"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/AFV.png",
+   "alt": "New Patient Exam",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_AFV_new-patient-exam.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/PEDO.png",
+   "alt": "Pediatric First Visit",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_PEDO_pediatric-first-visit.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/OHI.png",
+   "alt": "Brushing & Flossing",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_OHI_brushing-flossing.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/HOMBL.png",
+   "alt": "Home Teeth Whitening",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_HOMBL_home-teeth-whitening.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/INLAYPORC.png",
+   "alt": "Porcelain Inlay",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_INLAYPORC_porcelain-inlay.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/OFCBL.png",
+   "alt": "In Office Teeth Whitening",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_OFCBL_in-office-teeth-whitening.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/CRWNPORC.png",
+   "alt": "Porcelain Crown",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_CRWNPORC_porcelain-crown.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/VENE.png",
+   "alt": "Veneer",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_VENE_veneer.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/IMPCRWN.png",
+   "alt": "Implant for Crown & Bridge",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_IMPCRWN_implant-for-crown-bridge.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/COMP.png",
+   "alt": "Composite Filling",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_COMP_composite-filling.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/INLAY.png",
+   "alt": "Inlay Filling",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_INLAY_inlay-filling.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/PROPHY.png",
+   "alt": "In Office Cleaning",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_PROPHY_in-office-cleaning.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/SRP.PNG",
+   "alt": "Deep Cleaning",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_SRP_deep-cleaning.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/IMPDENT.png",
+   "alt": "Implant for Denture",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_IMPDENT_implant-for-denture.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/IMPCRWN.png",
+   "alt": "Implant for Crown & Bridge",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_IMPCRWN_implant-for-crown-bridge.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/IMPCRWN.png",
+   "alt": "Implant for Crown & Bridge",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_IMPCRWN_implant-for-crown-bridge.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/IMPDENT.png",
+   "alt": "Implant for Denture",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_IMPDENT_implant-for-denture.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/PEDO.png",
+   "alt": "Pediatric First Visit",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_PEDO_pediatric-first-visit.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/PEDOSEAL.png",
+   "alt": "Sealants & Sports Guard",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_PEDOSEAL_sealants-sports-guard.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/PEDOPROPHY.png",
+   "alt": "Pediatric Teeth Cleaning",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_PEDOPROPHY_pediatric-teeth-cleaning.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/RCT.png",
+   "alt": "Root Canal",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_RCT_root-canal.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/RCT2.png",
+   "alt": "Alternatives to Root Canal",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_RCT2_alternatives-to-root-canal.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/EXTR.png",
+   "alt": "Tooth Extraction",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_EXTR_tooth-extraction.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/WSDM.png",
+   "alt": "Wisdom Teeth",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_WSDM_wisdom-teeth.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/POSTOP.png",
+   "alt": "Post Surgery Instructions",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_POSTOP_post-surgery-instructions.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/IMPDENT.png",
+   "alt": "Implant for Denture",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_IMPDENT_implant-for-denture.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/IMPCRWN.png",
+   "alt": "Implant for Crown & Bridge",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_IMPCRWN_implant-for-crown-bridge.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/CROWN.png",
+   "alt": "Crown",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_CROWN_crown.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/CRWNPORC.png",
+   "alt": "Porcelain Crown",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_CRWNPORC_porcelain-crown.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/CRWNMTL.png",
+   "alt": "Gold Crown",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_CRWNMTL_gold-crown.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/CRWNPFTM.png",
+   "alt": "Porcelain-Metal Crown",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_CRWNPFTM_porcelain-metal-crown.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/CRWNCMPR.png",
+   "alt": "Crown Material Comparison",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_CRWNCMPR_crown-material-comparison.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/BRIDGE.png",
+   "alt": "Dental Bridge",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_BRIDGE_dental-bridge.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/IMPCRWN.png",
+   "alt": "Implant for Crown & Bridge",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_IMPCRWN_implant-for-crown-bridge.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/VENE.png",
+   "alt": "Veneer",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_VENE_veneer.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/CDENT.png",
+   "alt": "Denture",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_CDENT_denture.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/STAYPLT.png",
+   "alt": "Temporary Partial Denture",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_STAYPLT_temporary-partial-denture.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/PDENT.png",
+   "alt": "Partial Denture",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_PDENT_partial-denture.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/RPOST.png",
+   "alt": "Denture Home Care",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_RPOST_denture-home-care.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/IDENT.png",
+   "alt": "Immediate Denture",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_IDENT_immediate-denture.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/IMPDENT.png",
+   "alt": "Implant for Denture",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_IMPDENT_implant-for-denture.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/CMPAR.png",
+   "alt": "Dental Filling Materials",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_CMPAR_dental-filling-materials.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/AMAL.png",
+   "alt": "Amalgam Filling",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_AMAL_amalgam-filling.png"
+  },
+  {
+   "src": "https://content.prosites.com/images/mediamed/thumbs/NIGHTGRD.png",
+   "alt": "Night Guard",
+   "area": "main",
+   "size": [
+    142,
+    80
+   ],
+   "localFile": "images/video-thumb_NIGHTGRD_night-guard.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

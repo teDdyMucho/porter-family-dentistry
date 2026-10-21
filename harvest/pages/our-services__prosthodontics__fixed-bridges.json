@@ -1,0 +1,191 @@
+{
+ "slug": "our-services__prosthodontics__fixed-bridges",
+ "url": "https://www.porterfamilydentistry.com/our-services/prosthodontics/fixed-bridges/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-services/prosthodontics/fixed-bridges/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-services/prosthodontics/fixed-bridges/"
+ ],
+ "redirects": [],
+ "title": "Fixed Bridges | La Porte, Indiana | Porter Family Dentistry",
+ "metaDescription": "Pain-free dentistry. Dedicated staff. All dental insurance plans accepted. Dental insurance advocate. Implants, cleanings, whitening. Call 219-362-5205.",
+ "canonical": "https://www.porterfamilydentistry.com/our-services/prosthodontics/fixed-bridges/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Fixed Bridges",
+ "nav": [
+  {
+   "label": "Fixed Bridges",
+   "parents": [
+    "Our Services",
+    "Prosthodontics"
+   ],
+   "menuPath": "Our Services > Prosthodontics > Fixed Bridges"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/our-services/",
+   "https://www.porterfamilydentistry.com/our-services/prosthodontics/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner7.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner7.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Fixed Bridges",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "A dental bridge is a fixed (non-removable) appliance and is an excellent way to replace missing teeth."
+  },
+  {
+   "type": "p",
+   "text": "There are several types of bridges. You and your dentist will discuss the best options for your particular case. The “traditional bridge” is the most popular type and is usually made of porcelain fused to metal. This type of bridge consists of two crowns that go over two anchoring teeth (abutment teeth) and are attached to pontics (artificial teeth), filling the gap created by one or more missing teeth."
+  },
+  {
+   "type": "p",
+   "text": "Dental bridges are highly durable and will last many years, however they may need replacement or need to be re-cemented due to normal wear."
+  },
+  {
+   "type": "p",
+   "text": "Reasons for a fixed bridge:",
+   "md": "**Reasons for a fixed bridge:**"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Fill space of missing teeth."
+    },
+    {
+     "text": "Maintain facial shape."
+    },
+    {
+     "text": "Prevent remaining teeth from drifting out of position."
+    },
+    {
+     "text": "Restore chewing and speaking ability."
+    },
+    {
+     "text": "Restore your smile."
+    },
+    {
+     "text": "Upgrade from a removable partial denture to a permanent dental appliance."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "What does getting a fixed bridge involve?",
+   "md": "**What does getting a fixed bridge involve?**"
+  },
+  {
+   "type": "p",
+   "text": "Getting a bridge usually requires two or more visits. While the teeth are numb, the two anchoring teeth are prepared by removing a portion of enamel to allow for a crown. Next, a highly accurate impression (mold) is made which will be sent to a dental laboratory where the bridge will be fabricated. In addition, a temporary bridge will be made and worn for several weeks until your next appointment."
+  },
+  {
+   "type": "p",
+   "text": "At the second visit, your permanent bridge will be carefully checked, adjusted, and cemented to achieve a proper fit. Occasionally your dentist may only temporarily cement the bridge, allowing your teeth and tissue time to get used to the new bridge. The new bridge will be permanently cemented at a later time."
+  },
+  {
+   "type": "p",
+   "text": "You will receive care instructions at the conclusion of the procedure. Proper brushing, flossing, and regular dental visits will aid in the life of your new, permanent bridge."
+  },
+  {
+   "type": "ul",
+   "items": []
+  },
+  {
+   "type": "field",
+   "fieldType": "button",
+   "name": "ctl00$ContentPlaceHolder1$btnBack",
+   "optionLabel": null,
+   "buttonText": "<",
+   "visibleOnLoad": true
+  }
+ ],
+ "wordCount": 309,
+ "contentHash": "34767c57e53a",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner7.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner7.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

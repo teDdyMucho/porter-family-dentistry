@@ -1,0 +1,13 @@
+# Harvest working files (raw HTML dumps, crawl logs, screenshots of the old site)
+harvest/raw/
+harvest/shots/
+harvest/contact_sheet.jpg
+build/harvest_tools/crawl_stdout.txt
+
+# Python and editor clutter
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+.vercel

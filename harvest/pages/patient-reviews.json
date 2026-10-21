@@ -1,0 +1,373 @@
+{
+ "slug": "patient-reviews",
+ "url": "https://www.porterfamilydentistry.com/patient-reviews/",
+ "finalUrl": "https://www.porterfamilydentistry.com/patient-reviews/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/patient-reviews/"
+ ],
+ "redirects": [],
+ "title": "David L. Porter, D.D.S., P.C. - Patient Reviews",
+ "metaDescription": "Welcome to our Patient Reviews page. Contact Porter Family Dentistry today at (219) 362-5205 or visit our office servicing La Porte, Indiana",
+ "canonical": "https://www.porterfamilydentistry.com/patient-reviews/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Patient Reviews",
+ "nav": [
+  {
+   "label": "Patient Reviews",
+   "parents": [],
+   "menuPath": "Patient Reviews"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner2.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner2.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Patient Reviews",
+   "class": "section-heading"
+  },
+  {
+   "type": "h2",
+   "text": "Write your Review:",
+   "class": "reviews-heading one"
+  },
+  {
+   "type": "p",
+   "text": "Your Star Rating:"
+  },
+  {
+   "type": "form",
+   "fields": [
+    {
+     "label": "Click on a star to change your rating 1 – 5, where 5 = great! and 1 = really bad",
+     "type": "text",
+     "name": "ctl00$ContentPlaceHolder1$text1",
+     "id": "text1",
+     "required": false,
+     "validators": [
+      {
+       "message": "Please select a rating from 1 to 5 stars!",
+       "kind": "validateLength"
+      }
+     ],
+     "visibleOnLoad": false
+    },
+    {
+     "label": "Your Review:",
+     "type": "textarea",
+     "name": "ctl00$ContentPlaceHolder1$txtComment",
+     "id": "txtComment",
+     "placeholder": "Leave a comment to share your experience with others.",
+     "rows": 5,
+     "required": true,
+     "validators": [
+      {
+       "message": "Comment is Required",
+       "kind": null
+      }
+     ],
+     "visibleOnLoad": true
+    },
+    {
+     "label": "Name:",
+     "type": "text",
+     "name": "ctl00$ContentPlaceHolder1$txtName",
+     "id": "txtName",
+     "placeholder": "Name:",
+     "required": true,
+     "validators": [
+      {
+       "message": "Name is Required",
+       "kind": null
+      }
+     ],
+     "visibleOnLoad": true
+    },
+    {
+     "label": "City:",
+     "type": "text",
+     "name": "ctl00$ContentPlaceHolder1$txtCity",
+     "id": "txtCity",
+     "placeholder": "City:",
+     "required": true,
+     "validators": [
+      {
+       "message": "City is Required",
+       "kind": null
+      }
+     ],
+     "visibleOnLoad": true
+    },
+    {
+     "label": "Email",
+     "type": "email",
+     "name": "ctl00$ContentPlaceHolder1$txtEmail",
+     "id": "txtEmail",
+     "placeholder": "Email",
+     "required": true,
+     "validators": [
+      {
+       "message": "Email is Required",
+       "kind": null
+      }
+     ],
+     "visibleOnLoad": true
+    },
+    {
+     "label": null,
+     "type": "button",
+     "name": "ctl00$ContentPlaceHolder1$show",
+     "id": "show",
+     "buttonText": "Submit",
+     "required": false,
+     "visibleOnLoad": true
+    },
+    {
+     "label": "Please take a moment to copy and paste your review on our social networks:",
+     "type": "textarea",
+     "name": "",
+     "id": "txtComment2",
+     "rows": 5,
+     "required": false,
+     "visibleOnLoad": false
+    },
+    {
+     "label": null,
+     "type": "button",
+     "name": "",
+     "id": "copyClipboard",
+     "buttonText": "Copy Review to Clipboard",
+     "required": false,
+     "visibleOnLoad": false
+    }
+   ],
+   "content": [
+    {
+     "type": "p",
+     "text": "Click on a star to change your rating 1 – 5, where 5 = great! and 1 = really bad"
+    },
+    {
+     "type": "field",
+     "fieldType": "text",
+     "name": "ctl00$ContentPlaceHolder1$text1",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "p",
+     "text": "Your Review:"
+    },
+    {
+     "type": "field",
+     "fieldType": "textarea",
+     "name": "ctl00$ContentPlaceHolder1$txtComment",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": true
+    },
+    {
+     "type": "p",
+     "text": "1000 characters remaining"
+    },
+    {
+     "type": "h2",
+     "text": "Your Info:",
+     "class": "reviews-heading two"
+    },
+    {
+     "type": "p",
+     "text": "Only Type your First Name and Last Initial (Ex. John D.)"
+    },
+    {
+     "type": "field",
+     "fieldType": "text",
+     "name": "ctl00$ContentPlaceHolder1$txtName",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": true
+    },
+    {
+     "type": "field",
+     "fieldType": "text",
+     "name": "ctl00$ContentPlaceHolder1$txtCity",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": true
+    },
+    {
+     "type": "field",
+     "fieldType": "email",
+     "name": "ctl00$ContentPlaceHolder1$txtEmail",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": true
+    },
+    {
+     "type": "field",
+     "fieldType": "button",
+     "name": "ctl00$ContentPlaceHolder1$show",
+     "optionLabel": null,
+     "buttonText": "Submit",
+     "visibleOnLoad": true
+    },
+    {
+     "type": "p",
+     "text": "By clicking Submit, I authorize the sharing of my name and review on the Web. (email will not be shared)",
+     "md": "By clicking **Submit,** I authorize the sharing of my name and review on the Web. (email will not be shared)"
+    },
+    {
+     "type": "p",
+     "text": "Thank you for your feedback",
+     "hidden": true
+    },
+    {
+     "type": "p",
+     "text": "A copy of your review has been sent to the Doctor's email.",
+     "hidden": true
+    },
+    {
+     "type": "h2",
+     "text": "Thank you for your review!",
+     "hidden": true,
+     "class": "section-heading"
+    },
+    {
+     "type": "p",
+     "text": "Please take a moment to copy and paste your review on our social networks:",
+     "hidden": true
+    },
+    {
+     "type": "field",
+     "fieldType": "textarea",
+     "name": "",
+     "optionLabel": null,
+     "buttonText": null,
+     "visibleOnLoad": false
+    },
+    {
+     "type": "field",
+     "fieldType": "button",
+     "name": "",
+     "optionLabel": null,
+     "buttonText": "Copy Review to Clipboard",
+     "visibleOnLoad": false
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Choose the social network site you would like to share on:",
+   "hidden": true
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "",
+     "media": [
+      {
+       "type": "field",
+       "fieldType": "image",
+       "name": "ctl00$ContentPlaceHolder1$rptreviewSites$ctl00$rsImgButton",
+       "optionLabel": null,
+       "buttonText": null,
+       "visibleOnLoad": false
+      }
+     ],
+     "hidden": true
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": []
+  }
+ ],
+ "wordCount": 110,
+ "contentHash": "20acb4962c2a",
+ "sharedSections": {
+  "contactQuickForm": false,
+  "testimonialsCarousel": false,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner2.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner2.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

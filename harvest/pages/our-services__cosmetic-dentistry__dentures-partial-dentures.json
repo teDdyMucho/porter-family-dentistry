@@ -1,0 +1,190 @@
+{
+ "slug": "our-services__cosmetic-dentistry__dentures-partial-dentures",
+ "url": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/dentures-partial-dentures/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/dentures-partial-dentures/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/dentures-partial-dentures/"
+ ],
+ "redirects": [],
+ "title": "Dentures & Partial Dentures | La Porte, Indiana | Porter Family Dentistry",
+ "metaDescription": "Pain-free dentistry. Dedicated staff. All dental insurance plans accepted. Dental insurance advocate. Implants, cleanings, whitening. Call 219-362-5205.",
+ "canonical": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/dentures-partial-dentures/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Dentures & Partial Dentures",
+ "nav": [
+  {
+   "label": "Dentures & Partial Dentures",
+   "parents": [
+    "Our Services",
+    "Cosmetic Dentistry"
+   ],
+   "menuPath": "Our Services > Cosmetic Dentistry > Dentures & Partial Dentures"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/",
+   "https://www.porterfamilydentistry.com/our-services/",
+   "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner7.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner7.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Dentures & Partial Dentures",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "A denture is a removable dental appliance and a replacement for missing teeth and surrounding tissue. They are made to closely resemble your natural teeth and may even enhance your smile."
+  },
+  {
+   "type": "p",
+   "text": "There are two types of dentures - complete and partial dentures. Complete dentures are used when all of the teeth are missing, while partial dentures are used when some natural teeth remain. A partial denture not only fills in the spaces created by missing teeth, it prevents other teeth from shifting."
+  },
+  {
+   "type": "p",
+   "text": "A complete denture can be either “conventional” or “immediate.” A conventional type is made after the teeth have been removed and the gum tissue has healed (usually takes 4 to 6 weeks). During this time, the patient will go without teeth. Immediate dentures are made in advance and immediately placed after the teeth are removed, thus preventing the patient from having to be without teeth during the healing process. Once the tissues shrink and heal, adjustments will have to be made."
+  },
+  {
+   "type": "p",
+   "text": "Dentures are very durable appliances and will last many years but may have to be remade, repaired, or readjusted due to normal wear."
+  },
+  {
+   "type": "p",
+   "text": "Reasons for dentures:",
+   "md": "**Reasons for dentures:**"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Complete Denture - Loss of all teeth in an arch."
+    },
+    {
+     "text": "Partial Denture - Loss of several teeth in an arch."
+    },
+    {
+     "text": "Enhancing smile and facial tissues."
+    },
+    {
+     "text": "Improving chewing, speech, and digestion."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "What does getting dentures involve?",
+   "md": "**What does getting dentures involve?**"
+  },
+  {
+   "type": "p",
+   "text": "The process of getting dentures requires several appointments, usually over a period of several weeks. Highly accurate impressions (molds) and measurements are taken and used to create your custom denture. Several “try-in” appointments may be necessary to ensure proper shape, color, and fit. At the final appointment, your dentist will precisely adjust and place the completed denture, ensuring a natural and comfortable fit."
+  },
+  {
+   "type": "p",
+   "text": "It is normal to experience increased saliva flow, some soreness, and possible speech and chewing difficulty, however this will subside as your muscles and tissues get used to the new dentures."
+  },
+  {
+   "type": "p",
+   "text": "You will be given care instructions for your new dentures. Proper cleaning of your new dental appliance, good oral hygiene, and regular dental visits will aid in the life of your new dentures."
+  },
+  {
+   "type": "ul",
+   "items": []
+  },
+  {
+   "type": "field",
+   "fieldType": "button",
+   "name": "ctl00$ContentPlaceHolder1$btnBack",
+   "optionLabel": null,
+   "buttonText": "<",
+   "visibleOnLoad": true
+  }
+ ],
+ "wordCount": 351,
+ "contentHash": "3b956b740ed4",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner7.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner7.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

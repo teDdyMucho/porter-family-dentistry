@@ -1,0 +1,185 @@
+{
+ "slug": "our-services__cosmetic-dentistry__teeth-whitening",
+ "url": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/teeth-whitening/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/teeth-whitening/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/teeth-whitening/"
+ ],
+ "redirects": [],
+ "title": "Teeth Whitening | La Porte, Indiana | Porter Family Dentistry",
+ "metaDescription": "Pain-free dentistry. Dedicated staff. All dental insurance plans accepted. Dental insurance advocate. Implants, cleanings, whitening. Call 219-362-5205.",
+ "canonical": "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/teeth-whitening/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Teeth Whitening",
+ "nav": [
+  {
+   "label": "Teeth Whitening",
+   "parents": [
+    "Our Services",
+    "Cosmetic Dentistry"
+   ],
+   "menuPath": "Our Services > Cosmetic Dentistry > Teeth Whitening"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/our-services/",
+   "https://www.porterfamilydentistry.com/our-services/cosmetic-dentistry/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner1.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner1.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Teeth Whitening",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "Teeth whitening (or bleaching) is a simple, non-invasive dental treatment used to change the color of natural tooth enamel and is an ideal way to enhance the beauty of your smile."
+  },
+  {
+   "type": "p",
+   "text": "Because having whiter teeth has now become the number one aesthetic concern of most patients, there are a number of ways to whiten teeth. The most popular method is using a home teeth whitening system that will whiten teeth dramatically. Since teeth whitening only works on natural tooth enamel, it is important to evaluate replacement of any old fillings, crowns, etc. Replacement of any restorations will be done after bleaching so they will match the newly bleached teeth."
+  },
+  {
+   "type": "p",
+   "text": "Teeth whitening is not permanent. A touch-up may be needed every several years, and more often if you smoke, drink coffee, tea, or wine."
+  },
+  {
+   "type": "p",
+   "text": "Reasons for teeth whitening:",
+   "md": "**Reasons for teeth whitening:**"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Fluorosis (excessive fluoridation during tooth development)."
+    },
+    {
+     "text": "Normal wear of outer tooth layer."
+    },
+    {
+     "text": "Stained teeth due to medications (tetracycline, etc.)."
+    },
+    {
+     "text": "Yellow, brown stained teeth."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "What does teeth whitening involve?",
+   "md": "**What does teeth whitening involve?**"
+  },
+  {
+   "type": "p",
+   "text": "This type of teeth whitening usually requires two visits. At the first appointment, impressions (molds) will be made of your teeth to fabricate custom, clear, plastic, trays."
+  },
+  {
+   "type": "p",
+   "text": "At your second appointment, you will try on the trays for proper fit, and adjustments will be made if necessary. The trays are worn with special whitening solution either twice a day for 30 minutes or overnight for a couple of weeks depending on the degree of staining and desired level of whitening. It is normal to experience tooth sensitivity during the time you are whitening your teeth, but it will subside shortly after you have stopped bleaching."
+  },
+  {
+   "type": "p",
+   "text": "You will receive care instructions for your teeth and trays, and be encouraged to visit your dentist regularly to help maintain a beautiful, healthy, white smile."
+  },
+  {
+   "type": "ul",
+   "items": []
+  },
+  {
+   "type": "field",
+   "fieldType": "button",
+   "name": "ctl00$ContentPlaceHolder1$btnBack",
+   "optionLabel": null,
+   "buttonText": "<",
+   "visibleOnLoad": true
+  }
+ ],
+ "wordCount": 298,
+ "contentHash": "16f21a3499e6",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner1.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner1.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

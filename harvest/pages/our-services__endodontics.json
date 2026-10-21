@@ -1,0 +1,264 @@
+{
+ "slug": "our-services__endodontics",
+ "url": "https://www.porterfamilydentistry.com/our-services/endodontics/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-services/endodontics/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-services/endodontics/"
+ ],
+ "redirects": [],
+ "title": "Endodontics | La Porte, Indiana | Porter Family Dentistry",
+ "metaDescription": "Pain-free dentistry. Dedicated staff. All dental insurance plans accepted. Dental insurance advocate. Implants, cleanings, whitening. Call 219-362-5205.",
+ "canonical": "https://www.porterfamilydentistry.com/our-services/endodontics/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Endodontics",
+ "nav": [
+  {
+   "label": "Endodontics",
+   "parents": [
+    "Our Services"
+   ],
+   "menuPath": "Our Services > Endodontics"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/our-services/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner6.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner6.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Endodontics",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "Endodontics is a specialized branch of dentistry that deals with the complex structures found inside the teeth. The Greek word “Endodontics” literally means “inside the tooth” and relates to the tooth pulp, tissues, nerves, and arterioles. Endodontists receive additional dental training after completing dental school to enable them to perform both complex and simple procedures, including root canal therapy."
+  },
+  {
+   "type": "p",
+   "text": "Historically, a tooth with a diseased nerve would be removed immediately, but endodontists are now able to save the natural tooth in most cases. Generally, extracting the inner tooth structures, then sealing the resulting gap with a crown restores health and functionality to damaged teeth."
+  },
+  {
+   "type": "p",
+   "text": "Signs and symptoms of endodontic problems:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Inflammation and tenderness in the gums."
+    },
+    {
+     "text": "Teeth that are sensitive to hot and cold foods."
+    },
+    {
+     "text": "Tenderness when chewing and biting."
+    },
+    {
+     "text": "Tooth discoloration."
+    },
+    {
+     "text": "Unexplained pain in the nearby lymph nodes."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Reasons for endodontic treatment",
+   "md": "**Reasons for endodontic treatment**"
+  },
+  {
+   "type": "p",
+   "text": "Endodontic treatment (or root canal therapy) is performed to save the natural tooth. In spite of the many advanced restorations available, most dentists agree that there is no substitute for healthy, natural teeth."
+  },
+  {
+   "type": "p",
+   "text": "Here are some of the main causes of inner tooth damage:"
+  },
+  {
+   "type": "p",
+   "text": "Bacterial infections – Oral bacteria is the most common cause of endodontic problems. Bacteria invade the tooth pulp through tiny fissures in the teeth caused by tooth decay or injury. The resulting inflammation and bacterial infection jeopardize the affected tooth and may cause an abscess to form.",
+   "md": "**Bacterial infections** – Oral bacteria is the most common cause of endodontic problems. Bacteria invade the tooth pulp through tiny fissures in the teeth caused by tooth decay or injury. The resulting inflammation and bacterial infection jeopardize the affected tooth and may cause an abscess to form."
+  },
+  {
+   "type": "p",
+   "text": "Fractures and chips – When a large part of the surface or crown of the tooth has become completely detached, root canal therapy may be required. The removal of the crown portion leaves the pulp exposed, which can be debilitating painful and problematic.",
+   "md": "**Fractures and chips** – When a large part of the surface or crown of the tooth has become completely detached, root canal therapy may be required. The removal of the crown portion leaves the pulp exposed, which can be debilitating painful and problematic."
+  },
+  {
+   "type": "p",
+   "text": "Injuries – Injuries to the teeth can be caused by a direct or indirect blow to the mouth area. Some injuries cause a tooth to become luxated or dislodged from its socket. Root canal therapy is often needed after the endodontist has successfully stabilized the injured tooth.",
+   "md": "**Injuries** – Injuries to the teeth can be caused by a direct or indirect blow to the mouth area. Some injuries cause a tooth to become luxated or dislodged from its socket. Root canal therapy is often needed after the endodontist has successfully stabilized the injured tooth."
+  },
+  {
+   "type": "p",
+   "text": "Removals – If a tooth has been knocked clean out of the socket, it is important to rinse it and place it back into the socket as quickly as possible. If this is impossible, place the tooth in special dental solution (available at pharmacies) or in milk. These steps will keep the inner mechanisms of the tooth moist and alive while emergency dental treatment is sought. The tooth will be affixed in its socket using a special splint, and the endodontist will then perform root canal therapy to save the tooth.",
+   "md": "**Removals** – If a tooth has been knocked clean out of the socket, it is important to rinse it and place it back into the socket as quickly as possible. If this is impossible, place the tooth in special dental solution (available at pharmacies) or in milk. These steps will keep the inner mechanisms of the tooth moist and alive while emergency dental treatment is sought. The tooth will be affixed in its socket using a special splint, and the endodontist will then perform root canal therapy to save the tooth."
+  },
+  {
+   "type": "p",
+   "text": "What does an endodontic procedure invlove?",
+   "md": "**What does an endodontic procedure invlove?**"
+  },
+  {
+   "type": "p",
+   "text": "Root canal therapy usually takes between one and three visits to complete. Complete X-rays of the teeth will be taken and examined before the treatment begins."
+  },
+  {
+   "type": "p",
+   "text": "Initially, a local anesthetic will be administered, and a dental dam (protective sheet) will be placed to ensure that the surgical area remains free of saliva during the treatment. An opening will be created in the surface of the tooth, and the pulp will be completely removed using small handheld instruments."
+  },
+  {
+   "type": "p",
+   "text": "The space will then be shaped, cleaned, and filled with gutta-percha. Gutta-percha is a biocompatible material that is somewhat similar to rubber. Cement will be applied on top to ensure that the root canals are completely sealed off. Usually, a temporary filling will be placed to restore functionality to the tooth prior to the permanent restoration procedure. During the final visit, a permanent restoration or crown will be placed."
+  },
+  {
+   "type": "p",
+   "text": "If you have questions or concerns about endodontic procedures, please contact our office.",
+   "md": "*If you have questions or concerns about endodontic procedures, please contact our office.*"
+  },
+  {
+   "type": "p",
+   "text": "Related Pages:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Root Canal Retreatment",
+     "md": "[Root Canal Retreatment](https://www.porterfamilydentistry.com/our-services/endodontics/root-canal-retreatment/)",
+     "links": [
+      {
+       "text": "Root Canal Retreatment",
+       "href": "https://www.porterfamilydentistry.com/our-services/endodontics/root-canal-retreatment/"
+      }
+     ]
+    },
+    {
+     "text": "Cracked Tooth",
+     "md": "[Cracked Tooth](https://www.porterfamilydentistry.com/our-services/endodontics/cracked-tooth/)",
+     "links": [
+      {
+       "text": "Cracked Tooth",
+       "href": "https://www.porterfamilydentistry.com/our-services/endodontics/cracked-tooth/"
+      }
+     ]
+    },
+    {
+     "text": "Root Amputation",
+     "md": "[Root Amputation](https://www.porterfamilydentistry.com/our-services/endodontics/root-amputation/)",
+     "links": [
+      {
+       "text": "Root Amputation",
+       "href": "https://www.porterfamilydentistry.com/our-services/endodontics/root-amputation/"
+      }
+     ]
+    },
+    {
+     "text": "Root Canal Therapy",
+     "md": "[Root Canal Therapy](https://www.porterfamilydentistry.com/our-services/endodontics/root-canal-therapy/)",
+     "links": [
+      {
+       "text": "Root Canal Therapy",
+       "href": "https://www.porterfamilydentistry.com/our-services/endodontics/root-canal-therapy/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "field",
+   "fieldType": "button",
+   "name": "ctl00$ContentPlaceHolder1$btnBack",
+   "optionLabel": null,
+   "buttonText": "<",
+   "visibleOnLoad": true
+  }
+ ],
+ "wordCount": 589,
+ "contentHash": "eb96fe9b23c1",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner6.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner6.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

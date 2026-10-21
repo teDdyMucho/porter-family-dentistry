@@ -1,0 +1,225 @@
+{
+ "slug": "our-services__periodontics",
+ "url": "https://www.porterfamilydentistry.com/our-services/periodontics/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-services/periodontics/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-services/periodontics/"
+ ],
+ "redirects": [],
+ "title": "Periodontics | La Porte, Indiana | Porter Family Dentistry",
+ "metaDescription": "Pain-free dentistry. Dedicated staff. All dental insurance plans accepted. Dental insurance advocate. Implants, cleanings, whitening. Call 219-362-5205.",
+ "canonical": "https://www.porterfamilydentistry.com/our-services/periodontics/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Periodontics",
+ "nav": [
+  {
+   "label": "Periodontics",
+   "parents": [
+    "Our Services"
+   ],
+   "menuPath": "Our Services > Periodontics"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/our-services/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner8.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner8.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Periodontics",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "The term “periodontics” refers to the dental specialty that pertains to the prevention, diagnosis and treatment of periodontal disease that affects the gums and jawbone. The gum tissues serve to surround and support the teeth and the underlying jawbone anchors teeth firmly in place. Periodontists have completed several years of extra dental training and are concerned with maintaining the function, health and aesthetics of the jawbone and tissues."
+  },
+  {
+   "type": "p",
+   "text": "Reasons for periodontal treatment",
+   "md": "**Reasons for periodontal treatment**"
+  },
+  {
+   "type": "p",
+   "text": "Periodontal disease is a progressive condition which begins with mild gum inflammation called gingivitis. It is the leading cause of tooth loss in adults living in the developed world, and should be taken very seriously. Periodontal disease (often called gum disease) is typically signified by red, swollen, painful, or bleeding gums, but in some cases has no noticeable symptoms."
+  },
+  {
+   "type": "p",
+   "text": "Periodontal disease generally begins when the bacteria living in plaque cause an infection in the surrounding tissues of the teeth, causing them to become irritated and painful. Eventually, this infection will cause the jawbone to recede and the tooth to become loose."
+  },
+  {
+   "type": "p",
+   "text": "There are several reasons why periodontal treatment may be necessary:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Moderate/advanced gum disease – This occurs when the gums are bleeding, swollen or red around most teeth and the jawbone has begun to recede.",
+     "md": "**Moderate/advanced gum disease** – This occurs when the gums are bleeding, swollen or red around most teeth and the jawbone has begun to recede."
+    },
+    {
+     "text": "Localized gum recession – The infection which propagates moderate or advanced gum disease often begins in one area. Gum recession may also be caused due to over brushing with a hard bristle brush, or due to a tooth that is not positioned properly. Immediate treatment is required to prevent further spreading.",
+     "md": "**Localized gum recession** – The infection which propagates moderate or advanced gum disease often begins in one area. Gum recession may also be caused due to over brushing with a hard bristle brush, or due to a tooth that is not positioned properly. Immediate treatment is required to prevent further spreading."
+    },
+    {
+     "text": "Before crown lengthening – The periodontist may lengthen the crown of the tooth by removing surrounding soft tissue to provide more tooth exposure.",
+     "md": "**Before crown lengthening** – The periodontist may lengthen the crown of the tooth by removing surrounding soft tissue to provide more tooth exposure."
+    },
+    {
+     "text": "Ridge augmentation – This procedure, often called “recontouring” may be required to correct an uneven gum line. Before embarking on treatment, a periodontist needs to treat any bacterial infections and periodontitis.",
+     "md": "**Ridge augmentation** – This procedure, often called “recontouring” may be required to correct an uneven gum line. Before embarking on treatment, a periodontist needs to treat any bacterial infections and periodontitis."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "In the case of mild/moderate periodontal problems, the focus of the periodontist will be on curing the underlying bacterial infection and then providing advice on the most appropriate home cleaning methods."
+  },
+  {
+   "type": "p",
+   "text": "Sometimes a deep scaling is needed to remove the bacterial plaque and calculus (tartar) from the teeth and tissues. Where periodontal disease is advanced and the jawbone has regressed significantly, more intensive cleaning may be recommended and loose teeth that cannot be saved will be removed."
+  },
+  {
+   "type": "p",
+   "text": "The periodontist is trained in all aspects of dental implant procedures, which can restore functionality to the mouth when teeth have been affected by periodontitis."
+  },
+  {
+   "type": "p",
+   "text": "Because periodontal disease is progressive, it is essential to remove the bacteria and calculus build up to halt the spread of the infection. Your dentist will be happy to advise you on effective cleaning methods and treatment options."
+  },
+  {
+   "type": "p",
+   "text": "Related Pages:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Periodontal Scaling & Root Planing",
+     "md": "[Periodontal Scaling & Root Planing](https://www.porterfamilydentistry.com/our-services/periodontics/periodontal-scaling-root-planing/)",
+     "links": [
+      {
+       "text": "Periodontal Scaling & Root Planing",
+       "href": "https://www.porterfamilydentistry.com/our-services/periodontics/periodontal-scaling-root-planing/"
+      }
+     ]
+    },
+    {
+     "text": "Root Amputation",
+     "md": "[Root Amputation](https://www.porterfamilydentistry.com/our-services/periodontics/root-amputation/)",
+     "links": [
+      {
+       "text": "Root Amputation",
+       "href": "https://www.porterfamilydentistry.com/our-services/periodontics/root-amputation/"
+      }
+     ]
+    },
+    {
+     "text": "Prophylaxis (Teeth Cleaning)",
+     "md": "[Prophylaxis (Teeth Cleaning)](https://www.porterfamilydentistry.com/our-services/periodontics/prophylaxis-teeth-cleaning/)",
+     "links": [
+      {
+       "text": "Prophylaxis (Teeth Cleaning)",
+       "href": "https://www.porterfamilydentistry.com/our-services/periodontics/prophylaxis-teeth-cleaning/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "field",
+   "fieldType": "button",
+   "name": "ctl00$ContentPlaceHolder1$btnBack",
+   "optionLabel": null,
+   "buttonText": "<",
+   "visibleOnLoad": true
+  }
+ ],
+ "wordCount": 462,
+ "contentHash": "d4b195e28005",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner8.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner8.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

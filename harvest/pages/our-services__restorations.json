@@ -1,0 +1,227 @@
+{
+ "slug": "our-services__restorations",
+ "url": "https://www.porterfamilydentistry.com/our-services/restorations/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-services/restorations/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-services/restorations/"
+ ],
+ "redirects": [],
+ "title": "Restorations | La Porte, Indiana | Porter Family Dentistry",
+ "metaDescription": "Pain-free dentistry. Dedicated staff. All dental insurance plans accepted. Dental insurance advocate. Implants, cleanings, whitening. Call 219-362-5205.",
+ "canonical": "https://www.porterfamilydentistry.com/our-services/restorations/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Restorations",
+ "nav": [
+  {
+   "label": "Restorations",
+   "parents": [
+    "Our Services"
+   ],
+   "menuPath": "Our Services > Restorations"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/our-services/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner1.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner1.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Restorations",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "It’s great news that the incidence of tooth decay has significantly diminished over the years due to the use of fluorides and an increase in patient awareness. However, teeth are still susceptible to decay, infection, and breakage and sometimes need to be restored back to health. Through improved techniques and modern technology, we are now able to offer more options for restoring a tooth back to its normal shape, appearance and function."
+  },
+  {
+   "type": "p",
+   "text": "Should your teeth ever require a restorative treatment, you can rest assured knowing we will always discuss with you the available options, and recommend what we believe to be the most comfortable and least invasive treatment. Providing you with excellent care is our number one priority when creating your beautiful smile."
+  },
+  {
+   "type": "p",
+   "text": "Reasons for restorative dentistry:",
+   "md": "**Reasons for restorative dentistry:**"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Enhance your smile."
+    },
+    {
+     "text": "Fill in unattractive spaces between teeth."
+    },
+    {
+     "text": "Improve or correct an improper bite."
+    },
+    {
+     "text": "Prevent the loss of a tooth."
+    },
+    {
+     "text": "Relieve dental pain."
+    },
+    {
+     "text": "Repair damaged and decayed teeth."
+    },
+    {
+     "text": "Replace missing teeth."
+    },
+    {
+     "text": "Replace old, unattractive dental treatments."
+    },
+    {
+     "text": "Restore normal eating and chewing."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Remember to give your teeth the attention they need today!",
+   "md": "***Remember to give your teeth the attention they need today!***"
+  },
+  {
+   "type": "p",
+   "text": "Related Pages:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Composite Fillings",
+     "md": "[Composite Fillings](https://www.porterfamilydentistry.com/our-services/restorations/composite-fillings/)",
+     "links": [
+      {
+       "text": "Composite Fillings",
+       "href": "https://www.porterfamilydentistry.com/our-services/restorations/composite-fillings/"
+      }
+     ]
+    },
+    {
+     "text": "Crowns (Caps)",
+     "md": "[Crowns (Caps)](https://www.porterfamilydentistry.com/our-services/restorations/crowns-caps/)",
+     "links": [
+      {
+       "text": "Crowns (Caps)",
+       "href": "https://www.porterfamilydentistry.com/our-services/restorations/crowns-caps/"
+      }
+     ]
+    },
+    {
+     "text": "Fixed Bridges",
+     "md": "[Fixed Bridges](https://www.porterfamilydentistry.com/our-services/restorations/fixed-bridges/)",
+     "links": [
+      {
+       "text": "Fixed Bridges",
+       "href": "https://www.porterfamilydentistry.com/our-services/restorations/fixed-bridges/"
+      }
+     ]
+    },
+    {
+     "text": "Root Canal Therapy",
+     "md": "[Root Canal Therapy](https://www.porterfamilydentistry.com/our-services/restorations/root-canal-therapy/)",
+     "links": [
+      {
+       "text": "Root Canal Therapy",
+       "href": "https://www.porterfamilydentistry.com/our-services/restorations/root-canal-therapy/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "field",
+   "fieldType": "button",
+   "name": "ctl00$ContentPlaceHolder1$btnBack",
+   "optionLabel": null,
+   "buttonText": "<",
+   "visibleOnLoad": true
+  }
+ ],
+ "wordCount": 191,
+ "contentHash": "c3e0f1e4149d",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner1.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner1.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "slug": "our-practice__testimonials",
+ "url": "https://www.porterfamilydentistry.com/our-practice/testimonials/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-practice/testimonials/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-practice/testimonials/"
+ ],
+ "redirects": [],
+ "title": "David L. Porter, D.D.S., P.C. - Testimonials",
+ "metaDescription": "Welcome to our Testimonials page. Contact Porter Family Dentistry today at (219) 362-5205 or visit our office servicing La Porte, Indiana",
+ "canonical": "https://www.porterfamilydentistry.com/our-practice/testimonials/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Testimonials",
+ "nav": [
+  {
+   "label": "Testimonials",
+   "parents": [
+    "Our Practice"
+   ],
+   "menuPath": "Our Practice > Testimonials"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner8.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner8.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Testimonials",
+   "class": "section-heading"
+  },
+  {
+   "type": "blockquote",
+   "text": "To Dr. Dave and the Staff at David Porter Family Dentistry—\nThank you for making my experience so nice when I got 6 crowns!!!! From the hand cream to the foot massage—I felt so at ease and special. You all went above and beyond. And to Dr. Dave---What a magnificent job. You are so great! Thank you all. I love my teeth!"
+  },
+  {
+   "type": "p",
+   "text": "JG"
+  },
+  {
+   "type": "blockquote",
+   "text": "Everyone at Dr. Porter’s office from Dr. David Porter to the receptionists—are friendly and helpful. They are truly concerned about your dental health, listen and respond to your concerns, and don’t give up until issues are resolved, all in a professional, courteous manner. I especially love Cheryl and always joke with her and give her a hard time, just like she gives it back."
+  },
+  {
+   "type": "p",
+   "text": "YS"
+  },
+  {
+   "type": "blockquote",
+   "text": "I love everyone here!"
+  },
+  {
+   "type": "p",
+   "text": "AK"
+  },
+  {
+   "type": "blockquote",
+   "text": "I have been coming here for several years now and every staff member here that has worked with me has been amazing! Everyone is extremely kind and actually engages in conversation with me. I really appreciate all of the kindness! You guys are truly amazing! Thank you!"
+  },
+  {
+   "type": "p",
+   "text": "BR"
+  },
+  {
+   "type": "blockquote",
+   "text": "Dr. David Porter and I have known each other for some time now, 1980 to be exact. The doctor has been honest, sincere, and always careful not to cause any more pain than necessary. Thank you for your services rendered. And I hope we continue this dentistry journey together."
+  },
+  {
+   "type": "p",
+   "text": "YT"
+  },
+  {
+   "type": "blockquote",
+   "text": "I love Dr. Porter’s office. All of the staff are so warm and friendly. It feels like family."
+  },
+  {
+   "type": "p",
+   "text": "NC"
+  }
+ ],
+ "wordCount": 254,
+ "contentHash": "e8b7862d5e15",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": false,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner8.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner8.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}

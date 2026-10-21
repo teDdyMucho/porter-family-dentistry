@@ -1,0 +1,185 @@
+{
+ "slug": "our-services__cleanings-prevention__simple-tooth-extractions",
+ "url": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/simple-tooth-extractions/",
+ "finalUrl": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/simple-tooth-extractions/",
+ "status": 200,
+ "requestedAs": [
+  "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/simple-tooth-extractions/"
+ ],
+ "redirects": [],
+ "title": "Simple Tooth Extractions | La Porte, Indiana | Porter Family Dentistry",
+ "metaDescription": "Pain-free dentistry. Dedicated staff. All dental insurance plans accepted. Dental insurance advocate. Implants, cleanings, whitening. Call 219-362-5205.",
+ "canonical": "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/simple-tooth-extractions/",
+ "h1Note": "No <h1> element on the page; the page heading is <h2 class=\"section-heading\">.",
+ "pageHeading": "Simple Tooth Extractions",
+ "nav": [
+  {
+   "label": "Simple Tooth Extractions",
+   "parents": [
+    "Our Services",
+    "Cleanings & Prevention"
+   ],
+   "menuPath": "Our Services > Cleanings & Prevention > Simple Tooth Extractions"
+  }
+ ],
+ "inbound": {
+  "linkingPages": 46,
+  "linkedFromContentOf": [
+   "https://www.porterfamilydentistry.com/",
+   "https://www.porterfamilydentistry.com/our-services/",
+   "https://www.porterfamilydentistry.com/our-services/cleanings-prevention/"
+  ],
+  "inSitemap": true
+ },
+ "hero": {
+  "banner": {
+   "type": "img",
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner7.jpg",
+   "alt": null,
+   "width": 1900,
+   "height": 350,
+   "renderedSize": [
+    1440,
+    265
+   ],
+   "localFile": "images/banner7.jpg"
+  }
+ },
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Simple Tooth Extractions",
+   "class": "section-heading"
+  },
+  {
+   "type": "p",
+   "text": "If you are experiencing extreme sensitivity or are suffering from advanced periodontal disease, you may be required to have a tooth extracted. With a simple extraction, the dentist can safely remove the affected tooth without the need for major surgery."
+  },
+  {
+   "type": "p",
+   "text": "Reasons for a tooth extraction",
+   "md": "**Reasons for a tooth extraction**"
+  },
+  {
+   "type": "p",
+   "text": "There are numerous situations in which a simple extraction can help alleviate pain or prepare you for another cosmetic or restorative procedure. Some common reasons for extraction include:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    {
+     "text": "Advanced periodontal disease that has loosened the tooth roots"
+    },
+    {
+     "text": "Extra teeth or baby teeth that impede adult teeth"
+    },
+    {
+     "text": "Preparing a patient for orthodontic treatment"
+    },
+    {
+     "text": "Removing a fractured or malformed tooth"
+    },
+    {
+     "text": "Severe tooth decay which cannot be remedied with root canal therapy"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "How is a tooth extracted?",
+   "md": "**How is a tooth extracted?**"
+  },
+  {
+   "type": "p",
+   "text": "As a precaution, the dentist will first take X-rays of the tooth or teeth in question, to help plan the procedure. After preparing a method of extraction, you will be given a local anesthetic that will prevent you from feeling pain during the procedure. Next, the dentist will use a tool called an elevator to lift the tooth and loosen ligaments and gum tissue around the base of the tooth. Finally, the dentist will use a pair of forceps, to gently rock the tooth back and forth until it breaks free of the ligaments holding it in the gum tissue. Occasionally, a stubborn tooth will resist the dentist’s soft tug, refusing to come out. In these and more complex cases, the tooth may need to be broken up into smaller pieces for removal."
+  },
+  {
+   "type": "p",
+   "text": "Once removed, we will pack gauze into the socket and have you place pressure on the area by biting down. If necessary, the dentist will place stitches to close the socket."
+  },
+  {
+   "type": "p",
+   "text": "If you are sick the week prior to your scheduled extraction or on the day of, please contact our office, as alternative arrangements may need to be made. Please contact us if you have any questions or concerns."
+  },
+  {
+   "type": "ul",
+   "items": []
+  },
+  {
+   "type": "field",
+   "fieldType": "button",
+   "name": "ctl00$ContentPlaceHolder1$btnBack",
+   "optionLabel": null,
+   "buttonText": "<",
+   "visibleOnLoad": true
+  }
+ ],
+ "wordCount": 324,
+ "contentHash": "42a9e167778e",
+ "sharedSections": {
+  "contactQuickForm": true,
+  "testimonialsCarousel": true,
+  "officeLocation": true,
+  "phoneBar": true
+ },
+ "images": [
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/ban/banner7.jpg",
+   "alt": null,
+   "area": "hero-banner",
+   "size": [
+    1900,
+    350
+   ],
+   "localFile": "images/banner7.jpg"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/facebook-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_facebook-button.png"
+  },
+  {
+   "src": "https://c3-preview.prosites.com/277152/wy/images/icons/google-button%20sm.png",
+   "alt": "",
+   "area": "footer",
+   "size": [
+    75,
+    75
+   ],
+   "localFile": "images/icon_social_google-button.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-content.jpg",
+   "alt": null,
+   "area": "main",
+   "cssBackgroundOf": "section#content.content.m-padding",
+   "localFile": "images/bg_cover-content_beige-texture.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-contact",
+   "cssBackgroundOf": "section#form.contact-plugin",
+   "localFile": "images/bg_content-bg_tile.png"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/cover-testimonial.jpg",
+   "alt": null,
+   "area": "plugin-testimonials",
+   "cssBackgroundOf": "section#testiomnials.testimonials-plugin",
+   "localFile": "images/bg_cover-testimonial_wood-blossoms.jpg"
+  },
+  {
+   "src": "https://styles.prosites.com/litesite/2283/images/content-bg.png",
+   "alt": null,
+   "area": "plugin-address",
+   "cssBackgroundOf": "section#address.address-plugin.wow.fadeIn",
+   "localFile": "images/bg_content-bg_tile.png"
+  }
+ ]
+}
