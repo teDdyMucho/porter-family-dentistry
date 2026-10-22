@@ -653,7 +653,7 @@ def quote_cards(items):
     cards = []
     for q, who in items:
         cards.append(f'''<figure class="quote-card" data-reveal>
-        <blockquote>{keep_last_words(e(q), limit=24)}</blockquote>
+        <blockquote>{keep_last_words(e(q))}</blockquote>
         <figcaption>{e(who)}</figcaption>
       </figure>''')
     return '<div class="quotes">' + ''.join(cards) + '</div>'
@@ -1035,7 +1035,7 @@ def home_page(page):
               ('smile', 'A Positive Experience', practice_section('A Positive Experience')),
               ('shield', 'Uncompromising Safety', practice_section('Uncompromising Safety'))]
     value_cards = ''.join(f'''<article class="value" data-reveal>
-        <span class="card__icon">{icon(i)}</span><h3>{e(t)}</h3><p>{keep_last_words(e(x), limit=24)}</p></article>''' for i, t, x in values)
+        <span class="card__icon">{icon(i)}</span><h3>{e(t)}</h3><p>{keep_last_words(e(x))}</p></article>''' for i, t, x in values)
 
     info = PAGES['/patient-information/']
     pay = next((plain(text_of(info['blocks'][i + 1])) for i, b in enumerate(info['blocks'])
