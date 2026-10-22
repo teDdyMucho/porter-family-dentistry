@@ -60,11 +60,10 @@
   }
 
   /* ---------- Desktop dropdowns and the services panel ----------
-     Open on hover (with intent delays) and on click; keyboard reaches everything; Escape closes and
-     returns focus to the trigger; an outside click closes. */
+     Open on click (and Enter/Space), never on hover; Escape closes and returns focus to the trigger;
+     an outside click or picking a link closes. */
   var items = $$('.nav__item[data-dropdown]');
-  var openItem = null, openTimer = null, closeTimer = null;
-  var fine = matchMedia('(hover: hover) and (pointer: fine)').matches;
+  var openItem = null;
 
   function setOpen(item, open) {
     var trigger = $('.nav__trigger', item);
@@ -76,20 +75,11 @@
   items.forEach(function (item) {
     var trigger = $('.nav__trigger', item);
     trigger.addEventListener('click', function () { setOpen(item, !item.classList.contains('is-open')); });
-    if (fine) {
-      item.addEventListener('pointerenter', function () {
-        clearTimeout(closeTimer); clearTimeout(openTimer);
-        openTimer = setTimeout(function () { setOpen(item, true); }, 120);
-      });
-      item.addEventListener('pointerleave', function () {
-        clearTimeout(openTimer);
-        closeTimer = setTimeout(function () { setOpen(item, false); }, 220);
-      });
-    }
-    item.addEventListener('focusout', function (e) { if (!item.contains(e.relatedTarget)) setOpen(item, false); });
+    item.addEventListener('click', function (e) { if (e.target.closest('.panel a')) setOpen(item, false); });
+    item.addEventListener('focusout', function (e) { if (e.relatedTarget && !item.contains(e.relatedTarget)) setOpen(item, false); });
   });
   document.addEventListener('click', function (e) { if (openItem && !openItem.contains(e.target)) setOpen(openItem, false); });
-  addEventListener('scroll', function () { if (openItem && !openItem.matches(':hover')) setOpen(openItem, false); }, { passive: true });
+  addEventListener('scroll', function () { if (openItem && scrollY > 400) setOpen(openItem, false); }, { passive: true });
 
   /* ---------- Phone and tablet drawer ---------- */
   var drawer = $('#drawer'), menuBtn = $('.menu-btn');
@@ -127,7 +117,7 @@
       es.forEach(function (e) { e.isIntersecting ? hiddenBy.add(e.target) : hiddenBy.delete(e.target); });
       callBar.classList.toggle('is-hidden', hiddenBy.size > 0);
     });
-    $$('.hero__cta, .closer, .site-footer, .form').forEach(function (el) { io.observe(el); });
+    $$('.hero__cta, .page-head__actions, .closer, .site-footer, .form').forEach(function (el) { io.observe(el); });
   }
 
   /* ---------- Reveal: below-the-fold blocks arrive gently, once ----------
@@ -178,6 +168,55 @@
     player.addEventListener('click', function (e) { if (e.target === player) player.close(); });
     player.addEventListener('close', function () { video.pause(); video.removeAttribute('src'); video.load(); });
   }
+
+  /* ---------- Numbers count up as they arrive ---------- */
+  var counters = $$('[data-count]').filter(function (el) { return !reduced && el.getBoundingClientRect().top > innerHeight * 0.94; });
+  if (counters.length && 'IntersectionObserver' in window) {
+    var countIO = new IntersectionObserver(function (es) {
+      es.forEach(function (en) {
+        if (!en.isIntersecting) return;
+        countIO.unobserve(en.target);
+        var el = en.target, to = Number(el.getAttribute('data-count')), t0 = performance.now(), dur = 1600;
+        (function tick(now) {
+          var k = Math.min((now - t0) / dur, 1), eased = 1 - Math.pow(1 - k, 4);
+          el.textContent = String(Math.round(to * eased));
+          if (k < 1) requestAnimationFrame(tick); else el.textContent = String(to);
+        })(t0);
+      });
+    }, { rootMargin: '0px 0px -10% 0px' });
+    counters.forEach(function (el) { el.textContent = '0'; countIO.observe(el); });
+  }
+
+  /* ---------- The closing headline: words rise out of a mask, once ---------- */
+  var heads = $$('[data-words]').filter(function (el) { return !reduced && el.getBoundingClientRect().top > innerHeight * 0.94; });
+  if (heads.length && 'IntersectionObserver' in window) {
+    heads.forEach(function (el) {
+      var text = el.textContent.trim();
+      el.setAttribute('aria-label', text);
+      el.innerHTML = text.split(/\s+/).map(function (w, i) {
+        return '<span class="w" aria-hidden="true" style="--i:' + i + '"><i>' + w.replace(/[&<>]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]; }) + '</i></span>';
+      }).join(' ');
+    });
+    var wordsIO = new IntersectionObserver(function (es) {
+      es.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add('words-in'); wordsIO.unobserve(en.target); } });
+    }, { rootMargin: '0px 0px -12% 0px' });
+    heads.forEach(function (el) { wordsIO.observe(el); });
+  }
+
+  /* ---------- Embedded maps and calculators: a ring while the keyboard is inside ----------
+     Focus inside another site's frame never reaches :focus-within, so the frame's box is marked
+     when a Tab carries focus into it, and unmarked when focus comes back to the page. */
+  var tabbedAt = 0;
+  addEventListener('keydown', function (e) { if (e.key === 'Tab') tabbedAt = Date.now(); });
+  addEventListener('blur', function () {
+    setTimeout(function () {
+      var frame = document.activeElement;
+      if (!frame || frame.tagName !== 'IFRAME' || Date.now() - tabbedAt > 400) return;
+      var box = frame.closest('.map, .embed');
+      if (box) box.classList.add('is-focused');
+    });
+  });
+  addEventListener('focus', function () { $$('.map.is-focused, .embed.is-focused').forEach(function (el) { el.classList.remove('is-focused'); }); });
 
   /* ---------- Forms: errors in words, under the field ---------- */
   $$('form[data-form]').forEach(function (form) {

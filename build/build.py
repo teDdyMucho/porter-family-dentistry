@@ -23,7 +23,6 @@ from house_text import house_text  # noqa: E402
 
 SITE = ROOT / 'site'
 IMG = SITE / 'assets' / 'img'
-GS_LOCKUP = Path.home() / '.claude/skills/website-builder/assets/ground-standard/ground-standard-agency-lockup-dark.png'
 YEAR = date.today().year
 e = lambda s: html.escape(str(s), quote=True)  # noqa: E731
 
@@ -51,6 +50,16 @@ _I = {
     'smile': '<circle cx="12" cy="12" r="9"/><path d="M8.5 14.5a4.5 4.5 0 0 0 7 0M9 9.5v.01M15 9.5v.01"/>',
     'tooth': '<path d="M7.5 3.5c1.6 0 2.7 1 4.5 1s2.9-1 4.5-1c2.6 0 4 2.3 3.5 5.2-.4 2.2-1.4 3.6-1.8 6-.4 2.6-1 5.8-2.6 5.8-1.9 0-1.6-5.3-3.6-5.3s-1.7 5.3-3.6 5.3c-1.6 0-2.2-3.2-2.6-5.8-.4-2.4-1.4-3.8-1.8-6-.5-2.9.9-5.2 3.6-5.2z"/>',
     'play': '<circle cx="12" cy="12" r="9"/><path d="M10 8.5l5 3.5-5 3.5z"/>',
+    'brush': '<path d="M3.5 20.5 12 12"/><path d="M11 9l4 4 5.5-5.5-4-4z"/><path d="M14 5.5l1 1M16 7.5l1 1M18 9.5l1 1"/>',
+    'sparkle': '<path d="M12 3.5l1.6 4.4 4.4 1.6-4.4 1.6L12 15.5l-1.6-4.4L6 9.5l4.4-1.6z"/><path d="M18.5 15.5l.7 1.8 1.8.7-1.8.7-.7 1.8-.7-1.8-1.8-.7 1.8-.7z"/>',
+    'root': '<path d="M7.5 3.5c1.6 0 2.7 1 4.5 1s2.9-1 4.5-1c2.6 0 4 2.3 3.5 5.2-.4 2.2-1.4 3.6-1.8 6-.4 2.6-1 5.8-2.6 5.8-1.9 0-1.6-5.3-3.6-5.3s-1.7 5.3-3.6 5.3c-1.6 0-2.2-3.2-2.6-5.8-.4-2.4-1.4-3.8-1.8-6-.5-2.9.9-5.2 3.6-5.2z"/><path d="M10 9.5v4.5M14 9.5v4.5"/>',
+    'gum': '<path d="M3.5 8.5c1.4 1.4 2.9 2 4.3 2s2.8-.6 4.2-2c1.4 1.4 2.8 2 4.2 2s2.9-.6 4.3-2"/><path d="M6.5 12.5v4c0 1.7 1 3 2.3 3s2-1.2 2.4-3c.2-.8.5-1.2.8-1.2s.6.4.8 1.2c.4 1.8 1.1 3 2.4 3s2.3-1.3 2.3-3v-4"/>',
+    'crown': '<path d="M4 17.5 5.5 8l4.5 4 2-6.5 2 6.5 4.5-4 1.5 9.5z"/><path d="M4 20.5h16"/>',
+    'fill': '<path d="M7.5 3.5c1.6 0 2.7 1 4.5 1s2.9-1 4.5-1c2.6 0 4 2.3 3.5 5.2-.4 2.2-1.4 3.6-1.8 6-.4 2.6-1 5.8-2.6 5.8-1.9 0-1.6-5.3-3.6-5.3s-1.7 5.3-3.6 5.3c-1.6 0-2.2-3.2-2.6-5.8-.4-2.4-1.4-3.8-1.8-6-.5-2.9.9-5.2 3.6-5.2z"/><circle cx="12" cy="9" r="2"/>',
+    'extract': '<path d="M12 2.5v5M9.5 5 12 2.5 14.5 5"/><path d="M8 11c1.2 0 2 .7 4 .7s2.8-.7 4-.7c2 0 3 1.7 2.6 3.9-.6 3-1.6 6.6-3 6.6-1.4 0-1.3-3.4-3.6-3.4s-2.2 3.4-3.6 3.4c-1.4 0-2.4-3.6-3-6.6C5 12.7 6 11 8 11z"/>',
+    'denture': '<path d="M3.5 9.5c0 5.5 3.8 10 8.5 10s8.5-4.5 8.5-10"/><path d="M3.5 9.5h17"/><path d="M8 9.5v3.5M12 9.5v4.5M16 9.5v3.5"/>',
+    'grid': '<rect x="4" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.5"/>',
+    'up': '<path d="M12 19V5M6 11l6-6 6 6"/>',
     'star': '<path d="M12 3.5l2.6 5.4 5.9.8-4.3 4.1 1 5.8L12 16.8l-5.2 2.8 1-5.8-4.3-4.1 5.9-.8z" fill="currentColor"/>',
     'facebook': '<path d="M14 21v-7.5h2.5L17 10.5h-3V8.7c0-.9.3-1.5 1.6-1.5H17V4.6A20 20 0 0 0 14.8 4.5C12.6 4.5 11 5.9 11 8.3v2.2H8.5v3H11V21"/>',
     'google': '<path d="M19.5 12.2h-7.3M19.5 12.2a7.5 7.5 0 1 1-2.2-5.5"/>',
@@ -61,6 +70,35 @@ def icon(name, cls=''):
     classes = ('i ' + cls).strip()
     return (f'<svg class="{classes}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" '
             f'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">{_I[name]}</svg>')
+
+
+# One icon per specialty (a page inherits its category's icon)
+CATEGORY_ICON = {'/our-services/cleanings-prevention/': 'brush', '/our-services/cosmetic-dentistry/': 'sparkle',
+                 '/our-services/dental-anxiety-and-fear/': 'heart', '/our-services/dental-emergencies/': 'alert',
+                 '/our-services/endodontics/': 'root', '/our-services/periodontics/': 'gum',
+                 '/our-services/prosthodontics/': 'crown', '/our-services/restorations/': 'fill'}
+PAGE_ICON = {'/our-services/cleanings-prevention/simple-tooth-extractions/': 'extract',
+             '/our-services/cosmetic-dentistry/dentures-partial-dentures/': 'denture',
+             '/our-services/prosthodontics/dentures-partial-dentures/': 'denture',
+             '/our-services/cosmetic-dentistry/teeth-whitening/': 'sparkle',
+             '/our-services/cosmetic-dentistry/composite-fillings/': 'fill',
+             '/our-services/restorations/composite-fillings/': 'fill',
+             '/our-services/restorations/crowns-caps/': 'crown',
+             '/our-services/cosmetic-dentistry/porcelain-crowns-caps/': 'crown',
+             '/our-services/': 'grid'}
+
+
+def icon_for(path):
+    if path in PAGE_ICON:
+        return PAGE_ICON[path]
+    for cat, name in CATEGORY_ICON.items():
+        if path.startswith(cat):
+            return name
+    return 'tooth'
+
+
+def short(text, limit=64):
+    return text if len(text) <= limit else text[:limit].rsplit(' ', 1)[0].rstrip(',;:') + '\u2026'
 
 
 # ---------- Images: copy what the pages use, crop the hero arches ----------
@@ -89,12 +127,19 @@ def size(url):
     return USED.get(Path(url).name, (None, None))
 
 
-def crop(local_file, out_name, ratio, focus, width):
+def crop(local_file, out_name, ratio, focus, width, zoom=1.0):
     """A portrait crop of a harvested photo for an arched frame (ratio = w/h)."""
     src = HARVEST / 'images' / Path(local_file).name
-    im = ImageOps.exif_transpose(Image.open(src)).convert('RGB')
+    im = ImageOps.exif_transpose(Image.open(src))
+    if im.mode in ('P', 'LA', 'RGBA') or 'transparency' in im.info:
+        rgba = im.convert('RGBA')                      # transparent PNGs go onto white, not black
+        im = Image.new('RGB', rgba.size, (255, 255, 255))
+        im.paste(rgba, mask=rgba.getchannel('A'))
+    else:
+        im = im.convert('RGB')
     W, H = im.size
     cw, ch = (round(H * ratio), H) if W / H > ratio else (W, round(W / ratio))
+    cw, ch = round(cw / zoom), round(ch / zoom)       # zoom > 1 crops tighter around the focus
     x = min(max(round(focus[0] * W - cw / 2), 0), W - cw)
     y = min(max(round(focus[1] * H - ch / 2), 0), H - ch)
     im = im.crop((x, y, x + cw, y + ch))
@@ -221,16 +266,24 @@ def nav_dropdown(top, current, label=None, extra=None):
 
 
 def nav_services(current):
-    cols = []
+    items = []
     for c in CATEGORIES:
-        kids = ''.join(f'<li><a href="{k["href"]}">{e(k["label"])}</a></li>' for k in c['children'])
-        cols.append(f'<div class="mega__col"><h3><a href="{c["href"]}">{e(c["label"])}</a></h3>{f"<ul>{kids}</ul>" if kids else ""}</div>')
+        desc = short(first_sentence(PAGES[c['href']], 200)) if c['href'] in PAGES else ''
+        items.append(f'''<a class="mega__item" href="{c['href']}">
+            <span class="mega__icon">{icon(icon_for(c['href']))}</span>
+            <span class="mega__text"><span class="mega__title">{e(c['label'])}</span><span class="mega__desc">{e(desc)}</span></span>
+          </a>''')
+    photo = crop('hero-slide3_cover3_stock-family.jpg', 'mega-family.jpg', 4 / 3, (.72, .5), 640)
     cur = ' is-current' if current == SERVICES['href'] else ''
     return f'''<li class="nav__item{cur}" data-dropdown>
         <button class="nav__trigger" type="button" aria-expanded="false" aria-controls="panel-services">Our Services{icon('down')}</button>
         <div class="panel panel--mega" id="panel-services">
-          <div class="mega">{''.join(cols)}</div>
-          <div class="mega__foot"><p>Not sure what you need? We'll talk it through.</p><a class="link" href="{SERVICES['href']}">All services {icon('arrow')}</a></div>
+          <div class="mega">{''.join(items)}</div>
+          <div class="mega__feature">
+            <div class="frame">{img(photo, '')}</div>
+            <p>Get treated like family at our unique dental practice.</p>
+            <a class="link" href="{SERVICES['href']}">All services {icon('arrow')}</a>
+          </div>
         </div>
       </li>'''
 
@@ -287,7 +340,7 @@ def drawer():
 
 def hours_table():
     rows = ''.join(f'<tr data-day="{WEEKDAY[d]}"><th scope="row">{d}</th><td>{e(t)}</td></tr>' for d, t, _ in FACTS['hours'])
-    return f'<table class="hours"><caption class="sr-only">Consultation hours</caption><tbody>{rows}</tbody></table>'
+    return f'<table class="hours" aria-label="Consultation hours"><tbody>{rows}</tbody></table>'
 
 
 def footer():
@@ -317,11 +370,8 @@ def footer():
       </div>
     </div>
     <div class="footer__bar">
-      <p>© {YEAR} {e(f['legal'])}. {e(f['emergency'])}</p>
-      <a class="gs-credit" href="https://www.groundstandard.com">
-        <span>Backed by</span>
-        <img src="/assets/img/ground-standard-agency-lockup-dark.png" alt="Ground Standard Agency" width="1920" height="197" loading="lazy">
-      </a>
+      <p>© {YEAR} {e(f['legal'].rstrip('.'))}. {e(f['emergency'])}</p>
+      <a class="link" href="#main">Back to top {icon('up')}</a>
     </div>
   </div>
 </footer>
@@ -400,10 +450,46 @@ def shell(page_path, title, description, body, current, extra_ld=(), og_image='/
 
 
 # ---------- Block rendering ----------
+def keep_last_words(html, words=3, limit=27):
+    """Bind a block's last words with no-break spaces so its last line never holds one or two words alone.
+
+    Only text after the last <br> is touched, never a tag. A run longer than `limit` characters binds
+    fewer words, so it still fits a phone's line."""
+    parts = re.split(r'(<[^>]+>)', html)
+    flat, where = [], []
+    for i in range(len(parts) - 1, -1, -1):
+        part = parts[i]
+        if part.startswith('<'):
+            if part[:3].lower() == '<br':
+                break
+            continue
+        for j in range(len(part) - 1, -1, -1):
+            flat.append(part[j])
+            where.append((i, j))
+    flat.reverse()
+    where.reverse()
+    found = list(re.finditer(r'\S+', ''.join(flat)))
+    if len(found) < words:
+        return html
+    edits = {}
+    for n in range(words, 1, -1):
+        tail = found[-n:]
+        if tail[-1].end() - tail[0].start() <= limit:
+            for a, b in zip(tail, tail[1:]):
+                for k in range(a.end(), b.start()):
+                    edits[where[k]] = '\u00a0' if k == a.end() else ''
+            break
+    if not edits:
+        return html
+    for i in {i for i, _ in edits}:
+        parts[i] = ''.join(edits.get((i, j), c) for j, c in enumerate(parts[i]))
+    return ''.join(parts)
+
+
 def render_list(b, tag):
     out = []
     for it in b.get('items', []):
-        inner = md_inline(text_of(it))
+        inner = keep_last_words(md_inline(text_of(it)))
         kids = it.get('children') or it.get('items')
         if kids:
             inner += render_list({'items': kids}, tag)
@@ -422,14 +508,14 @@ def render_blocks(blocks, skip_heading=True):
             if b.get('text', '').strip():
                 out.append(f'<{t}>{md_inline(text_of(b))}</{t}>')
         elif t == 'p':
-            s = md_inline(text_of(b))
+            s = keep_last_words(md_inline(text_of(b)))
             if s:
                 out.append(f'<p>{s}</p>')
         elif t in ('ul', 'ol'):
             if b.get('items'):
                 out.append(render_list(b, t))
         elif t == 'blockquote':
-            out.append(f'<blockquote>{md_inline(text_of(b))}</blockquote>')
+            out.append(f'<blockquote>{keep_last_words(md_inline(text_of(b)))}</blockquote>')
         elif t == 'img' and b.get('localFile'):
             src = asset(b['localFile'])
             tag = img(src, b.get('alt') or BADGE_ALT.get(Path(b['localFile']).name, ''))
@@ -475,15 +561,20 @@ def page_head(page, title, lead=None):
                   for i, (t, h) in enumerate(crumbs))
     banner = (page.get('hero') or {}).get('banner') or {}
     ban = asset(banner.get('localFile')) if banner.get('localFile') else None
-    band = f'<div class="wrap"><div class="transom">{img(ban, "", lazy=False)}</div></div>' if ban else ''
-    return f'''<section class="page-head">
-  <div class="aurora" aria-hidden="true"><span></span><span></span><span></span></div>
-  <div class="wrap">
+    media = (f'<div class="page-head__media" aria-hidden="true">{img(ban, "", lazy=False)}</div>'
+             '<div class="page-head__scrim" aria-hidden="true"></div>') if ban else ''
+    lead_html = f'<p class="lead">{lead}</p>' if lead else ''
+    return f'''<section class="page-head{' page-head--photo' if ban else ''}">
+  {media}
+  <div class="wrap page-head__inner">
     <nav aria-label="Breadcrumb"><ol class="crumbs">{lis}</ol></nav>
     <h1>{e(title)}</h1>
-    {f'<p class="lead">{lead}</p>' if lead else ''}
+    {lead_html}
+    <p class="page-head__actions">
+      <a class="btn btn--primary btn--sm" href="/appointment-request/">{icon('calendar')}Request an Appointment</a>
+      <a class="btn btn--ghost btn--sm" href="tel:{FACTS['tel']}">{icon('phone')}{e(FACTS['phone'])}</a>
+    </p>
   </div>
-  {band}
 </section>'''
 
 
@@ -519,15 +610,19 @@ def aside(page):
 
 def closer(title='The first step towards a beautiful, healthy smile is to schedule an appointment.',
            text='Please contact our office by phone or complete an online appointment request. Our scheduling coordinator will contact you to confirm your appointment.'):
-    return f'''<section class="section">
+    photo = crop('unused_carecredit_footer-cta-bg-3_stock-couple.jpg', 'closer-couple.jpg', 3 / 3.6, (.5, .45), 520)
+    return f'''<section class="section section--closer">
   <div class="wrap">
-    <div class="closer" data-reveal>
-      <h2>{e(title)}</h2>
-      <p>{e(text)}</p>
-      <div class="closer__cta">
-        <a class="btn btn--primary" href="/appointment-request/">{icon('calendar')}Request an Appointment</a>
-        <a class="btn btn--ghost" href="tel:{FACTS['tel']}">{icon('phone')}Call {e(FACTS['phone'])}</a>
+    <div class="closer">
+      <div class="closer__copy">
+        <h2 data-words>{e(title)}</h2>
+        <p data-reveal>{e(text)}</p>
+        <div class="closer__cta" data-reveal>
+          <a class="btn btn--primary" href="/appointment-request/">{icon('calendar')}Request an Appointment</a>
+          <a class="btn btn--ghost" href="tel:{FACTS['tel']}">{icon('phone')}Call {e(FACTS['phone'])}</a>
+        </div>
       </div>
+      <div class="frame frame--arch closer__photo" data-reveal>{img(photo, '')}</div>
     </div>
   </div>
 </section>'''
@@ -558,7 +653,7 @@ def quote_cards(items):
     cards = []
     for q, who in items:
         cards.append(f'''<figure class="quote-card" data-reveal>
-        <blockquote>{e(q)}</blockquote>
+        <blockquote>{keep_last_words(e(q), limit=24)}</blockquote>
         <figcaption>{e(who)}</figcaption>
       </figure>''')
     return '<div class="quotes">' + ''.join(cards) + '</div>'
@@ -578,18 +673,31 @@ def article_page(page):
     kids_html = ''
     if kids:
         cards = ''.join(f'''<article class="card" data-reveal>
-          <span class="card__icon">{icon('tooth')}</span>
+          <span class="card__icon">{icon(icon_for(k['href']))}</span>
           <h3><a class="card__link" href="{k['href']}">{e(k['label'])}</a></h3>
           <p>{e(first_sentence(PAGES[k['href']]) if k['href'] in PAGES else '')}</p>
           <span class="card__more">Read more {icon('arrow')}</span>
         </article>''' for k in kids)
         kids_html = f'<div class="grid kids" style="--cols:2">{cards}</div>'
+    related = ''
+    par = PARENT.get(page['path'])
+    cat = next((c for c in CATEGORIES if c['href'] == par), None)
+    if cat and not kids:
+        sibs = [k for k in cat['children'] if k['href'] != page['path'] and k['href'] in PAGES][:3]
+        if sibs:
+            cards = ''.join(f'''<article class="card card--compact" data-reveal>
+              <span class="card__icon">{icon(icon_for(k['href']))}</span>
+              <h3><a class="card__link" href="{k['href']}">{e(k['label'])}</a></h3>
+              <p>{e(short(first_sentence(PAGES[k['href']], 200), 110))}</p>
+            </article>''' for k in sibs)
+            related = f'''<div class="related"><h2 class="h3">More in {e(cat['label'])}</h2><div class="grid" style="--cols:3">{cards}</div></div>'''
     body = f'''{page_head(page, title)}
 <section class="section">
   <div class="wrap article">
     <div>
       <div class="prose">{blocks}</div>
       {kids_html}
+      {related}
     </div>
     {aside(page)}
   </div>
@@ -610,7 +718,7 @@ def services_hub(page):
         kids = ''.join(f'<li><a href="{k["href"]}">{e(k["label"])}</a></li>' for k in c['children'])
         lead = first_sentence(PAGES[c['href']], 130) if c['href'] in PAGES else ''
         cards.append(f'''<article class="card cat" data-reveal>
-          <span class="card__icon">{icon('tooth')}</span>
+          <span class="card__icon">{icon(icon_for(c['href']))}</span>
           <h3><a href="{c['href']}">{e(c['label'])}</a></h3>
           <p>{e(lead)}</p>
           {f'<ul class="cat__list" role="list">{kids}</ul>' if kids else f'<a class="link" href="{c["href"]}">Read more {icon("arrow")}</a>'}
@@ -644,7 +752,7 @@ def team_page(page):
         elif cur and b['type'] in ('h3', 'h4'):
             cur['role'] = b['text']
         elif cur and b['type'] == 'p':
-            cur['bio'].append(md_inline(text_of(b)))
+            cur['bio'].append(keep_last_words(md_inline(text_of(b))))
     head = next(b for b in bl if b['type'] == 'img' and 'headshot' in (b.get('localFile') or ''))
     people[0]['photo'] = asset(head['localFile'])
     gsrc = asset(group['localFile'])
@@ -665,7 +773,7 @@ def team_page(page):
   <div class="wrap">
     <div class="split">
       <div class="frame frame--wide" data-reveal>{img(gsrc, 'The Porter Family Dentistry team')}</div>
-      <div class="split__copy"><p class="lead">{md_inline(text_of(intro))}</p></div>
+      <div class="split__copy"><p class="lead">{keep_last_words(md_inline(text_of(intro)))}</p></div>
     </div>
   </div>
 </section>
@@ -738,13 +846,13 @@ def videos_page(page):
                 thumb = (it.get('media') or [{}])[0].get('localFile')
                 cur['items'].append((it['text'], link, asset(thumb) if thumb else None))
         elif b['type'] == 'p' and groups:
-            groups[-1].setdefault('after', []).append(md_inline(text_of(b)))
+            groups[-1].setdefault('after', []).append(keep_last_words(md_inline(text_of(b))))
     secs = []
     for g in groups:
         cards = ''.join(f'''<li><button class="video" type="button" data-video="{e(src)}" data-title="{e(t)}">
             <span class="video__thumb">{img(th, '') if th else ''}<span class="video__play">{icon('play')}</span></span>
             <span class="video__title">{e(t)}</span></button></li>''' for t, src, th in g['items'] if src)
-        secs.append(f'<section class="video-group" data-reveal><h2>{e(g["title"])}</h2><ul class="videos" role="list">{cards}</ul></section>')
+        secs.append(f'<div class="video-group" data-reveal><h2>{e(g["title"])}</h2><ul class="videos" role="list">{cards}</ul></div>')
     body = f'''{page_head(page, heading_of(page))}
 <section class="section">
   <div class="wrap">
@@ -906,7 +1014,7 @@ def home_page(page):
         target = PAGES.get(href)
         desc = first_sentence(target, 120) if target and href != '/our-services/' else 'Endodontics, periodontics, prosthodontics, restorations and more.'
         cards.append(f'''<article class="card" data-reveal>
-          <span class="card__icon">{icon('tooth')}</span>
+          <span class="card__icon">{icon(icon_for(href))}</span>
           <h3><a class="card__link" href="{href}">{e(label)}</a></h3>
           <p>{e(desc)}</p>
           <span class="card__more">Learn more {icon('arrow')}</span>
@@ -914,7 +1022,7 @@ def home_page(page):
 
     team = PAGES['/our-practice/meet-the-team/']
     bio = [b for b in team['blocks'] if b['type'] == 'p']
-    dr = [md_inline(text_of(b)) for b in bio if 'Dr. Porter' in b.get('text', '') or 'David L. Porter received' in b.get('text', '')]
+    dr = [keep_last_words(md_inline(text_of(b))) for b in bio if 'Dr. Porter' in b.get('text', '') or 'David L. Porter received' in b.get('text', '')]
     practice = PAGES['/our-practice/']
     pb = practice['blocks']
 
@@ -927,7 +1035,7 @@ def home_page(page):
               ('smile', 'A Positive Experience', practice_section('A Positive Experience')),
               ('shield', 'Uncompromising Safety', practice_section('Uncompromising Safety'))]
     value_cards = ''.join(f'''<article class="value" data-reveal>
-        <span class="card__icon">{icon(i)}</span><h3>{e(t)}</h3><p>{e(x)}</p></article>''' for i, t, x in values)
+        <span class="card__icon">{icon(i)}</span><h3>{e(t)}</h3><p>{keep_last_words(e(x), limit=24)}</p></article>''' for i, t, x in values)
 
     info = PAGES['/patient-information/']
     pay = next((plain(text_of(info['blocks'][i + 1])) for i, b in enumerate(info['blocks'])
@@ -938,6 +1046,19 @@ def home_page(page):
                                                                  ('badge_card_discover.png', 'Discover'), ('badge_card_amex.png', 'American Express')])
     cc = img(asset('images/badge_carecredit-logo.png'), 'CareCredit')
     areas = ''.join(f'<li>{e(a)}</li>' for a in f['areas'])
+    bg_paper = asset('images/bg_cover-content_beige-texture.jpg')
+    bg_office = asset('images/carecredit_bg2_blurred-operatory.jpg')
+    bg_blossom = asset('images/bg_cover-testimonial_wood-blossoms.jpg')
+    cc_photo = crop('carecredit_bg1b_stock-woman.png', 'carecredit-smile.jpg', 3 / 3.4, (.5, .3), 520, zoom=1.55)
+    team_photo = asset('images/team_group-photo_10-staff.png')
+
+    def layer(src, cls=''):
+        return f'<div class="bg-layer {cls}" aria-hidden="true"><img src="{src}" alt="" loading="lazy"></div>'
+    seal = '''<div class="seal" aria-hidden="true"><svg viewBox="0 0 140 140">
+        <defs><path id="sealPath" d="M70,70 m-54,0 a54,54 0 1,1 108,0 a54,54 0 1,1 -108,0"/></defs>
+        <text class="seal__ring"><textPath href="#sealPath">PORTER FAMILY DENTISTRY · LA PORTE, INDIANA ·</textPath></text>
+        <text class="seal__est" x="70" y="62" text-anchor="middle">EST.</text>
+        <text class="seal__year" x="70" y="88" text-anchor="middle">1980</text></svg></div>'''
 
     body = f'''<section class="hero">
   <div class="aurora" aria-hidden="true"><span></span><span></span><span></span></div>
@@ -950,33 +1071,35 @@ def home_page(page):
         <a class="btn btn--primary" href="/appointment-request/">{icon('calendar')}Request an Appointment</a>
         <a class="btn btn--ghost" href="tel:{f['tel']}">{icon('phone')}Call {e(f['phone'])}</a>
       </div>
-      <p class="hero__facts">
-        <span data-status>{icon('clock')}<span data-status-text>Consultation hours below</span></span>
-        <span>{icon('pin')}{e(f['street'])}, {e(f['city'])}</span>
-        <span>{icon('alert')}{e(f['emergency'])}</span>
-      </p>
+      <ul class="hero__facts" role="list">
+        <li data-status>{icon('clock')}<span data-status-text>Consultation hours below</span></li>
+        <li>{icon('pin')}<span>{e(f['street'])}, {e(f['city'])}</span></li>
+        <li>{icon('alert')}<span>{e(f['emergency'])}</span></li>
+      </ul>
     </div>
-    <div class="arches" aria-hidden="false">{arch_html}</div>
+    <div class="arches">{arch_html}</div>
+    {seal}
   </div>
 </section>
 
 <section class="proof" aria-label="At a glance">
   <div class="wrap proof__list">
     <div data-reveal><strong>{f['founded']}</strong><span>Dr. Porter opened his office</span></div>
-    <div data-reveal><strong>177</strong><span>years of combined staff experience</span></div>
+    <div data-reveal><strong data-count="177">177</strong><span>years of combined staff experience</span></div>
     <div data-reveal><strong>24/7</strong><span>emergency services available</span></div>
-    <div data-reveal><strong>{len(f['areas'])}</strong><span>communities in our service area</span></div>
+    <div data-reveal><strong data-count="{len(f['areas'])}">{len(f['areas'])}</strong><span>communities in our service area</span></div>
   </div>
 </section>
 
-<section class="section">
+<section class="section has-layer">
+  {layer(bg_paper, 'bg-layer--paper')}
   <div class="wrap">
     <div class="split split--top">
       <header class="head">
         <p class="eyebrow">Welcome</p>
         <h2>Comfort that goes beyond pain‑free dentistry</h2>
       </header>
-      <div class="prose welcome">{''.join(f'<p>{md_inline(text_of(b))}</p>' for b in paras[:2])}</div>
+      <div class="prose welcome">{''.join(f'<p>{keep_last_words(md_inline(text_of(b)))}</p>' for b in paras[:2])}</div>
     </div>
     <div class="grid services" style="--cols:3">{''.join(cards)}</div>
   </div>
@@ -984,7 +1107,10 @@ def home_page(page):
 
 <section class="section room--linen">
   <div class="wrap split">
-    <div class="frame frame--arch portrait" data-reveal>{img(asset('images/team_dr-david-l-porter_headshot.jpg'), 'Dr. David L. Porter')}</div>
+    <div class="duo" data-reveal>
+      <div class="frame frame--arch portrait">{img(asset('images/team_dr-david-l-porter_headshot.jpg'), 'Dr. David L. Porter')}</div>
+      <figure class="duo__team frame">{img(team_photo, 'The Porter Family Dentistry team')}</figure>
+    </div>
     <div class="split__copy" data-reveal>
       <p class="eyebrow">Meet the dentist</p>
       <h2>Dr. David L. Porter</h2>
@@ -994,7 +1120,8 @@ def home_page(page):
   </div>
 </section>
 
-<section class="section">
+<section class="section has-layer">
+  {layer(bg_office, 'bg-layer--office')}
   <div class="wrap">
     <header class="head head--row">
       <div><p class="eyebrow">Our Practice</p><h2>Our philosophy is to care for you like family</h2></div>
@@ -1004,7 +1131,8 @@ def home_page(page):
   </div>
 </section>
 
-<section class="section room--sage">
+<section class="section room--sage has-layer">
+  {layer(bg_blossom, 'bg-layer--blossom')}
   <div class="wrap">
     <header class="head head--row">
       <div><p class="eyebrow">Testimonials</p><h2>It feels like family</h2></div>
@@ -1019,14 +1147,17 @@ def home_page(page):
     <div class="split__copy" data-reveal>
       <p class="eyebrow">Patient Information</p>
       <h2>Payment options and insurance</h2>
-      <div class="prose"><p>{e(pay)}</p><p>{e(insurance)}</p></div>
+      <div class="prose"><p>{keep_last_words(e(pay))}</p><p>{keep_last_words(e(insurance))}</p></div>
       <div class="badges">{badges}</div>
       <a class="link" href="/patient-information/">Patient information {icon('arrow')}</a>
     </div>
     <div class="carecredit" data-reveal>
+      <div class="frame frame--arch carecredit__photo">{img(cc_photo, '')}</div>
+      <div class="carecredit__body">
       {cc}
       <p>We are pleased to accept the CareCredit healthcare credit card, so you can pay for treatment in convenient monthly payments.</p>
       <a class="btn btn--ghost btn--sm" href="/patient-information/financing/">Financing with CareCredit {icon('arrow')}</a>
+      </div>
     </div>
   </div>
 </section>
@@ -1086,7 +1217,6 @@ def main():
     for p in SITE.glob('**/index.html'):
         p.unlink()
     IMG.mkdir(parents=True, exist_ok=True)
-    shutil.copyfile(GS_LOCKUP, IMG / GS_LOCKUP.name)
     asset('images/icon_favicon_touch-icon_tooth.png')
     harvest_testimonials()
 

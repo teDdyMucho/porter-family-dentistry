@@ -122,6 +122,9 @@ def md_inline(md):
         return f'<a href="{html.escape(href2, quote=True)}"{ext}>{text}</a>'
 
     s = _LINK.sub(link, s)
+    # the old editor left stray marks before a label's colon: ***Teeth polishing****:*** and ***Oral hygiene recommendations**:***
+    s = re.sub(r'\*{3}([^*]+?)\*{2}(?:\*{2})?:\*{3}', r'***\1:***', s)
+    s = re.sub(r'\*\*\*(.+?)\*\*\*', r'<strong><em>\1</em></strong>', s, flags=re.S)
     s = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', s, flags=re.S)
     s = re.sub(r'(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])', r'<em>\1</em>', s, flags=re.S)
     s = re.sub(r' {2,}\n', '<br>', s).replace('\n', '<br>')

@@ -1,7 +1,7 @@
 # Porter Family Dentistry: website
 
 The rebuilt site for **David L. Porter, D.D.S., P.C.** (Porter Family Dentistry, 1112 Indiana Avenue,
-La Porte, IN 46350). It is built with the Ground Standard website builder. Every word and image comes
+La Porte, IN 46350). Every word and image comes
 from the practice's live site (porterfamilydentistry.com), and every page keeps its old URL.
 
 ## Deploy (Vercel)
